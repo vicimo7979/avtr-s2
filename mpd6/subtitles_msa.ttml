@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt ttp:contentProfiles="http://www.w3.org/ns/ttml/profile/imsc1.1/text" xmlns="http://www.w3.org/ns/ttml" xmlns:nttm="http://www.netflix.com/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xml="http://www.w3.org/XML/1998/namespace" ttp:tickRate="10000000" ttp:timeBase="media" xml:lang="ms">
+<head>
+<metadata nttm:schemaVersion="0" nttm:textType="SUBS" nttm:uuid="bf050972-2560-4f18-9658-1550c704edf6"/>
+<styling>
+<initial tts:backgroundColor="transparent" tts:color="white" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:opacity="1.000" tts:origin="10.000% 10.000%" tts:showBackground="whenActive" tts:textAlign="center" tts:textOutline="black 0.300rh" tts:writingMode="lrtb"/>
+<style xml:id="style1" tts:fontWeight="normal"/>
+</styling>
+<layout>
+<region xml:id="region0" tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:origin="10.000% 10.000%"/>
+<region xml:id="region1" tts:backgroundColor="transparent" tts:displayAlign="before" tts:extent="80.000% 80.000%" tts:origin="10.000% 10.000%"/>
+</layout>
+</head>
+<body>
+<div>
+<p xml:id="subtitle1" begin="134166667t" end="160000000t" region="region0"><span style="style1">Apa dah jadi ini? Ada orang serang kita</span><br/><span style="style1">ke?</span></p>
+<p xml:id="subtitle2" begin="160833334t" end="191666667t" region="region0"><span style="style1">Itu Aang! Dia dirasuk Semangat Avatar!</span></p>
+<p xml:id="subtitle3" begin="400000000t" end="409166667t" region="region0"><span style="style1">Kau okey, Aang?</span></p>
+<p xml:id="subtitle4" begin="422083334t" end="438333334t" region="region0"><span style="style1">Kenapa tak halang mereka?</span></p>
+<p xml:id="subtitle5" begin="439166667t" end="452916667t" region="region0"><span style="style1">Aku dah cuba!</span></p>
+<p xml:id="subtitle6" begin="453750000t" end="467083334t" region="region0"><span style="style1">Kau biar mereka culik Appa!</span></p>
+<p xml:id="subtitle7" begin="467916667t" end="502500000t" region="region0"><span style="style1">Aang, sudahlah! Kita pun nyaris tak</span><br/><span style="style1">lepas keluar. Toph dah buat apa termampu.</span></p>
+<p xml:id="subtitle8" begin="503333334t" end="511666667t" region="region0"><span style="style1">Itu tak cukup bagus.</span></p>
+<p xml:id="subtitle9" begin="512500000t" end="525833334t" region="region0"><span style="style1">Dia selamatkan kita.</span></p>
+<p xml:id="subtitle10" begin="526666667t" end="537916667t" region="region0"><span style="style1">Aku tak peduli.</span></p>
+<p xml:id="subtitle11" begin="538750000t" end="564583334t" region="region0"><span style="style1">Raja Tanah boleh bantu kalau dia tahu</span><br/><span style="style1">rancangan kita.</span></p>
+<p xml:id="subtitle12" begin="565416667t" end="587916667t" region="region0"><span style="style1">Cari Appa. Rancangan kita cuma satu saja.</span><br/><span style="style1">Aku tak peduli pasal benda lain.</span></p>
+<p xml:id="subtitle13" begin="588750000t" end="619166667t" region="region0"><span style="style1">Kita akan cari dia. Tapi macam Sokka</span><br/><span style="style1">cakap, peluang kita lebih cerah</span></p>
+<p xml:id="subtitle14" begin="620000000t" end="633333334t" region="region0"><span style="style1">kalau kita hadap Raja.</span></p>
+<p xml:id="subtitle15" begin="654166667t" end="665416667t" region="region0"><span style="style1">Aku nak cari Appa.</span></p>
+<p xml:id="subtitle16" begin="680833334t" end="691666667t" region="region0"><span style="style1">Jangan tunggu aku.</span></p>
+<p xml:id="subtitle17" begin="707083334t" end="715416667t" region="region0"><span style="style1">Aang!</span></p>
+<p xml:id="subtitle18" begin="759583334t" end="772916667t" region="region0"><span style="style1">Jet tak sempat keluar.</span></p>
+<p xml:id="subtitle19" begin="785000000t" end="802500000t" region="region0"><span style="style1">Sebab dialah kami dapat lari.</span></p>
+<p xml:id="subtitle20" begin="811250000t" end="834166667t" region="region0"><span style="style1">Aang betul. Aku patut tahan lagi lama.</span></p>
+<p xml:id="subtitle21" begin="835000000t" end="855416667t" region="region0"><span style="style1">Kau dah buat apa yang termampu.</span></p>
+<p xml:id="subtitle22" begin="1105833334t" end="1175833334t" region="region0"><span style="style1">TAMSILAN DUA NAGA</span></p>
+<p xml:id="subtitle23" begin="1447500000t" end="1455833334t" region="region0"><span style="style1">Appa!</span></p>
+<p xml:id="subtitle24" begin="1639166667t" end="1685416667t" region="region0"><span style="style1">Demam ibarat api perubahan. Kalau kamu</span><br/><span style="style1">bertahan, ia boleh bakar diri lama kamu</span></p>
+<p xml:id="subtitle25" begin="1686250000t" end="1713333334t" region="region0"><span style="style1">dan lahirkan diri yang baru.</span></p>
+<p xml:id="subtitle26" begin="2075833334t" end="2088333334t" region="region0"><span style="style1">Sang Saka Biru…</span></p>
+<p xml:id="subtitle27" begin="2764583334t" end="2802500000t" region="region0"><span style="style1">-Bonda! Tolong, bonda! Kenapa?</span><br/><span style="style1">-Zuko, bangun.</span></p>
+<p xml:id="subtitle28" begin="2803333334t" end="2825833334t" region="region0"><span style="style1">Bangun, kita kena pergi. Bonda</span><br/><span style="style1">sayang kamu sangat.</span></p>
+<p xml:id="subtitle29" begin="2826666667t" end="2840833334t" region="region0"><span style="style1">Jangan! Kejap.</span></p>
+<p xml:id="subtitle30" begin="2845833334t" end="2857083334t" region="region0"><span style="style1">Bonda! Bonda! Bonda!</span></p>
+<p xml:id="subtitle31" begin="2857916667t" end="2884583334t" region="region0"><span style="style1">Bangun, bangun. Saya tak nak awak</span><br/><span style="style1">buat mereka jadi raksasa.</span></p>
+<p xml:id="subtitle32" begin="2885416667t" end="2912500000t" region="region0"><span style="style1">Tak. Cukup! Cukup! Cukup!</span></p>
+<p xml:id="subtitle33" begin="2925000000t" end="2947500000t" region="region0"><span style="style1">Tolong. Tolong hentikan! Cukuplah!</span></p>
+<p xml:id="subtitle34" begin="2948333334t" end="2974166667t" region="region0"><span style="style1">Itu apa yang dinda rasa? Kanda zalim?</span></p>
+<p xml:id="subtitle35" begin="2996250000t" end="3025000000t" region="region0"><span style="style1">Tolonglah, bonda. Mana ayahanda? Mana</span><br/><span style="style1">ayahanda?</span></p>
+<p xml:id="subtitle36" begin="3025833334t" end="3065000000t" region="region0"><span style="style1">Janji dengan bonda walau apa pun, jangan</span><br/><span style="style1">berpisah. Ingat diri kamu siapa.</span></p>
+<p xml:id="subtitle37" begin="3065833334t" end="3088750000t" region="region0"><span style="style1">Lagi sekali. Bawa kami keluar! Tidak!</span></p>
+<p xml:id="subtitle38" begin="3098333334t" end="3119583334t" region="region0"><span style="style1">-Bonda sayang kamu sangat.</span><br/><span style="style1">-Bonda!</span></p>
+<p xml:id="subtitle39" begin="3120416667t" end="3154583334t" region="region0"><span style="style1">-Bonda!</span><br/><span style="style1">-Ingat diri kamu siapa.</span></p>
+<p xml:id="subtitle40" begin="3168750000t" end="3205000000t" region="region0"><span style="style1">-Dia dah tak ada, Zuko. Dia tak penting.</span><br/><span style="style1">-Dia dah tak ada, Zuko. Dia tak penting.</span></p>
+<p xml:id="subtitle41" begin="3205833334t" end="3251250000t" region="region1"><span style="style1">-Tak pernah penting. Kau tak penting.</span><br/><span style="style1">-Tak pernah penting. Kau tak penting.</span></p>
+<p xml:id="subtitle42" begin="3434583334t" end="3442916667t" region="region0"><span style="style1">Zuzu.</span></p>
+<p xml:id="subtitle43" begin="3467083334t" end="3483333334t" region="region0"><span style="style1">Dia mengelak konflik.</span></p>
+<p xml:id="subtitle44" begin="3499583334t" end="3533333334t" region="region0"><span style="style1">Kanda kena bagi dia peluang. Kanda</span><br/><span style="style1">kena pupuk gerak hati dia.</span></p>
+<p xml:id="subtitle45" begin="3534166667t" end="3552500000t" region="region0"><span style="style1">Zuko tak kuat.</span></p>
+<p xml:id="subtitle46" begin="3562500000t" end="3595416667t" region="region0"><span style="style1">Dia cuma nak tolong orang. Dia nak</span><br/><span style="style1">keamanan, keadilan.</span></p>
+<p xml:id="subtitle47" begin="3600416667t" end="3644166667t" region="region0"><span style="style1">Ada takdir lebih besar menanti anak-anak</span><br/><span style="style1">kita yang dinda tak dapat bayangkan.</span></p>
+<p xml:id="subtitle48" begin="3645000000t" end="3670000000t" region="region0"><span style="style1">Mereka panggil pelindung mereka Sang Saka</span><br/><span style="style1">Biru.</span></p>
+<p xml:id="subtitle49" begin="3670833334t" end="3700416667t" region="region0"><span style="style1">Kalau anak lelaki kita enggan nak</span><br/><span style="style1">ajar adik dia, adik dia yang</span></p>
+<p xml:id="subtitle50" begin="3701250000t" end="3715416667t" region="region0"><span style="style1">ambil tempatnya.</span></p>
+<p xml:id="subtitle51" begin="3716250000t" end="3724583334t" region="region0"><span style="style1">Zuzu…</span></p>
+<p xml:id="subtitle52" begin="3747916667t" end="3775000000t" region="region0"><span style="style1">Pertarungan, setelah bermula, hanya tamat</span></p>
+<p xml:id="subtitle53" begin="3775833334t" end="3811250000t" region="region0"><span style="style1">-bila ada pemenang dan yang kalah.</span><br/><span style="style1">-Cuma mereka yang berani…</span></p>
+<p xml:id="subtitle54" begin="3817500000t" end="3842916667t" region="region0"><span style="style1">Dia boleh dilentur. Dia boleh dibetulkan.</span></p>
+<p xml:id="subtitle55" begin="3851666667t" end="3860000000t" region="region0"><span style="style1">Cukup!</span></p>
+<p xml:id="subtitle56" begin="3860833334t" end="3882500000t" region="region0"><span style="style1">Kamu keturunan pahlawan perkasa.</span></p>
+<p xml:id="subtitle57" begin="3915000000t" end="3923333334t" region="region0"><span style="style1">Dia yang…</span></p>
+<p xml:id="subtitle58" begin="3957500000t" end="3973333334t" region="region0"><span style="style1">Iroh yang bakal naik takhta.</span></p>
+<p xml:id="subtitle59" begin="3974166667t" end="3994583334t" region="region0"><span style="style1">Belas kasihan tanda kelemahan.</span></p>
+<p xml:id="subtitle60" begin="4263750000t" end="4272083334t" region="region0"><span style="style1">Maafkan saya.</span></p>
+<p xml:id="subtitle61" begin="4555000000t" end="4584166667t" region="region0"><span style="style1">Aku tak sangka rancangan kita tak</span><br/><span style="style1">lancar kali ini.</span></p>
+<p xml:id="subtitle62" begin="4585000000t" end="4609583334t" region="region0"><span style="style1">Ya, sebab Appa salah satu sebab terbesar.</span></p>
+<p xml:id="subtitle63" begin="4620416667t" end="4646666667t" region="region0"><span style="style1">Aku tahu. Dia anggota penting kumpulan</span><br/><span style="style1">ini.</span></p>
+<p xml:id="subtitle64" begin="4670833334t" end="4685000000t" region="region0"><span style="style1">Dialah yang angkat kita.</span></p>
+<p xml:id="subtitle65" begin="4732916667t" end="4764583334t" region="region0"><span style="style1">Aang tak balik dari semalam. Patut ke</span><br/><span style="style1">kita cari dia?</span></p>
+<p xml:id="subtitle66" begin="4765416667t" end="4784166667t" region="region0"><span style="style1">-Jumpa!</span><br/><span style="style1">-Tak.</span></p>
+<p xml:id="subtitle67" begin="4802916667t" end="4811250000t" region="region0"><span style="style1">Belum lagi.</span></p>
+<p xml:id="subtitle68" begin="4827500000t" end="4835833334t" region="region0"><span style="style1">Hei…</span></p>
+<p xml:id="subtitle69" begin="4857500000t" end="4878333334t" region="region0"><span style="style1">-Kau okey?</span><br/><span style="style1">-Tak.</span></p>
+<p xml:id="subtitle70" begin="4906250000t" end="4928333334t" region="region0"><span style="style1">Jomlah fikir cara nak jumpa raja itu.</span></p>
+<p xml:id="subtitle71" begin="4936666667t" end="4968333334t" region="region0"><span style="style1">Sokka betul. Itu jalan paling cepat</span><br/><span style="style1">untuk cari Appa.</span></p>
+<p xml:id="subtitle72" begin="4977083334t" end="4993750000t" region="region0"><span style="style1">Dengar, Aang. Apa yang dah jadi…</span></p>
+<p xml:id="subtitle73" begin="4994583334t" end="5012083334t" region="region0"><span style="style1">Aku tak nak cakap pasal itu.</span></p>
+<p xml:id="subtitle74" begin="5038750000t" end="5063333334t" region="region0"><span style="style1">Okey. Kita bincang rancangan kita.</span></p>
+<p xml:id="subtitle75" begin="5084583334t" end="5105000000t" region="region0"><span style="style1">Ya. Rancangan.</span></p>
+<p xml:id="subtitle76" begin="5121250000t" end="5147916667t" region="region0"><span style="style1">Kita cuma kena fikir cara nak</span><br/><span style="style1">elak pengawal istana, Dai Li,</span></p>
+<p xml:id="subtitle77" begin="5148750000t" end="5176666667t" region="region0"><span style="style1">dengan tembok yang tebal itu semua.</span></p>
+<p xml:id="subtitle78" begin="5177500000t" end="5203750000t" region="region0"><span style="style1">Okey, jadi kita akan pergi terjah</span><br/><span style="style1">penjara?</span></p>
+<p xml:id="subtitle79" begin="5204583334t" end="5214583334t" region="region0"><span style="style1">Apa? Tak.</span></p>
+<p xml:id="subtitle80" begin="5236250000t" end="5254583334t" region="region0"><span style="style1">Orang gila saja buat macam itu.</span></p>
+<p xml:id="subtitle81" begin="5268750000t" end="5300416667t" region="region0"><span style="style1">Apa yang kau harapkan bila masuk</span><br/><span style="style1">penjara ini?</span></p>
+<p xml:id="subtitle82" begin="5320833334t" end="5336250000t" region="region0"><span style="style1">Kau yang harapkan sesuatu.</span></p>
+<p xml:id="subtitle83" begin="5349166667t" end="5369166667t" region="region0"><span style="style1">Aku tak dapat apa-apa manfaat pun.</span></p>
+<p xml:id="subtitle84" begin="5375416667t" end="5393750000t" region="region0"><span style="style1">Aku cuma pesuruh baginda raja.</span></p>
+<p xml:id="subtitle85" begin="5403333334t" end="5435000000t" region="region0"><span style="style1">Aku layan sandiwara kau kalau itu</span><br/><span style="style1">buat kau lagi selesa.</span></p>
+<p xml:id="subtitle86" begin="5435833334t" end="5477500000t" region="region0"><span style="style1">Aku cari pelarian dari Negara Api.</span><br/><span style="style1">Sebagai balasan kepada kau…</span></p>
+<p xml:id="subtitle87" begin="5492083334t" end="5500416667t" region="region0"><span style="style1">Maaf.</span></p>
+<p xml:id="subtitle88" begin="5508333334t" end="5542083334t" region="region0"><span style="style1">Raja Tanah punya bantuan, aku akan</span><br/><span style="style1">bagi senarai jeneral yang berkomplot nak</span></p>
+<p xml:id="subtitle89" begin="5542916667t" end="5559583334t" region="region0"><span style="style1">jatuhkan kau.</span></p>
+<p xml:id="subtitle90" begin="5564583334t" end="5587916667t" region="region0"><span style="style1">Aku? Menteri kebudayaan?</span></p>
+<p xml:id="subtitle91" begin="5588750000t" end="5622083334t" region="region0"><span style="style1">Ya. Entah kenapa mereka ingat kau ini</span><br/><span style="style1">macam pemerintah bayangan yang kawal</span></p>
+<p xml:id="subtitle92" begin="5622916667t" end="5663333334t" region="region0"><span style="style1">rangkaian perisik untuk kekalkan pengaruh</span><br/><span style="style1">dalam seluruh kota ini.</span></p>
+<p xml:id="subtitle93" begin="5684166667t" end="5712500000t" region="region0"><span style="style1">Dan kau tahu nama pengkomplot ini?</span></p>
+<p xml:id="subtitle94" begin="5713333334t" end="5753750000t" region="region0"><span style="style1">Jeneral Sung, Jeneral Situ, Leftenan</span><br/><span style="style1">Khettry, Kim dan Zhang.</span></p>
+<p xml:id="subtitle95" begin="5772916667t" end="5824166667t" region="region0"><span style="style1">Baiklah. Aku siasat dulu tuduhan kau dan</span><br/><span style="style1">maklumkan keputusan aku.</span></p>
+<p xml:id="subtitle96" begin="5836666667t" end="5877916667t" region="region0"><span style="style1">-Bila?</span><br/><span style="style1">-Ambil masa beberapa hari atau pun minggu.</span></p>
+<p xml:id="subtitle97" begin="5878750000t" end="5898333334t" region="region0"><span style="style1">Masa itu, kau mungkin dah mati.</span></p>
+<p xml:id="subtitle98" begin="5921250000t" end="5965416667t" region="region0"><span style="style1">Kau masuk penjara ini untuk berunding,</span><br/><span style="style1">tapi kau terus dedahkan satu-satunya</span></p>
+<p xml:id="subtitle99" begin="5966250000t" end="5983750000t" region="region0"><span style="style1">pengaruh kau.</span></p>
+<p xml:id="subtitle100" begin="5996250000t" end="6042916667t" region="region0"><span style="style1">Kemudian buat ancaman kosong pada aku.</span><br/><span style="style1">Ini ke yang dianggap kekuatan tentera di</span></p>
+<p xml:id="subtitle101" begin="6043750000t" end="6052916667t" region="region0"><span style="style1">Negara Api?</span></p>
+<p xml:id="subtitle102" begin="6065000000t" end="6102916667t" region="region0"><span style="style1">Jauh beberapa batu, ada 20,000</span><br/><span style="style1">pengolah api yang diarahkan untuk</span></p>
+<p xml:id="subtitle103" begin="6103750000t" end="6145000000t" region="region0"><span style="style1">robohkan tembok dan hanguskan kota ini.</span></p>
+<p xml:id="subtitle104" begin="6161666667t" end="6182916667t" region="region0"><span style="style1">Melainkan aku minta mereka berundur.</span></p>
+<p xml:id="subtitle105" begin="6200000000t" end="6217083334t" region="region0"><span style="style1">Itu namanya kekuatan tentera.</span></p>
+<p xml:id="subtitle106" begin="6225416667t" end="6238750000t" region="region0"><span style="style1">Kalau betul sekalipun…</span></p>
+<p xml:id="subtitle107" begin="6250833334t" end="6269166667t" region="region0"><span style="style1">…tentera kami akan uruskan…</span></p>
+<p xml:id="subtitle108" begin="6281250000t" end="6295833334t" region="region0"><span style="style1">…seperti biasa.</span></p>
+<p xml:id="subtitle109" begin="6296666667t" end="6322916667t" region="region0"><span style="style1">Tentera yang ketuanya aku labelkan</span><br/><span style="style1">pembelot?</span></p>
+<p xml:id="subtitle110" begin="6381666667t" end="6423750000t" region="region0"><span style="style1">Kau tak tahu kau berdepan dengan siapa.</span><br/><span style="style1">Aku takkan gadaikan keselamatan</span></p>
+<p xml:id="subtitle111" begin="6424583334t" end="6440833334t" region="region0"><span style="style1">warga kota ini.</span></p>
+<p xml:id="subtitle112" begin="6450000000t" end="6464166667t" region="region0"><span style="style1">Aku tahu kau ini siapa.</span></p>
+<p xml:id="subtitle113" begin="6480416667t" end="6505000000t" region="region0"><span style="style1">Aku boleh baca sejarah lampau hidup kau.</span></p>
+<p xml:id="subtitle114" begin="6510000000t" end="6526250000t" region="region0"><span style="style1">Kau golongan miskin.</span></p>
+<p xml:id="subtitle115" begin="6527083334t" end="6556250000t" region="region0"><span style="style1">Jadi kau merangkak dan bersubahat</span><br/><span style="style1">demi kuasa.</span></p>
+<p xml:id="subtitle116" begin="6561250000t" end="6607500000t" region="region0"><span style="style1">Tapi kuasa sebenar, atau hak tak terbatas</span><br/><span style="style1">untuk memerintah itu satu takdir.</span></p>
+<p xml:id="subtitle117" begin="6653750000t" end="6668333334t" region="region0"><span style="style1">Dan itu ke takdir kau?</span></p>
+<p xml:id="subtitle118" begin="6689166667t" end="6746666667t" region="region0"><span style="style1">Atau itu takdir abang kau? Dengar,</span><br/><span style="style1">aku pun tahu siapa kau.</span></p>
+<p xml:id="subtitle119" begin="6756666667t" end="6805416667t" region="region0"><span style="style1">Kau gadis manja, terdesak nak tunjuk dia</span><br/><span style="style1">layak dapat…</span></p>
+<p xml:id="subtitle120" begin="6825416667t" end="6833750000t" region="region0"><span style="style1">…segalanya.</span></p>
+<p xml:id="subtitle121" begin="6852083334t" end="6886666667t" region="region0"><span style="style1">Di penjara ini pun, kuasa aku jauh lebih</span><br/><span style="style1">besar daripada pengaruh yang bertahan</span></p>
+<p xml:id="subtitle122" begin="6887500000t" end="6895833334t" region="region0"><span style="style1">seribu tahun.</span></p>
+<p xml:id="subtitle123" begin="6896666667t" end="6936666667t" region="region0"><span style="style1">Sebab kau bergantung pada dusta</span><br/><span style="style1">dan kelemahan dan kata-kata raja yang</span></p>
+<p xml:id="subtitle124" begin="6937500000t" end="6945833334t" region="region0"><span style="style1">alpa.</span></p>
+<p xml:id="subtitle125" begin="6953333334t" end="6976250000t" region="region0"><span style="style1">Kau lupa, aku yang kawal Sang Avatar.</span></p>
+<p xml:id="subtitle126" begin="6990416667t" end="7035416667t" region="region0"><span style="style1">Dan dia boleh hapuskan tentera kau</span><br/><span style="style1">macam dia hapuskan bala tentera di Utara.</span></p>
+<p xml:id="subtitle127" begin="7041666667t" end="7072083334t" region="region0"><span style="style1">Sang Avatar cuma budak yang tak</span><br/><span style="style1">pandai kawal kuasa. Dia</span></p>
+<p xml:id="subtitle128" begin="7072916667t" end="7112916667t" region="region0"><span style="style1">pertahankan Utara dan hancurkan Utara.</span><br/><span style="style1">Itu akan terjadi di metroplis gah</span></p>
+<p xml:id="subtitle129" begin="7113750000t" end="7122083334t" region="region0"><span style="style1">kau ini.</span></p>
+<p xml:id="subtitle130" begin="7150000000t" end="7176666667t" region="region0"><span style="style1">Aku pasti kau tak nak jatuh ke</span><br/><span style="style1">kancah perang.</span></p>
+<p xml:id="subtitle131" begin="7191250000t" end="7224166667t" region="region0"><span style="style1">Aku tawarkan kau peluang untuk dedahkan</span><br/><span style="style1">musuh kau sebagai pembelot</span></p>
+<p xml:id="subtitle132" begin="7225000000t" end="7239166667t" region="region0"><span style="style1">dan selamatkan kota ini.</span></p>
+<p xml:id="subtitle133" begin="7253333334t" end="7287083334t" region="region0"><span style="style1">Bantu aku cari pelarian itu.</span><br/><span style="style1">Serahkan Avatar dan aku akan</span></p>
+<p xml:id="subtitle134" begin="7287916667t" end="7353333334t" region="region0"><span style="style1">pastikan kau diperakui dan dapat ganjaran</span><br/><span style="style1">sebagai penyelamat Ba Sing Se.</span></p>
+<p xml:id="subtitle135" begin="7393333334t" end="7417083334t" region="region0"><span style="style1">Aku tak tawar-menawar dengan Negara Api.</span></p>
+<p xml:id="subtitle136" begin="7464583334t" end="7497916667t" region="region0"><span style="style1">Lambat-laun semua akan kerjasama dengan</span><br/><span style="style1">Negara Api juga.</span></p>
+<p xml:id="subtitle137" begin="7686666667t" end="7695000000t" region="region0"><span style="style1">Dah bangun.</span></p>
+<p xml:id="subtitle138" begin="7712500000t" end="7720833334t" region="region0"><span style="style1">Ya.</span></p>
+<p xml:id="subtitle139" begin="7746250000t" end="7763333334t" region="region0"><span style="style1">Terima kasih sebab jaga saya.</span></p>
+<p xml:id="subtitle140" begin="7810833334t" end="7824166667t" region="region0"><span style="style1">Kamu pun jaga pak cik.</span></p>
+<p xml:id="subtitle141" begin="7835416667t" end="7860000000t" region="region0"><span style="style1">Saya pergi tempat kerja. Saya terlepas</span></p>
+<p xml:id="subtitle142" begin="7870000000t" end="7896250000t" region="region0"><span style="style1">tiga syif, jadi saya kena pecat.</span></p>
+<p xml:id="subtitle143" begin="7937083334t" end="7971666667t" region="region0"><span style="style1">Boleh ke pak cik bagi saya kerja dekat</span><br/><span style="style1">kedai teh?</span></p>
+<p xml:id="subtitle144" begin="8014583334t" end="8022916667t" region="region0"><span style="style1">Rasanya boleh.</span></p>
+<p xml:id="subtitle145" begin="8068333334t" end="8082083334t" region="region0"><span style="style1">Terima kasih, pak cik.</span></p>
+<p xml:id="subtitle146" begin="8127916667t" end="8159166667t" region="region0"><span style="style1">Okey, macam inilah. Katara buat ribut</span><br/><span style="style1">salji mengejut…</span></p>
+<p xml:id="subtitle147" begin="8175833334t" end="8199583334t" region="region0"><span style="style1">…lepas itu pengawal kena pergi ambil kot.</span></p>
+<p xml:id="subtitle148" begin="8200416667t" end="8224166667t" region="region0"><span style="style1">Tapi nanti mereka tahu ada pengolah air</span><br/><span style="style1">antara kita.</span></p>
+<p xml:id="subtitle149" begin="8225000000t" end="8250833334t" region="region0"><span style="style1">Kau orang, aku masih rasa kita menyamar</span><br/><span style="style1">jadi tiang lagi berkesan.</span></p>
+<p xml:id="subtitle150" begin="8251666667t" end="8267500000t" region="region0"><span style="style1">-Tiang bergerak?</span><br/><span style="style1">-Tapi…</span></p>
+<p xml:id="subtitle151" begin="8268333334t" end="8288750000t" region="region0"><span style="style1">Penyamaran berkesan masa kita</span><br/><span style="style1">masuk Omashu.</span></p>
+<p xml:id="subtitle152" begin="8289583334t" end="8317916667t" region="region0"><span style="style1">Okey, jadi mungkin kita boleh</span><br/><span style="style1">menyamar jadi Pahlawan Kyoshi ke?</span></p>
+<p xml:id="subtitle153" begin="8318750000t" end="8334166667t" region="region0"><span style="style1">Aku dengar mereka datang.</span></p>
+<p xml:id="subtitle154" begin="8335000000t" end="8343333334t" region="region0"><span style="style1">Ya ke?</span></p>
+<p xml:id="subtitle155" begin="8344166667t" end="8372916667t" region="region0"><span style="style1">Oh, ya. Aku dengar orang cakap pasal itu</span><br/><span style="style1">masa aku intai istana.</span></p>
+<p xml:id="subtitle156" begin="8373750000t" end="8393333334t" region="region0"><span style="style1">Kita kena cari mereka. Mereka</span><br/><span style="style1">boleh tolong.</span></p>
+<p xml:id="subtitle157" begin="8394166667t" end="8422916667t" region="region0"><span style="style1">Tak ada masa. Kita kena ikhtiar sekarang</span><br/><span style="style1">juga.</span></p>
+<p xml:id="subtitle158" begin="8438333334t" end="8446666667t" region="region0"><span style="style1">Aku tahu!</span></p>
+<p xml:id="subtitle159" begin="8460416667t" end="8504166667t" region="region0"><span style="style1">Mereka mungkin tunggu kita berempat,</span><br/><span style="style1">tapi tahu siapa mereka takkan jangka?</span></p>
+<p xml:id="subtitle160" begin="8510833334t" end="8539583334t" region="region0"><span style="style1">Momo. Kita sembunyi dalam semak,</span><br/><span style="style1">kita hantar Momo. Toph dan Aang</span></p>
+<p xml:id="subtitle161" begin="8540416667t" end="8577500000t" region="region0"><span style="style1">boleh olah tanah atas Momo supaya</span><br/><span style="style1">nampak macam dia boleh olah tanah.</span></p>
+<p xml:id="subtitle162" begin="8578333334t" end="8599583334t" region="region0"><span style="style1">Tapi lemur tak boleh olah tanah.</span></p>
+<p xml:id="subtitle163" begin="8600416667t" end="8636250000t" region="region0"><span style="style1">Tepat sekali. Mereka akan keliru.</span><br/><span style="style1">Lepas itu, bingung.</span></p>
+<p xml:id="subtitle164" begin="8642083334t" end="8682916667t" region="region0"><span style="style1">Kau orang ada sepanjang pagi untuk</span><br/><span style="style1">fikirkan pelan, tapi ini saja kita</span></p>
+<p xml:id="subtitle165" begin="8683750000t" end="8695833334t" region="region0"><span style="style1">boleh fikir?</span></p>
+<p xml:id="subtitle166" begin="8700833334t" end="8742916667t" region="region0"><span style="style1">Masa macam inilah mak ayah aku berguna.</span><br/><span style="style1">Mungkin mereka boleh bawa kita</span></p>
+<p xml:id="subtitle167" begin="8743750000t" end="8757916667t" region="region0"><span style="style1">terus masuk pintu depan.</span></p>
+<p xml:id="subtitle168" begin="8850000000t" end="8864166667t" region="region0"><span style="style1">Terus masuk pintu depan?</span></p>
+<p xml:id="subtitle169" begin="8872500000t" end="8886250000t" region="region0"><span style="style1">Ya, itu yang aku cakap.</span></p>
+<p xml:id="subtitle170" begin="8891666667t" end="8900000000t" region="region0"><span style="style1">Aku tahu!</span></p>
+<p xml:id="subtitle171" begin="8938750000t" end="8947083334t" region="region0"><span style="style1">Idea aku ke?</span></p>
+<p xml:id="subtitle172" begin="8947916667t" end="8984583334t" region="region0"><span style="style1">Okey, ini yang kita akan buat. Mula-mula,</span><br/><span style="style1">kita buat macam ini. Macam ini? Ya, ya.</span></p>
+<p xml:id="subtitle173" begin="8985416667t" end="9011666667t" region="region0"><span style="style1">-Lepas itu, letak cendawan dan Okey.</span><br/><span style="style1">-Sokka?</span></p>
+<p xml:id="subtitle174" begin="9062916667t" end="9071250000t" region="region0"><span style="style1">Boom.</span></p>
+<p xml:id="subtitle175" begin="9079166667t" end="9087500000t" region="region0"><span style="style1">Genius, kan?</span></p>
+<p xml:id="subtitle176" begin="9098750000t" end="9109166667t" region="region0"><span style="style1">Itu apa?</span></p>
+<p xml:id="subtitle177" begin="9110000000t" end="9135833334t" region="region0"><span style="style1">Aku tak nampak pun dah tahu idea ini</span><br/><span style="style1">teruk.</span></p>
+<p xml:id="subtitle178" begin="9136666667t" end="9150833334t" region="region0"><span style="style1">Mesti Sokka akan terangkan.</span></p>
+<p xml:id="subtitle179" begin="9151666667t" end="9172500000t" region="region0"><span style="style1">Ini kita dalam tong.</span></p>
+<p xml:id="subtitle180" begin="9198333334t" end="9206666667t" region="region0"><span style="style1">Nampak?</span></p>
+<p xml:id="subtitle181" begin="9207500000t" end="9224583334t" region="region0"><span style="style1">-Oh…</span><br/><span style="style1">-Tak.</span></p>
+<p xml:id="subtitle182" begin="9236250000t" end="9261666667t" region="region0"><span style="style1">Kau ini melawak ke apa? Dia melawak ke?</span></p>
+<p xml:id="subtitle183" begin="9262500000t" end="9296250000t" region="region0"><span style="style1">Aku serius. Ini kita kena buat. Aang dan</span><br/><span style="style1">Katara masuk satu tong, aku dan</span></p>
+<p xml:id="subtitle184" begin="9297083334t" end="9327500000t" region="region0"><span style="style1">Toph masuk tong lain. Lepas itu,</span><br/><span style="style1">pengolah tanah hebat kita akan olah</span></p>
+<p xml:id="subtitle185" begin="9328333334t" end="9347083334t" region="region0"><span style="style1">lantai palsu.</span></p>
+<p xml:id="subtitle186" begin="9353750000t" end="9370416667t" region="region0"><span style="style1">Supaya boleh menyorok bawah wain.</span></p>
+<p xml:id="subtitle187" begin="9371250000t" end="9395416667t" region="region0"><span style="style1">Supaya kita boleh diangkut masuk.</span></p>
+<p xml:id="subtitle188" begin="9401666667t" end="9411666667t" region="region0"><span style="style1">Tepat sekali.</span></p>
+<p xml:id="subtitle189" begin="9418333334t" end="9441666667t" region="region0"><span style="style1">Alih tangan kau. Tak, yang lagi satu.</span></p>
+<p xml:id="subtitle190" begin="9442500000t" end="9471250000t" region="region0"><span style="style1">Maaflah. Sini gelap. Aku tak nampak</span><br/><span style="style1">apa-apa.</span></p>
+<p xml:id="subtitle191" begin="9472083334t" end="9489583334t" region="region0"><span style="style1">Oh, tidak! Takutnya aku.</span></p>
+<p xml:id="subtitle192" begin="9495416667t" end="9525000000t" region="region0"><span style="style1">Tolong diam. Kita dah dekat dengan</span><br/><span style="style1">gerbang istana.</span></p>
+<p xml:id="subtitle193" begin="9539583334t" end="9566250000t" region="region0"><span style="style1">Ini bukan pengawal istana biasa, tapi</span><br/><span style="style1">Dai Li.</span></p>
+<p xml:id="subtitle194" begin="9653750000t" end="9662083334t" region="region0"><span style="style1">Jeneral Sung.</span></p>
+<p xml:id="subtitle195" begin="9679583334t" end="9690833334t" region="region1"><span style="style1">Kami memang tunggu puan.</span></p>
+<p xml:id="subtitle196" begin="9691666667t" end="9712916667t" region="region0"><span style="style1">Ya, saya nak menghadap Raja Tanah.</span></p>
+<p xml:id="subtitle197" begin="9768333334t" end="9784583334t" region="region0"><span style="style1">Hadiah dari Zon Agraria.</span></p>
+<p xml:id="subtitle198" begin="9820416667t" end="9836666667t" region="region0"><span style="style1">Wain untuk pengawal istana.</span></p>
+<p xml:id="subtitle199" begin="9885000000t" end="9900416667t" region="region0"><span style="style1">Kami ambil alih dari sini.</span></p>
+<p xml:id="subtitle200" begin="9909583334t" end="9950833334t" region="region0"><span style="style1">Pegawai puan akan kekal di luar. Menteri</span><br/><span style="style1">Kebudayaan nak jumpa puan.</span></p>
+<p xml:id="subtitle201" begin="10050000000t" end="10058333334t" region="region1"><span style="style1">Hei.</span></p>
+<p xml:id="subtitle202" begin="10081666667t" end="10122916667t" region="region1"><span style="style1">Tak ada orang perasan kalau satu</span><br/><span style="style1">saja tong wain masuk bilik stor, kan?</span></p>
+<p xml:id="subtitle203" begin="10274166667t" end="10293333334t" region="region0"><span style="style1">Nampaknya rancangan kau menjadi.</span></p>
+<p xml:id="subtitle204" begin="10314583334t" end="10349583334t" region="region0"><span style="style1">Mestilah jadi. Rancangan aku takkan</span><br/><span style="style1">gagal. Selalu berkesan.</span></p>
+<p xml:id="subtitle205" begin="10370000000t" end="10382916667t" region="region0"><span style="style1">Mana tong lagi satu?</span></p>
+<p xml:id="subtitle206" begin="10388333334t" end="10396666667t" region="region0"><span style="style1">Apa?</span></p>
+<p xml:id="subtitle207" begin="10523750000t" end="10533750000t" region="region0"><span style="style1">Tengok itu!</span></p>
+<p xml:id="subtitle208" begin="10706250000t" end="10715833334t" region="region0"><span style="style1">Nak masuk, Li?</span></p>
+<p xml:id="subtitle209" begin="10795416667t" end="10805000000t" region="region0"><span style="style1">Awak takut bayi?</span></p>
+<p xml:id="subtitle210" begin="10817083334t" end="10825416667t" region="region0"><span style="style1">Huh?</span></p>
+<p xml:id="subtitle211" begin="10835833334t" end="10849166667t" region="region0"><span style="style1">Awak asyik tenung dia.</span></p>
+<p xml:id="subtitle212" begin="10878750000t" end="10906250000t" region="region0"><span style="style1">Oh, taklah. Bayi yang takut saya.</span></p>
+<p xml:id="subtitle213" begin="10956250000t" end="10982916667t" region="region0"><span style="style1">Apa pendapat awak pasal kota ini</span><br/><span style="style1">setakat ini?</span></p>
+<p xml:id="subtitle214" begin="11010416667t" end="11025416667t" region="region0"><span style="style1">Biasa saja, rasanya.</span></p>
+<p xml:id="subtitle215" begin="11042916667t" end="11066666667t" region="region0"><span style="style1">Nampak sangat tak pergi tempat seronok.</span></p>
+<p xml:id="subtitle216" begin="11067500000t" end="11078333334t" region="region0"><span style="style1">Um…</span></p>
+<p xml:id="subtitle217" begin="11108333334t" end="11125000000t" region="region0"><span style="style1">Uh, dekat mana?</span></p>
+<p xml:id="subtitle218" begin="11141666667t" end="11161250000t" region="region0"><span style="style1">Saya boleh bawa awak jalan-jalan.</span></p>
+<p xml:id="subtitle219" begin="11193333334t" end="11201666667t" region="region0"><span style="style1">Okey.</span></p>
+<p xml:id="subtitle220" begin="11213333334t" end="11221666667t" region="region0"><span style="style1">Ya.</span></p>
+<p xml:id="subtitle221" begin="11248750000t" end="11260000000t" region="region0"><span style="style1">Terima kasih. Baik.</span></p>
+<p xml:id="subtitle222" begin="11354583334t" end="11362916667t" region="region0"><span style="style1">Uh, Mushi…</span></p>
+<p xml:id="subtitle223" begin="11374166667t" end="11382500000t" region="region0"><span style="style1">Rasa ini.</span></p>
+<p xml:id="subtitle224" begin="11522916667t" end="11559583334t" region="region0"><span style="style1">Teh longjing ini patut dibancuh</span><br/><span style="style1">dengan suhu rendah. Kalau tak,</span></p>
+<p xml:id="subtitle225" begin="11560416667t" end="11571250000t" region="region0"><span style="style1">boleh jadi pahit.</span></p>
+<p xml:id="subtitle226" begin="11576250000t" end="11589166667t" region="region0"><span style="style1">Saya buang sajalah.</span></p>
+<p xml:id="subtitle227" begin="11590000000t" end="11627083334t" region="region0"><span style="style1">Tak apa. Kita minum. Pahit itu satu</span><br/><span style="style1">pengajaran. Dan lepas dah mahir,</span></p>
+<p xml:id="subtitle228" begin="11627916667t" end="11675000000t" region="region0"><span style="style1">kita boleh amati perkembangan kita.</span></p>
+<p xml:id="subtitle229" begin="11904583334t" end="11915833334t" region="region0"><span style="style1">Baik kita tunggu sekejap.</span></p>
+<p xml:id="subtitle230" begin="11916666667t" end="11932916667t" region="region0"><span style="style1">-Selamat. Jom kita gerak.</span><br/><span style="style1">-Aang, kejap.</span></p>
+<p xml:id="subtitle231" begin="11933750000t" end="11977500000t" region="region0"><span style="style1">Tak nak, aku dah penat menunggu. Appa</span><br/><span style="style1">perlukan aku macam aku perlukan dia.</span></p>
+<p xml:id="subtitle232" begin="11987083334t" end="12030000000t" region="region0"><span style="style1">Aku tahu kau gelisah. Kami pun. Dan kami</span><br/><span style="style1">juga cuba nak tolong.</span></p>
+<p xml:id="subtitle233" begin="12040833334t" end="12080833334t" region="region0"><span style="style1">Tapi kau kena kawal diri kau. Sebab kalau</span><br/><span style="style1">kau cakap dengan Raja Tanah macam</span></p>
+<p xml:id="subtitle234" begin="12081666667t" end="12111250000t" region="region0"><span style="style1">ini, baginda takkan dengar sepatah pun</span><br/><span style="style1">cakap kita.</span></p>
+<p xml:id="subtitle235" begin="12120833334t" end="12157916667t" region="region0"><span style="style1">Jet cuma akan mati sia-sia. Dan kita akan</span><br/><span style="style1">semakin susah nak jumpa Appa.</span></p>
+<p xml:id="subtitle236" begin="12158750000t" end="12181250000t" region="region0"><span style="style1">Aku cuba. Aku cuba, okey?</span></p>
+<p xml:id="subtitle237" begin="12195416667t" end="12237500000t" region="region0"><span style="style1">Aku tak boleh. Otak aku serabut sangat.</span></p>
+<p xml:id="subtitle238" begin="12253750000t" end="12262083334t" region="region0"><span style="style1">Aku rindu dia.</span></p>
+<p xml:id="subtitle239" begin="12277083334t" end="12300416667t" region="region0"><span style="style1">Okey? Aku rindu dia.</span></p>
+<p xml:id="subtitle240" begin="12301250000t" end="12313333334t" region="region0"><span style="style1">Aang. Tarik nafas.</span></p>
+<p xml:id="subtitle241" begin="12395416667t" end="12417083334t" region="region0"><span style="style1">Okey. Aku okey.</span></p>
+<p xml:id="subtitle242" begin="12434583334t" end="12447916667t" region="region0"><span style="style1">Dah kata dia orang dekat sini.</span></p>
+<p xml:id="subtitle243" begin="12448750000t" end="12467916667t" region="region0"><span style="style1">Jomlah. Kami jumpa bilik bacaan.</span></p>
+<p xml:id="subtitle244" begin="12488333334t" end="12497916667t" region="region0"><span style="style1">Toph yang jumpa.</span></p>
+<p xml:id="subtitle245" begin="12592083334t" end="12627083334t" region="region0"><span style="style1">Tuan Menteri, saya kena pergi. Ada</span><br/><span style="style1">mesyuarat. Awak nak cakap apa?</span></p>
+<p xml:id="subtitle246" begin="12627916667t" end="12639166667t" region="region0"><span style="style1">Tolong cepat sikit.</span></p>
+<p xml:id="subtitle247" begin="12657083334t" end="12697916667t" region="region0"><span style="style1">Agak menarik yang puan sangat sibuk pada</span><br/><span style="style1">hari ini. Pada hari saya tak</span></p>
+<p xml:id="subtitle248" begin="12698750000t" end="12758750000t" region="region0"><span style="style1">jumpa Avatar dan rakan-rakan dia.</span><br/><span style="style1">Dia mesti sangat sibuk juga.</span></p>
+<p xml:id="subtitle249" begin="12759583334t" end="12769166667t" region="region0"><span style="style1">Awak nak apa?</span></p>
+<p xml:id="subtitle250" begin="12789166667t" end="12828333334t" region="region0"><span style="style1">Ada khabar angin mengatakan bahawa</span><br/><span style="style1">tentera ada tahan aset mustahak</span></p>
+<p xml:id="subtitle251" begin="12829166667t" end="12881666667t" region="region0"><span style="style1">Negara Api di penjara dalam tembok, tanpa</span><br/><span style="style1">pengetahuan Raja Tanah.</span></p>
+<p xml:id="subtitle252" begin="12901250000t" end="12945416667t" region="region0"><span style="style1">Ini dusta, saya tahu. Ini cuma tuduhan</span><br/><span style="style1">meragui kesetiaan puan terhadap Raja</span></p>
+<p xml:id="subtitle253" begin="12946250000t" end="12955000000t" region="region0"><span style="style1">Tanah.</span></p>
+<p xml:id="subtitle254" begin="12975833334t" end="12984583334t" region="region0"><span style="style1">Betul tak?</span></p>
+<p xml:id="subtitle255" begin="13001666667t" end="13010000000t" region="region0"><span style="style1">Mengejutkan.</span></p>
+<p xml:id="subtitle256" begin="13022083334t" end="13067916667t" region="region0"><span style="style1">Orang sanggup melemparkan berdusta untuk</span><br/><span style="style1">merendahkan keselamatan Ba Sing Se.</span></p>
+<p xml:id="subtitle257" begin="13087083334t" end="13115000000t" region="region0"><span style="style1">Uh, seperkara lagi sebelum awak pergi,</span><br/><span style="style1">jeneral.</span></p>
+<p xml:id="subtitle258" begin="13127083334t" end="13164583334t" region="region0"><span style="style1">Baginda ada jemput anak puan ke</span><br/><span style="style1">Tasik Laogai.</span></p>
+<p xml:id="subtitle259" begin="13423333334t" end="13442916667t" region="region0"><span style="style1">Mana Jeneral Sung dan Raja Tanah?</span></p>
+<p xml:id="subtitle260" begin="13450000000t" end="13462500000t" region="region0"><span style="style1">Kita tak lambat, kan?</span></p>
+<p xml:id="subtitle261" begin="13470000000t" end="13493750000t" region="region0"><span style="style1">Aku… Aku rasa tak.</span></p>
+<p xml:id="subtitle262" begin="13525000000t" end="13548750000t" region="region0"><span style="style1">Gubahan bunga ini, ada dekat jamuan itu.</span></p>
+<p xml:id="subtitle263" begin="13549583334t" end="13559166667t" region="region0"><span style="style1">Jadi?</span></p>
+<p xml:id="subtitle264" begin="13582083334t" end="13604166667t" region="region0"><span style="style1">Orang kata ia datang dari taman Raja.</span></p>
+<p xml:id="subtitle265" begin="13756666667t" end="13767500000t" region="region0"><span style="style1">Itu dia.</span></p>
+<p xml:id="subtitle266" begin="13821250000t" end="13830000000t" region="region0"><span style="style1">Itu dia.</span></p>
+<p xml:id="subtitle267" begin="13863333334t" end="13871666667t" region="region0"><span style="style1">Tuanku?</span></p>
+<p xml:id="subtitle268" begin="13888333334t" end="13909583334t" region="region0"><span style="style1">Oh. Ya.</span></p>
+<p xml:id="subtitle269" begin="13922500000t" end="13931666667t" region="region0"><span style="style1">Beta Raja Kuei.</span></p>
+<p xml:id="subtitle270" begin="13937916667t" end="13955000000t" region="region0"><span style="style1">Kami nak cakap dengan tuanku.</span></p>
+<p xml:id="subtitle271" begin="13970416667t" end="13996250000t" region="region0"><span style="style1">Oh. Ya. Sang Avatar.</span></p>
+<p xml:id="subtitle272" begin="14013750000t" end="14037916667t" region="region0"><span style="style1">Beta dengar kamu dah berjasa di kota ini.</span></p>
+<p xml:id="subtitle273" begin="14045833334t" end="14074166667t" region="region0"><span style="style1">Tenangkan pesakit. Kepimpinan kerohanian.</span></p>
+<p xml:id="subtitle274" begin="14101250000t" end="14113333334t" region="region0"><span style="style1">Kamu pengolah udara.</span></p>
+<p xml:id="subtitle275" begin="14127916667t" end="14161666667t" region="region0"><span style="style1">Kamu tahu tentang tanah tergantung</span><br/><span style="style1">Kuil Udara Barat?</span></p>
+<p xml:id="subtitle276" begin="14162500000t" end="14206666667t" region="region0"><span style="style1">Ya. Patik pernah ke sana. Avatar Yangchen</span><br/><span style="style1">dibesarkan di sana.</span></p>
+<p xml:id="subtitle277" begin="14215416667t" end="14259166667t" region="region0"><span style="style1">Ada bunga di sana, namanya bunga bayam</span><br/><span style="style1">perak, yang berubah warna sepanjang</span></p>
+<p xml:id="subtitle278" begin="14260000000t" end="14283750000t" region="region0"><span style="style1">kitaran mekarnya.</span></p>
+<p xml:id="subtitle279" begin="14298333334t" end="14327083334t" region="region0"><span style="style1">Beta sanggup korbankan negara ini demi</span><br/><span style="style1">melihatnya.</span></p>
+<p xml:id="subtitle280" begin="14327916667t" end="14364166667t" region="region0"><span style="style1">Dan patik sudi bawa tuanku ke sana.</span><br/><span style="style1">Itu antara pemandangan paling indah</span></p>
+<p xml:id="subtitle281" begin="14365000000t" end="14405833334t" region="region0"><span style="style1">di dunia. Tapi kami datang sini sebab ada</span><br/><span style="style1">sesuatu nak dibincangkan.</span></p>
+<p xml:id="subtitle282" begin="14406666667t" end="14435416667t" region="region0"><span style="style1">Banyak perkara. Perkara serius, tuanku.</span></p>
+<p xml:id="subtitle283" begin="14436250000t" end="14447083334t" region="region0"><span style="style1">Oh.</span></p>
+<p xml:id="subtitle284" begin="14465833334t" end="14493333334t" region="region0"><span style="style1">Perkara begitu orang lain yang</span><br/><span style="style1">uruskannya.</span></p>
+<p xml:id="subtitle285" begin="14494166667t" end="14521250000t" region="region0"><span style="style1">Tapi kalau nak, beta boleh tunjukkan</span><br/><span style="style1">sekitar Taman Diraja.</span></p>
+<p xml:id="subtitle286" begin="14522083334t" end="14542916667t" region="region0"><span style="style1">Kami nak bincangkan tentang perang.</span></p>
+<p xml:id="subtitle287" begin="14557916667t" end="14572083334t" region="region0"><span style="style1">Politik buat beta gugup.</span></p>
+<p xml:id="subtitle288" begin="14615000000t" end="14637083334t" region="region0"><span style="style1">Patik dah lama tak nampak teratai peri.</span></p>
+<p xml:id="subtitle289" begin="14637916667t" end="14650416667t" region="region0"><span style="style1">Kamu kenal bunga?</span></p>
+<p xml:id="subtitle290" begin="14651250000t" end="14687500000t" region="region0"><span style="style1">Ia bukan dari kawasan Puak Air Selatan,</span><br/><span style="style1">tapi patik ada kawan yang arif</span></p>
+<p xml:id="subtitle291" begin="14688333334t" end="14696666667t" region="region0"><span style="style1">tentang bunga.</span></p>
+<p xml:id="subtitle292" begin="14741666667t" end="14753750000t" region="region0"><span style="style1">Tuanku tengah buang rumpai?</span></p>
+<p xml:id="subtitle293" begin="14754583334t" end="14778333334t" region="region0"><span style="style1">Ya. Benda ini penting, tapi kotor.</span></p>
+<p xml:id="subtitle294" begin="14783333334t" end="14826250000t" region="region0"><span style="style1">Hmm. Tembok ini tak halang rumpai keluar,</span><br/><span style="style1">betul tak, tuanku? Sejauh mana</span></p>
+<p xml:id="subtitle295" begin="14827083334t" end="14859166667t" region="region0"><span style="style1">tuanku cuba, segalanya berkait rapat.</span></p>
+<p xml:id="subtitle296" begin="14867083334t" end="14884166667t" region="region0"><span style="style1">Rumpai akan cari jalan masuk.</span></p>
+<p xml:id="subtitle297" begin="14907083334t" end="14915416667t" region="region0"><span style="style1">Tapi</span></p>
+<p xml:id="subtitle298" begin="14928333334t" end="14943750000t" region="region0"><span style="style1">dengan bantuan yang betul,</span></p>
+<p xml:id="subtitle299" begin="14958750000t" end="14971666667t" region="region0"><span style="style1">bunga boleh mekar.</span></p>
+<p xml:id="subtitle300" begin="14999166667t" end="15018333334t" region="region0"><span style="style1">Kita cuma perlu ambil perhatian.</span></p>
+<p xml:id="subtitle301" begin="15035416667t" end="15047083334t" region="region0"><span style="style1">Dan ambil tindakan.</span></p>
+<p xml:id="subtitle302" begin="15140416667t" end="15148750000t" region="region0"><span style="style1">Beta faham.</span></p>
+<p xml:id="subtitle303" begin="15217916667t" end="15227916667t" region="region0"><span style="style1">Beta sudi dengar.</span></p>
+<p xml:id="subtitle304" begin="15267500000t" end="15285833334t" region="region0"><span style="style1">Kau tahu dia boleh buat itu ke?</span></p>
+<p xml:id="subtitle305" begin="15304583334t" end="15355416667t" region="region0"><span style="style1">Jadi kita nak kena tunggu keputusan</span><br/><span style="style1">dia ke macam mana?</span></p>
+<p xml:id="subtitle306" begin="15387500000t" end="15420833334t" region="region0"><span style="style1">Keputusan dah dibuat untuk dia. Dia cuma</span><br/><span style="style1">tak sedar lagi.</span></p>
+<p xml:id="subtitle307" begin="15442083334t" end="15463333334t" region="region0"><span style="style1">Tapi dia ada buat aku sedar sesuatu.</span></p>
+<p xml:id="subtitle308" begin="15468333334t" end="15477916667t" region="region0"><span style="style1">Apa dia?</span></p>
+<p xml:id="subtitle309" begin="15502500000t" end="15513750000t" region="region0"><span style="style1">Apa aku patut buat.</span></p>
+<p xml:id="subtitle310" begin="15555000000t" end="15571666667t" region="region0"><span style="style1">Ini macam tamsilan dua naga.</span></p>
+<p xml:id="subtitle311" begin="15602500000t" end="15640416667t" region="region0"><span style="style1">Ketika dunia masih muda dan roh bebas</span><br/><span style="style1">berkeliaran, dua naga lahir dari</span></p>
+<p xml:id="subtitle312" begin="15641250000t" end="15649583334t" region="region0"><span style="style1">telur sama.</span></p>
+<p xml:id="subtitle313" begin="15662500000t" end="15690833334t" region="region0"><span style="style1">Sebelum menetas lagi, ia bersaing untuk</span><br/><span style="style1">makanan.</span></p>
+<p xml:id="subtitle314" begin="15703333334t" end="15739583334t" region="region0"><span style="style1">Seekor naga besar dan berkuasa, Hageshi.</span></p>
+<p xml:id="subtitle315" begin="15759583334t" end="15767916667t" region="region0"><span style="style1">Seekor lagi…</span></p>
+<p xml:id="subtitle316" begin="15783333334t" end="15804583334t" region="region0"><span style="style1">…kecik dan lemah.</span></p>
+<p xml:id="subtitle317" begin="15824583334t" end="15867083334t" region="region0"><span style="style1">Nho Xiu. Lama-kelamaan, Nho Xiu</span><br/><span style="style1">pandai jaga dirinya sendiri, memburu dan</span></p>
+<p xml:id="subtitle318" begin="15867916667t" end="15916250000t" region="region0"><span style="style1">mengorek tanah, meneruskan hidup.</span></p>
+<p xml:id="subtitle319" begin="15946250000t" end="15970833334t" region="region0"><span style="style1">Walau Hageshi kuat, ia cuma mampu melihat</span></p>
+<p xml:id="subtitle320" begin="15984583334t" end="16007083334t" region="region0"><span style="style1">dan rampas mangsa yang kembarnya buru.</span></p>
+<p xml:id="subtitle321" begin="16017083334t" end="16032500000t" region="region0"><span style="style1">Hageshi jadi semakin besar</span></p>
+<p xml:id="subtitle322" begin="16049166667t" end="16066666667t" region="region0"><span style="style1">sampai jadi raja segala naga,</span></p>
+<p xml:id="subtitle323" begin="16087083334t" end="16104166667t" region="region0"><span style="style1">sama ada ia layak atau tidak.</span></p>
+<p xml:id="subtitle324" begin="16122500000t" end="16137500000t" region="region0"><span style="style1">Keduanya saling membenci.</span></p>
+<p xml:id="subtitle325" begin="16152916667t" end="16182500000t" region="region0"><span style="style1">Satu hari, Nho Xiu bunuh haiwan besar.</span></p>
+<p xml:id="subtitle326" begin="16197916667t" end="16234166667t" region="region0"><span style="style1">Serik dengan abangnya, Nho Xhiu ke gua</span><br/><span style="style1">untuk baham habuannya.</span></p>
+<p xml:id="subtitle327" begin="16257916667t" end="16271666667t" region="region0"><span style="style1">Tapi Hageshi jumpa dia,</span></p>
+<p xml:id="subtitle328" begin="16285416667t" end="16318750000t" region="region0"><span style="style1">lalu curi makanan daripada mulut</span><br/><span style="style1">kembarnya yang kebulur.</span></p>
+<p xml:id="subtitle329" begin="16335833334t" end="16345416667t" region="region0"><span style="style1">Setelah kenyang,</span></p>
+<p xml:id="subtitle330" begin="16365000000t" end="16373333334t" region="region0"><span style="style1">Hageshi tidur.</span></p>
+<p xml:id="subtitle331" begin="16395416667t" end="16405416667t" region="region0"><span style="style1">Hageshi terdedah.</span></p>
+<p xml:id="subtitle332" begin="16425833334t" end="16477083334t" region="region0"><span style="style1">Ini masa Nho Xiu untuk balas dendam,</span><br/><span style="style1">untuk rampas segalanya yang ia mahukan.</span></p>
+<p xml:id="subtitle333" begin="16492916667t" end="16522916667t" region="region0"><span style="style1">Nho Xiu ragu-ragu sebentar dan terlepas</span><br/><span style="style1">peluangnya.</span></p>
+<p xml:id="subtitle334" begin="16534583334t" end="16546666667t" region="region0"><span style="style1">Hageshi buka matanya</span></p>
+<p xml:id="subtitle335" begin="16558750000t" end="16589583334t" region="region0"><span style="style1">dan nampak kembarnya berdiri atasnya</span><br/><span style="style1">penuh amarah.</span></p>
+<p xml:id="subtitle336" begin="16602083334t" end="16622916667t" region="region0"><span style="style1">Nho Xiu serang, tapi dah terlambat.</span></p>
+<p xml:id="subtitle337" begin="16639166667t" end="16651666667t" region="region0"><span style="style1">Hageshi dah bersedia.</span></p>
+<p xml:id="subtitle338" begin="16663750000t" end="16681666667t" region="region0"><span style="style1">Semudah itu kembarnya dibunuh.</span></p>
+<p xml:id="subtitle339" begin="16693750000t" end="16708750000t" region="region0"><span style="style1">Maka naga kecil itu mati,</span></p>
+<p xml:id="subtitle340" begin="16726250000t" end="16747083334t" region="region0"><span style="style1">penuh penyesalan sebab jadi begini.</span></p>
+<p xml:id="subtitle341" begin="16758333334t" end="16770833334t" region="region0"><span style="style1">Aku ingat cerita ini.</span></p>
+<p xml:id="subtitle342" begin="16781250000t" end="16814166667t" region="region0"><span style="style1">Mak aku selalu cakap sebab ini</span><br/><span style="style1">adik-beradik kena belajar berkongsi,</span></p>
+<p xml:id="subtitle343" begin="16815000000t" end="16834166667t" region="region0"><span style="style1">supaya kami tak saling berbunuh.</span></p>
+<p xml:id="subtitle344" begin="16875416667t" end="16883750000t" region="region0"><span style="style1">Menarik.</span></p>
+<p xml:id="subtitle345" begin="16899583334t" end="16907916667t" region="region0"><span style="style1">Tapi salah.</span></p>
+<p xml:id="subtitle346" begin="16931250000t" end="16953333334t" region="region0"><span style="style1">Nho Xiu tak menyesal benci kembarnya.</span></p>
+<p xml:id="subtitle347" begin="16962083334t" end="17000000000t" region="region0"><span style="style1">Nho Xhiu menyesal sebab tak bunuh</span><br/><span style="style1">kembarnya yang tidur. Pengajarannya,</span></p>
+<p xml:id="subtitle348" begin="17000833334t" end="17025000000t" region="region0"><span style="style1">serang musuh sepenuhnya bila ada peluang.</span></p>
+<p xml:id="subtitle349" begin="17059166667t" end="17071666667t" region="region0"><span style="style1">Aku dihantar ke sini,</span></p>
+<p xml:id="subtitle350" begin="17085833334t" end="17108333334t" region="region0"><span style="style1">jauh dari istana untuk buru abang aku.</span></p>
+<p xml:id="subtitle351" begin="17126666667t" end="17149166667t" region="region0"><span style="style1">Walaupun dia lemah, dia berbahaya.</span></p>
+<p xml:id="subtitle352" begin="17170833334t" end="17181250000t" region="region0"><span style="style1">Dan aku tak akan</span></p>
+<p xml:id="subtitle353" begin="17194583334t" end="17229583334t" region="region0"><span style="style1">teragak-agak bunuh Zuko.</span></p>
+<p xml:id="subtitle354" begin="17759166667t" end="17788750000t" region="region0"><span style="style1">Dalam itu ada cara untuk tumpaskan</span><br/><span style="style1">Negara Api itu.</span></p>
+<p xml:id="subtitle355" begin="17802916667t" end="17820833334t" region="region0"><span style="style1">Beta tak sangka beta tak tahu semua ini.</span></p>
+<p xml:id="subtitle356" begin="17821666667t" end="17843750000t" region="region0"><span style="style1">Patik dengar daripada Kyoshi sendiri.</span></p>
+<p xml:id="subtitle357" begin="17857916667t" end="17877500000t" region="region0"><span style="style1">Di Perpustakaan Roh, percayalah.</span></p>
+<p xml:id="subtitle358" begin="17884166667t" end="17925416667t" region="region0"><span style="style1">Dan kamu cadangkan yang sebelum komet</span><br/><span style="style1">datang, kita perlu buat serangan</span></p>
+<p xml:id="subtitle359" begin="17926250000t" end="17951666667t" region="region0"><span style="style1">besar pada Hari Mentari Hitam?</span></p>
+<p xml:id="subtitle360" begin="17952500000t" end="17966666667t" region="region0"><span style="style1">Dengan bantuan tuanku,</span></p>
+<p xml:id="subtitle361" begin="17978333334t" end="18008333334t" region="region0"><span style="style1">-kita boleh selamatkan dunia.</span><br/><span style="style1">-Kalau ini betul,</span></p>
+<p xml:id="subtitle362" begin="18009166667t" end="18046250000t" region="region0"><span style="style1">ini mungkin perkara paling penting beta</span><br/><span style="style1">pernah dengar dan keputusan paling</span></p>
+<p xml:id="subtitle363" begin="18047083334t" end="18063333334t" region="region0"><span style="style1">penting beta perlu lakukan.</span></p>
+<p xml:id="subtitle364" begin="18088750000t" end="18097083334t" region="region0"><span style="style1">Jeneral Sung.</span></p>
+<p xml:id="subtitle365" begin="18125416667t" end="18166250000t" region="region0"><span style="style1">Jeneral Sung, Long Feng. Beta baru</span><br/><span style="style1">saja dapat satu perkhabaran buruk.</span></p>
+<p xml:id="subtitle366" begin="18167083334t" end="18205000000t" region="region0"><span style="style1">Tentang kejatuhan Omashu, tentera</span><br/><span style="style1">berkampung luar tembok kita dan</span></p>
+<p xml:id="subtitle367" begin="18205833334t" end="18240000000t" region="region0"><span style="style1">komet yang akan beri pengolah api</span><br/><span style="style1">kuasa luar biasa.</span></p>
+<p xml:id="subtitle368" begin="18240833334t" end="18281666667t" region="region0"><span style="style1">-Jeneral Sung boleh sokong apa kami cakap.</span><br/><span style="style1">-Betul ke apa mereka kata?</span></p>
+<p xml:id="subtitle369" begin="18313333334t" end="18329166667t" region="region0"><span style="style1">-Tak.</span><br/><span style="style1">-Apa?</span></p>
+<p xml:id="subtitle370" begin="18330000000t" end="18367916667t" region="region0"><span style="style1">Pertahanan Ba Sing Se masih kuat</span><br/><span style="style1">seperti biasa, tuanku. Memang ada</span></p>
+<p xml:id="subtitle371" begin="18368750000t" end="18401666667t" region="region0"><span style="style1">tentera Api di luar tembok kita,</span><br/><span style="style1">tapi mereka mudah diuruskan.</span></p>
+<p xml:id="subtitle372" begin="18402500000t" end="18438750000t" region="region0"><span style="style1">Peronda Kyoshi sudah tangkap</span><br/><span style="style1">jeneral mereka dan bawa dia ke kota</span></p>
+<p xml:id="subtitle373" begin="18439583334t" end="18483750000t" region="region0"><span style="style1">sebagai tahanan. Sang Avatar dan rakannya</span><br/><span style="style1">cuma nak rasa penting di kota yang tak</span></p>
+<p xml:id="subtitle374" begin="18484583334t" end="18497083334t" region="region0"><span style="style1">perlukan mereka.</span></p>
+<p xml:id="subtitle375" begin="18497916667t" end="18521666667t" region="region0"><span style="style1">Jeneral Sung, puan buat apa ini?</span></p>
+<p xml:id="subtitle376" begin="18522500000t" end="18530833334t" region="region0"><span style="style1">Tuanku.</span></p>
+<p xml:id="subtitle377" begin="18552916667t" end="18605000000t" region="region0"><span style="style1">Kita jangan terlalu kasar pada Avatar</span><br/><span style="style1">dan kawannya. Mereka kan masih muda lagi.</span></p>
+<p xml:id="subtitle378" begin="18605833334t" end="18642916667t" region="region0"><span style="style1">Jangan dengar cakap dia! Dia yang</span><br/><span style="style1">menipu saya dan dia menipu tuanku!</span></p>
+<p xml:id="subtitle379" begin="18643750000t" end="18680000000t" region="region0"><span style="style1">Aang dah berminggu cuba ke sini untuk</span><br/><span style="style1">beritahu semua ini, tapi Long Feng asyik</span></p>
+<p xml:id="subtitle380" begin="18680833334t" end="18689166667t" region="region0"><span style="style1">halang dia.</span></p>
+<p xml:id="subtitle381" begin="18690000000t" end="18721666667t" region="region0"><span style="style1">Satu cerita yang menarik daripada</span><br/><span style="style1">pencuri.</span></p>
+<p xml:id="subtitle382" begin="18722500000t" end="18739166667t" region="region0"><span style="style1">Katara bukan pencuri.</span></p>
+<p xml:id="subtitle383" begin="18740000000t" end="18771666667t" region="region0"><span style="style1">Oh, ini betul. Pada malam jamuan itu,</span><br/><span style="style1">dia curi beberapa jelatang emas</span></p>
+<p xml:id="subtitle384" begin="18772500000t" end="18807083334t" region="region0"><span style="style1">yang bernilai dari istana. Dia ambil</span><br/><span style="style1">kesempatan terhadap layanan baik tuanku.</span></p>
+<p xml:id="subtitle385" begin="18807916667t" end="18834583334t" region="region0"><span style="style1">Sejak itu, dia berkeliaran di</span><br/><span style="style1">Lingkaran Bawah setiap malam,</span></p>
+<p xml:id="subtitle386" begin="18835416667t" end="18901250000t" region="region0"><span style="style1">membuat kacau di tempat yang biasanya</span><br/><span style="style1">tenang.</span></p>
+<p xml:id="subtitle387" begin="18923333334t" end="18942500000t" region="region0"><span style="style1">Saya bantu orang yang memerlukan.</span></p>
+<p xml:id="subtitle388" begin="18943333334t" end="18981250000t" region="region0"><span style="style1">Kalau betul kamu membantu, kenapa kamu</span><br/><span style="style1">perlu menyamar dan diamkan</span></p>
+<p xml:id="subtitle389" begin="18982083334t" end="19034583334t" region="region0"><span style="style1">tindakan kamu? Kalau betul kamu membantu,</span><br/><span style="style1">kenapa kamu lari dari rusuhan?</span></p>
+<p xml:id="subtitle390" begin="19070000000t" end="19082500000t" region="region0"><span style="style1">Itu baru permulaan.</span></p>
+<p xml:id="subtitle391" begin="19101666667t" end="19145000000t" region="region0"><span style="style1">Sumber mengatakan kerabat Beifong</span><br/><span style="style1">menghasilkan senjata perang untuk Negara</span></p>
+<p xml:id="subtitle392" begin="19145833334t" end="19181666667t" region="region0"><span style="style1">Api. Senjata perang yang mereka</span><br/><span style="style1">guna terhadap Puak Air Utara.</span></p>
+<p xml:id="subtitle393" begin="19182500000t" end="19225833334t" region="region0"><span style="style1">Senjata perang yang mereka boleh guna</span><br/><span style="style1">terhadap Ba Sing Se. Mereka pembelot</span></p>
+<p xml:id="subtitle394" begin="19226666667t" end="19235416667t" region="region0"><span style="style1">Kerajaan Tanah.</span></p>
+<p xml:id="subtitle395" begin="19236250000t" end="19246666667t" region="region0"><span style="style1">Itu tak betul.</span></p>
+<p xml:id="subtitle396" begin="19247500000t" end="19282500000t" region="region0"><span style="style1">Toph tak tahu apa-apa pasal itu sampai</span><br/><span style="style1">baru-baru ini.</span></p>
+<p xml:id="subtitle397" begin="19287500000t" end="19331250000t" region="region0"><span style="style1">Cik Puan Beifong kini di kota dan</span><br/><span style="style1">dah berhubung dengan anaknya. Siapa tahu</span></p>
+<p xml:id="subtitle398" begin="19332083334t" end="19365416667t" region="region0"><span style="style1">apa Toph muda ini bakal beritahu</span><br/><span style="style1">pada ibunya.</span></p>
+<p xml:id="subtitle399" begin="19376250000t" end="19386666667t" region="region0"><span style="style1">Dan yang ini.</span></p>
+<p xml:id="subtitle400" begin="19399166667t" end="19434166667t" region="region0"><span style="style1">Yang ini orang terakhir dilihat bersama</span><br/><span style="style1">ilmuwan terkemuka kota ini sebelum dia</span></p>
+<p xml:id="subtitle401" begin="19435000000t" end="19469583334t" region="region0"><span style="style1">didapati hilang. Dai Li sedang menyiasat</span><br/><span style="style1">kehilangan Profesor Zei sebagai satu</span></p>
+<p xml:id="subtitle402" begin="19470416667t" end="19486250000t" region="region0"><span style="style1">pembunuhan.</span></p>
+<p xml:id="subtitle403" begin="19502500000t" end="19537500000t" region="region0"><span style="style1">Tuanku, Dai Li tak boleh dipercayai.</span><br/><span style="style1">Mereka cuma taat kepada Long Feng.</span></p>
+<p xml:id="subtitle404" begin="19538333334t" end="19567083334t" region="region0"><span style="style1">Ketahuilah, tuanku, yang tuduhan</span><br/><span style="style1">ini datang daripada pemuda yang</span></p>
+<p xml:id="subtitle405" begin="19567916667t" end="19600416667t" region="region0"><span style="style1">secara terbuka bersekongkol dengan Sai,</span><br/><span style="style1">perisik Negara Api yang hasilkan</span></p>
+<p xml:id="subtitle406" begin="19601250000t" end="19618750000t" region="region0"><span style="style1">naratif ini.</span></p>
+<p xml:id="subtitle407" begin="19638333334t" end="19646666667t" region="region0"><span style="style1">Sai tak…</span></p>
+<p xml:id="subtitle408" begin="19647500000t" end="19673333334t" region="region0"><span style="style1">Dia tak apa? Dia tak cuba nak membunuh</span><br/><span style="style1">Raja Omashu?</span></p>
+<p xml:id="subtitle409" begin="19674166667t" end="19688750000t" region="region0"><span style="style1">Kami boleh jelaskan semua ini.</span></p>
+<p xml:id="subtitle410" begin="19689583334t" end="19725000000t" region="region0"><span style="style1">Kamu memang suka memutar belit cerita.</span><br/><span style="style1">Begini, tuanku. Sang Avatar bersekongkol</span></p>
+<p xml:id="subtitle411" begin="19725833334t" end="19759166667t" region="region0"><span style="style1">dengan pencuri, perisik dan pembelot.</span><br/><span style="style1">Boleh ke kita percayakan Sang Avatar</span></p>
+<p xml:id="subtitle412" begin="19760000000t" end="19829166667t" region="region0"><span style="style1">sedangkan rakannya sudah terbukti</span><br/><span style="style1">bermusuhan dengan Kerajaan Tanah?</span></p>
+<p xml:id="subtitle413" begin="19858750000t" end="19902500000t" region="region0"><span style="style1">Tolonglah, tuanku. Walau apa dia cakap</span><br/><span style="style1">tentang kami, hakikat yang kota ini</span></p>
+<p xml:id="subtitle414" begin="19903333334t" end="19944166667t" region="region0"><span style="style1">dalam bahaya tak berubah. Negara Api</span><br/><span style="style1">akan datang dan tuanku ada kuasa</span></p>
+<p xml:id="subtitle415" begin="19945000000t" end="19962916667t" region="region0"><span style="style1">untuk bangkit berjuang.</span></p>
+<p xml:id="subtitle416" begin="19991666667t" end="20022500000t" region="region0"><span style="style1">Tolonglah, tuanku. Kami perlukan bantuan.</span></p>
+<p xml:id="subtitle417" begin="20044166667t" end="20052500000t" region="region0"><span style="style1">Dunia</span></p>
+<p xml:id="subtitle418" begin="20060000000t" end="20070416667t" region="region0"><span style="style1">perlukan bantuan.</span></p>
+<p xml:id="subtitle419" begin="20154583334t" end="20162916667t" region="region0"><span style="style1">Long Feng.</span></p>
+<p xml:id="subtitle420" begin="20200833334t" end="20231666667t" region="region0"><span style="style1">-Apa patut beta buat?</span><br/><span style="style1">-Jangan tanya dia. Dia penipu.</span></p>
+<p xml:id="subtitle421" begin="20255416667t" end="20267083334t" region="region0"><span style="style1">Ke mana awak bawa Appa?</span></p>
+<p xml:id="subtitle422" begin="20267916667t" end="20290416667t" region="region0"><span style="style1">-Aang, jangan.</span><br/><span style="style1">-Saya tahu awak dalang!</span></p>
+<p xml:id="subtitle423" begin="20300416667t" end="20319166667t" region="region0"><span style="style1">Appa di mana?</span></p>
+<p xml:id="subtitle424" begin="20345416667t" end="20354583334t" region="region0"><span style="style1">Bertahan, tuanku.</span></p>
+<p xml:id="subtitle425" begin="20355416667t" end="20365000000t" region="region0"><span style="style1">Aang!</span></p>
+<p xml:id="subtitle426" begin="20409166667t" end="20417500000t" region="region0"><span style="style1">Aang!</span></p>
+<p xml:id="subtitle427" begin="20557083334t" end="20580833334t" region="region0"><span style="style1">Iringi Avatar dan rakan-rakannya pulang.</span></p>
+<p xml:id="subtitle428" begin="20797500000t" end="20812500000t" region="region0"><span style="style1">Terima kasih, Long Feng</span></p>
+<p xml:id="subtitle429" begin="20828750000t" end="20847916667t" region="region0"><span style="style1">atas bantuan dan kesetiaan kamu.</span></p>
+<p xml:id="subtitle430" begin="20869583334t" end="20887500000t" region="region0"><span style="style1">Patik sedia berkhidmat.</span></p>
+<p xml:id="subtitle431" begin="20910000000t" end="20949583334t" region="region0"><span style="style1">Tapi beta tak tahu menahu tentang tentera</span><br/><span style="style1">Negara Api, Jeneral Sung.</span></p>
+<p xml:id="subtitle432" begin="20962500000t" end="20989583334t" region="region0"><span style="style1">Kamu kata cerita itu ada benarnya. Betul,</span><br/><span style="style1">kan?</span></p>
+<p xml:id="subtitle433" begin="20999583334t" end="21015833334t" region="region0"><span style="style1">Ya. Patik aturkan masa untuk tuanku</span></p>
+<p xml:id="subtitle434" begin="21016666667t" end="21043750000t" region="region0"><span style="style1">-periksa tentera di tembok kita.</span><br/><span style="style1">-Jeneral Sung.</span></p>
+<p xml:id="subtitle435" begin="21044583334t" end="21077083334t" region="region0"><span style="style1">Sila hantarkan laporan tindakan</span><br/><span style="style1">terkini dari tembok.</span></p>
+<p xml:id="subtitle436" begin="21082916667t" end="21095416667t" region="region0"><span style="style1">Baiklah, tuanku.</span></p>
+<p xml:id="subtitle437" begin="21096250000t" end="21134583334t" region="region0"><span style="style1">Dan akan datang, maklumkan beta</span><br/><span style="style1">dengan segera secara terus sebarang</span></p>
+<p xml:id="subtitle438" begin="21135416667t" end="21159583334t" region="region0"><span style="style1">ancaman di sempadan.</span></p>
+<p xml:id="subtitle439" begin="21358333334t" end="21380833334t" region="region0"><span style="style1">Kawalan ketat kau di serata kota ini,</span></p>
+<p xml:id="subtitle440" begin="21395833334t" end="21408750000t" region="region0"><span style="style1">dah semakin terjejas.</span></p>
+<p xml:id="subtitle441" begin="21737083334t" end="21760000000t" region="region0"><span style="style1">Hei, kita boleh fikir rancangan barulah.</span></p>
+<p xml:id="subtitle442" begin="21760833334t" end="21773750000t" region="region0"><span style="style1">Kita boleh ikhtiar.</span></p>
+<p xml:id="subtitle443" begin="21780416667t" end="21790833334t" region="region0"><span style="style1">Rancangan baru?</span></p>
+<p xml:id="subtitle444" begin="21800833334t" end="21819583334t" region="region0"><span style="style1">Cukuplah. Kita kalah.</span></p>
+<p xml:id="subtitle445" begin="21820416667t" end="21848333334t" region="region0"><span style="style1">-Jangan cakap macam itu.</span><br/><span style="style1">-Ini semua salah kau.</span></p>
+<p xml:id="subtitle446" begin="21857500000t" end="21865833334t" region="region0"><span style="style1">Aku?</span></p>
+<p xml:id="subtitle447" begin="21866666667t" end="21900000000t" region="region0"><span style="style1">Semuanya berjalan lancar sampailah</span><br/><span style="style1">Long Feng bagitahu baginda apa kau buat</span></p>
+<p xml:id="subtitle448" begin="21900833334t" end="21909166667t" region="region0"><span style="style1">malam-malam.</span></p>
+<p xml:id="subtitle449" begin="21910000000t" end="21943333334t" region="region0"><span style="style1">Aku ambil jelatang itu untuk tolong</span><br/><span style="style1">budak sakit. Apa yang aku buat cuma nak</span></p>
+<p xml:id="subtitle450" begin="21944166667t" end="21970833334t" region="region0"><span style="style1">-bantu orang.</span><br/><span style="style1">-Tapi tak bantu kita, betul tak?</span></p>
+<p xml:id="subtitle451" begin="21971666667t" end="22003333334t" region="region0"><span style="style1">Dahlah, Aang. Kami mesti dah bagitahu</span><br/><span style="style1">pada kau kalau ini urusan kau.</span></p>
+<p xml:id="subtitle452" begin="22004166667t" end="22021666667t" region="region0"><span style="style1">Kau bagitahu dia dan bukan aku?</span></p>
+<p xml:id="subtitle453" begin="22022500000t" end="22056250000t" region="region0"><span style="style1">Dia tak bagitahu aku. Aku kesan</span><br/><span style="style1">dia keluar rumah malam-malam.</span></p>
+<p xml:id="subtitle454" begin="22057083334t" end="22078333334t" region="region0"><span style="style1">-Jadi kau orang berdua menipu?</span><br/><span style="style1">-Tak!</span></p>
+<p xml:id="subtitle455" begin="22086666667t" end="22118750000t" region="region0"><span style="style1">Mungkin kau pun boleh kesan juga</span><br/><span style="style1">kalau kau fokus belajar mengolah tanah</span></p>
+<p xml:id="subtitle456" begin="22119583334t" end="22133750000t" region="region0"><span style="style1">daripada merayau-rayau dengan Long Feng.</span></p>
+<p xml:id="subtitle457" begin="22134583334t" end="22155000000t" region="region0"><span style="style1">Ini kau orang cakap saling menyokong?</span></p>
+<p xml:id="subtitle458" begin="22155833334t" end="22190000000t" region="region0"><span style="style1">Kau jangan nak mula, eh. Sejak bila</span><br/><span style="style1">kau dapat tahu mak ayah dia buat senjata</span></p>
+<p xml:id="subtitle459" begin="22190833334t" end="22200833334t" region="region0"><span style="style1">untuk Negara Api?</span></p>
+<p xml:id="subtitle460" begin="22201666667t" end="22233333334t" region="region0"><span style="style1">Hei, aku dah tak ada kaitan dengan</span><br/><span style="style1">mereka lagi, jadi bukannya penting pun.</span></p>
+<p xml:id="subtitle461" begin="22234166667t" end="22265000000t" region="region0"><span style="style1">Itu penting. Dah berapa lama keluarga</span><br/><span style="style1">kau berniaga dengan Negara Api?</span></p>
+<p xml:id="subtitle462" begin="22265833334t" end="22288333334t" region="region0"><span style="style1">Mereka buatkan kapal perang sekali ke?</span></p>
+<p xml:id="subtitle463" begin="22308750000t" end="22348333334t" region="region0"><span style="style1">Mereka ke buat kapal yang datang</span><br/><span style="style1">ke Wolf Cove? Mereka ke buat kapal</span></p>
+<p xml:id="subtitle464" begin="22349166667t" end="22387500000t" region="region0"><span style="style1">yang bawa pengolah api yang bakar</span><br/><span style="style1">kampung kami dan bunuh ibu aku?</span></p>
+<p xml:id="subtitle465" begin="22388333334t" end="22429166667t" region="region0"><span style="style1">Kapal yang usir ayah sampai dia</span><br/><span style="style1">tinggalkan kami? Mereka ke buat kapal</span></p>
+<p xml:id="subtitle466" begin="22430000000t" end="22438333334t" region="region0"><span style="style1">itu?</span></p>
+<p xml:id="subtitle467" begin="22473750000t" end="22490416667t" region="region0"><span style="style1">Kenapa kau tak bagitahu aku?</span></p>
+<p xml:id="subtitle468" begin="22497500000t" end="22512916667t" region="region0"><span style="style1">Aku tak ada pula terfikir.</span></p>
+<p xml:id="subtitle469" begin="22522500000t" end="22535000000t" region="region0"><span style="style1">Kau tak pernah fikir.</span></p>
+<p xml:id="subtitle470" begin="22562916667t" end="22571250000t" region="region0"><span style="style1">Wau.</span></p>
+<p xml:id="subtitle471" begin="22581250000t" end="22622500000t" region="region0"><span style="style1">Aku ingat kau orang dah faham yang aku</span><br/><span style="style1">bukan keluarga aku.</span></p>
+<p xml:id="subtitle472" begin="22623333334t" end="22655833334t" region="region0"><span style="style1">Kau pasti? Sebab dengarnya macam kau</span><br/><span style="style1">selalu saja bercakap dengan mereka.</span></p>
+<p xml:id="subtitle473" begin="22656666667t" end="22665000000t" region="region0"><span style="style1">Mak kau dekat sini?</span></p>
+<p xml:id="subtitle474" begin="22665833334t" end="22674166667t" region="region0"><span style="style1">Apa?</span></p>
+<p xml:id="subtitle475" begin="22685000000t" end="22709166667t" region="region0"><span style="style1">-Ya, tapi…</span><br/><span style="style1">-Kenapa kau tak bagitahu kami?</span></p>
+<p xml:id="subtitle476" begin="22715000000t" end="22730000000t" region="region0"><span style="style1">Aku tak cakap dengan dia.</span></p>
+<p xml:id="subtitle477" begin="22742083334t" end="22772083334t" region="region0"><span style="style1">Apa dia buat cuma hantar surat untuk</span><br/><span style="style1">cakap dia nak datang.</span></p>
+<p xml:id="subtitle478" begin="22772916667t" end="22801666667t" region="region0"><span style="style1">Ini sebelum ke lepas kau tahu yang dia</span><br/><span style="style1">penjenayah perang?</span></p>
+<p xml:id="subtitle479" begin="22802500000t" end="22813333334t" region="region0"><span style="style1">Eh, kau ini.</span></p>
+<p xml:id="subtitle480" begin="22831666667t" end="22859166667t" region="region0"><span style="style1">Aku bukan penjenayah perang.</span></p>
+<p xml:id="subtitle481" begin="22877916667t" end="22919166667t" region="region0"><span style="style1">Aku datang sini nak tolong Avatar</span><br/><span style="style1">siap sedia lawan Negara Api. Kau itu</span></p>
+<p xml:id="subtitle482" begin="22920000000t" end="22928333334t" region="region0"><span style="style1">pergi mana?</span></p>
+<p xml:id="subtitle483" begin="22929166667t" end="22952500000t" region="region0"><span style="style1">Bagus soalan itu. Mungkin dia</span><br/><span style="style1">yang cetuskan rusuhan.</span></p>
+<p xml:id="subtitle484" begin="22953333334t" end="22987500000t" region="region0"><span style="style1">Aku tak cetuskan rusuhan. Ada orang</span><br/><span style="style1">serang pembelot Negara Api tak bersalah.</span></p>
+<p xml:id="subtitle485" begin="22988333334t" end="23010416667t" region="region0"><span style="style1">-Mereka…</span><br/><span style="style1">-Kejap. Kau bela Negara Api?</span></p>
+<p xml:id="subtitle486" begin="23019583334t" end="23037500000t" region="region0"><span style="style1">Okey, okey, kalau kau buat tak apa.</span></p>
+<p xml:id="subtitle487" begin="23038333334t" end="23067500000t" region="region0"><span style="style1">Aku cuma bela orang tak bersalah.</span><br/><span style="style1">Tak kisahlah apa yang aku buat.</span></p>
+<p xml:id="subtitle488" begin="23068333334t" end="23105000000t" region="region0"><span style="style1">Kita semua tahu punca kita bergaduh</span><br/><span style="style1">ini sebab Long Feng.</span></p>
+<p xml:id="subtitle489" begin="23105833334t" end="23133333334t" region="region0"><span style="style1">Aku dah agak yang dia itu jahat</span><br/><span style="style1">sejak kita jumpa dia.</span></p>
+<p xml:id="subtitle490" begin="23134166667t" end="23162916667t" region="region0"><span style="style1">Macam manalah aku nak tahu? Dia</span><br/><span style="style1">tolong kita.</span></p>
+<p xml:id="subtitle491" begin="23163750000t" end="23178333334t" region="region0"><span style="style1">Tapi sekarang tak pun.</span></p>
+<p xml:id="subtitle492" begin="23179166667t" end="23197500000t" region="region0"><span style="style1">Macam mana dengan orang kau percaya, hah?</span></p>
+<p xml:id="subtitle493" begin="23198333334t" end="23215000000t" region="region0"><span style="style1">Ya, Profesor Zei suci sangat.</span></p>
+<p xml:id="subtitle494" begin="23215833334t" end="23239583334t" region="region0"><span style="style1">Oh ya? Macamlah bagus sangat</span><br/><span style="style1">Jeneral Sung. Kau cakap dia di</span></p>
+<p xml:id="subtitle495" begin="23240416667t" end="23251666667t" region="region0"><span style="style1">-pihak kita.</span><br/><span style="style1">-Dulu.</span></p>
+<p xml:id="subtitle496" begin="23260000000t" end="23269166667t" region="region0"><span style="style1">Habis, apa jadi?</span></p>
+<p xml:id="subtitle497" begin="23270000000t" end="23294583334t" region="region0"><span style="style1">Kau rasa apa? Long Feng dah jerat dia.</span></p>
+<p xml:id="subtitle498" begin="23295416667t" end="23307916667t" region="region0"><span style="style1">Jangan salahkan aku.</span></p>
+<p xml:id="subtitle499" begin="23308750000t" end="23349583334t" region="region0"><span style="style1">Aku dah kata kau kena kekal bertenang.</span><br/><span style="style1">Aku dah cakap, kan?</span></p>
+<p xml:id="subtitle500" begin="23350416667t" end="23380833334t" region="region0"><span style="style1">Ya, tapi kau nak juga seru Semangat</span><br/><span style="style1">Avatar pada masa itu.</span></p>
+<p xml:id="subtitle501" begin="23381666667t" end="23410416667t" region="region0"><span style="style1">Kita dah pun kalah lepas Raja</span><br/><span style="style1">Tanah dengar apa kau orang bertiga</span></p>
+<p xml:id="subtitle502" begin="23411250000t" end="23426250000t" region="region0"><span style="style1">buat selama ini.</span></p>
+<p xml:id="subtitle503" begin="23427083334t" end="23444583334t" region="region0"><span style="style1">Macam semua ini tak penting pun.</span></p>
+<p xml:id="subtitle504" begin="23445416667t" end="23489166667t" region="region0"><span style="style1">Kau orang konon kawan aku, konon kau</span><br/><span style="style1">orang faham tekanan yang aku rasa,</span></p>
+<p xml:id="subtitle505" begin="23490000000t" end="23500000000t" region="region0"><span style="style1">tapi tak pun.</span></p>
+<p xml:id="subtitle506" begin="23516666667t" end="23541666667t" region="region0"><span style="style1">Aku kena selamatkan dunia.</span></p>
+<p xml:id="subtitle507" begin="23554583334t" end="23592916667t" region="region0"><span style="style1">Dan kau orang boleh pura-pura faham.</span><br/><span style="style1">Tapi kau orang langsung tak faham.</span></p>
+<p xml:id="subtitle508" begin="23593750000t" end="23611666667t" region="region0"><span style="style1">Yang faham sekarang cuma Appa.</span></p>
+<p xml:id="subtitle509" begin="23622916667t" end="23632916667t" region="region0"><span style="style1">Tapi dia tak ada.</span></p>
+<p xml:id="subtitle510" begin="23647083334t" end="23668750000t" region="region0"><span style="style1">Sebab kau tak tolong dia.</span></p>
+<p xml:id="subtitle511" begin="23669583334t" end="23689583334t" region="region0"><span style="style1">Sebab aku nak selamatkan kau!</span></p>
+<p xml:id="subtitle512" begin="23719166667t" end="23730000000t" region="region0"><span style="style1">Baik, macam nilah.</span></p>
+<p xml:id="subtitle513" begin="23752500000t" end="23762083334t" region="region0"><span style="style1">Aku dah letih.</span></p>
+<p xml:id="subtitle514" begin="23777083334t" end="23787083334t" region="region0"><span style="style1">Aku mungkin buta,</span></p>
+<p xml:id="subtitle515" begin="23799166667t" end="23819583334t" region="region0"><span style="style1">tapi kau orang pun tak nampak aku.</span></p>
+<p xml:id="subtitle516" begin="23837083334t" end="23852916667t" region="region0"><span style="style1">-Pergilah. Pergi.</span><br/><span style="style1">-Hei.</span></p>
+<p xml:id="subtitle517" begin="23853750000t" end="23880000000t" region="region0"><span style="style1">Pergi. Aku pun dah tak perlukan kau</span><br/><span style="style1">lagilah.</span></p>
+<p xml:id="subtitle518" begin="23961250000t" end="23974583334t" region="region0"><span style="style1">Kau biarkan saja dia pergi?</span></p>
+<p xml:id="subtitle519" begin="23975416667t" end="24004583334t" region="region0"><span style="style1">Kau nak pergi juga? Silakan.</span><br/><span style="style1">Melainkan kau nak duduk dan buat</span></p>
+<p xml:id="subtitle520" begin="24005416667t" end="24025416667t" region="region0"><span style="style1">satu lagi rancangan yang tak jadi.</span></p>
+<p xml:id="subtitle521" begin="24032916667t" end="24047083334t" region="region0"><span style="style1">Tak, rancangan aku jadi.</span></p>
+<p xml:id="subtitle522" begin="24060416667t" end="24070000000t" region="region0"><span style="style1">Kita cuma kalah.</span></p>
+<p xml:id="subtitle523" begin="24088750000t" end="24112500000t" region="region0"><span style="style1">Dan itu bukan salah aku. Tapi salah kau.</span></p>
+<p xml:id="subtitle524" begin="24173333334t" end="24187083334t" region="region0"><span style="style1">Pasukan Avatar konon.</span></p>
+<p xml:id="subtitle525" begin="24217083334t" end="24225416667t" region="region0"><span style="style1">Sokka!</span></p>
+<p xml:id="subtitle526" begin="24361250000t" end="24376250000t" region="region0"><span style="style1">Kau cakap kau sokong aku.</span></p>
+<p xml:id="subtitle527" begin="24407916667t" end="24422083334t" region="region0"><span style="style1">Aku sentiasa sokong kau.</span></p>
+<p xml:id="subtitle528" begin="24432916667t" end="24463333334t" region="region0"><span style="style1">Aku dah buat apa yang patut untuk</span><br/><span style="style1">tolong kau.</span></p>
+<p xml:id="subtitle529" begin="24464166667t" end="24488750000t" region="region0"><span style="style1">Tak. Kau pergi buat hal sendiri.</span></p>
+<p xml:id="subtitle530" begin="24500833334t" end="24512083334t" region="region0"><span style="style1">Kau tak kisah.</span></p>
+<p xml:id="subtitle531" begin="24530833334t" end="24563750000t" region="region0"><span style="style1">Kau tak sedar ke hari ini? Aku terpaksa</span><br/><span style="style1">pikul beban kita sebab kau nampak</span></p>
+<p xml:id="subtitle532" begin="24564583334t" end="24594166667t" region="region0"><span style="style1">susah hati. Sebabnya aku buat semua</span><br/><span style="style1">orang fokus dengan pernananlah</span></p>
+<p xml:id="subtitle533" begin="24595000000t" end="24641250000t" region="region0"><span style="style1">kita dapat pergi menghadap Raja Tanah</span><br/><span style="style1">tadi.</span></p>
+<p xml:id="subtitle534" begin="24642083334t" end="24657500000t" region="region0"><span style="style1">Dan macamlah kita berjaya.</span></p>
+<p xml:id="subtitle535" begin="24673333334t" end="24681666667t" region="region0"><span style="style1">Betul tak?</span></p>
+<p xml:id="subtitle536" begin="24725416667t" end="24733750000t" region="region0"><span style="style1">Macam inilah.</span></p>
+<p xml:id="subtitle537" begin="24757083334t" end="24773333334t" region="region0"><span style="style1">Kau pikullah beban sendiri.</span></p>
+<p xml:id="subtitle538" begin="24982916667t" end="24995000000t" region="region0"><span style="style1">Saya boleh jelaskan.</span></p>
+<p xml:id="subtitle539" begin="25013750000t" end="25044583334t" region="region0"><span style="style1">Kamu tak perlu jelaskan keputusan</span><br/><span style="style1">kamu pada pak cik.</span></p>
+<p xml:id="subtitle540" begin="25086666667t" end="25100833334t" region="region0"><span style="style1">Saya tetap nak jelaskan.</span></p>
+<p xml:id="subtitle541" begin="25136250000t" end="25172916667t" region="region0"><span style="style1">Saya tak buat semua ini sebab marah atau</span><br/><span style="style1">untuk dendam.</span></p>
+<p xml:id="subtitle542" begin="25190416667t" end="25218750000t" region="region0"><span style="style1">Saya buat benda ini sebab saya nak tolong</span><br/><span style="style1">orang.</span></p>
+<p xml:id="subtitle543" begin="25245000000t" end="25253333334t" region="region0"><span style="style1">Dan</span></p>
+<p xml:id="subtitle544" begin="25269166667t" end="25286250000t" region="region0"><span style="style1">saya buat untuk diri sendiri.</span></p>
+<p xml:id="subtitle545" begin="25316250000t" end="25324583334t" region="region0"><span style="style1">Zuko.</span></p>
+<p xml:id="subtitle546" begin="25354166667t" end="25374166667t" region="region0"><span style="style1">Terima kasih bawa pak cik ke sini.</span></p>
+<p xml:id="subtitle547" begin="25383333334t" end="25397916667t" region="region0"><span style="style1">Kamu budak baik.</span></p>
+<p xml:id="subtitle548" begin="25657500000t" end="25665833334t" region="region0"><span style="style1">Boleh saya bantu?</span></p>
+<p xml:id="subtitle549" begin="25666666667t" end="25702083334t" region="region0"><span style="style1">Saya sedang cari kawan yang masih</span><br/><span style="style1">berpegang pada cara purba.</span></p>
+<p xml:id="subtitle550" begin="26031666667t" end="26058750000t" region="region0"><span style="style1">Aku Iroh. Sang Naga Barat.</span></p>
+<p xml:id="subtitle551" begin="26070000000t" end="26088333334t" region="region0"><span style="style1">Aku ingin tawarkan khidmat aku.</span></p>
+<p xml:id="subtitle552" begin="26110833334t" end="26135000000t" region="region0"><span style="style1">Tapi kau tahu aku di sini. Betul, kan?</span></p>
+<p xml:id="subtitle553" begin="26151666667t" end="26175416667t" region="region0"><span style="style1">Sang Naga Barat itu pembunuh yang kejam.</span></p>
+<p xml:id="subtitle554" begin="26199166667t" end="26241250000t" region="region0"><span style="style1">Dia suruh bakar ramai orang tak bersalah,</span><br/><span style="style1">sembelih mereka yang lawan kita</span></p>
+<p xml:id="subtitle555" begin="26242083334t" end="26295000000t" region="region0"><span style="style1">dan sesiapa yang menentang apa yang</span><br/><span style="style1">negara kita nak lakukan.</span></p>
+<p xml:id="subtitle556" begin="26305000000t" end="26320000000t" region="region0"><span style="style1">Aku bukan orang itu lagi.</span></p>
+<p xml:id="subtitle557" begin="26382083334t" end="26424166667t" region="region0"><span style="style1">Kau tak boleh elak Naga itu. Kau dan</span><br/><span style="style1">dia entiti yang sama. Tindakan itu</span></p>
+<p xml:id="subtitle558" begin="26425000000t" end="26443750000t" region="region0"><span style="style1">tindakan kau.</span></p>
+<p xml:id="subtitle559" begin="26470000000t" end="26488333334t" region="region0"><span style="style1">Walau sejauh mana pun kau lari.</span></p>
+<p xml:id="subtitle560" begin="26520416667t" end="26554583334t" region="region0"><span style="style1">Aku berkhidmat dengan Sang Naga. Aku</span><br/><span style="style1">tinggalkan Sang Naga.</span></p>
+<p xml:id="subtitle561" begin="26578333334t" end="26595833334t" region="region0"><span style="style1">Rejimen aku jadi tak bertuan.</span></p>
+<p xml:id="subtitle562" begin="26619166667t" end="26661250000t" region="region0"><span style="style1">Ramai yang aku abaikan terkorban. Sebelum</span><br/><span style="style1">pengunduran diarahkan.</span></p>
+<p xml:id="subtitle563" begin="26721666667t" end="26740833334t" region="region0"><span style="style1">Salah seorangnya bernama Lu Ten.</span></p>
+<p xml:id="subtitle564" begin="26777083334t" end="26846250000t" region="region0"><span style="style1">Sang Naga meninggalkan aku dalam api-api</span><br/><span style="style1">dendam. Apa si tua ini akan buat?</span></p>
+<p xml:id="subtitle565" begin="27020416667t" end="27034583334t" region="region0"><span style="style1">Aku nak minta maaf</span></p>
+<p xml:id="subtitle566" begin="27045416667t" end="27066250000t" region="region0"><span style="style1">atas apa aku arahkan kau buat dulu.</span></p>
+<p xml:id="subtitle567" begin="27160833334t" end="27169166667t" region="region0"><span style="style1">Aku maafkan.</span></p>
+<p xml:id="subtitle568" begin="27210000000t" end="27218333334t" region="region0"><span style="style1">Setuju?</span></p>
+<p xml:id="subtitle569" begin="27219166667t" end="27227500000t" region="region0"><span style="style1">-Ya.</span><br/><span style="style1">-Ya.</span></p>
+<p xml:id="subtitle570" begin="27281250000t" end="27293750000t" region="region0"><span style="style1">Selamat datang, Iroh.</span></p>
+<p xml:id="subtitle571" begin="27300000000t" end="27310000000t" region="region0"><span style="style1">Ke Teratai Putih.</span></p>
+<p xml:id="subtitle572" begin="27321666667t" end="27334166667t" region="region0"><span style="style1">Banyak nak kena buat.</span></p>
+<p xml:id="subtitle573" begin="28430833334t" end="28439166667t" region="region0"><span style="style1">Toph!</span></p>
+<p xml:id="subtitle574" begin="28504166667t" end="28513333334t" region="region0"><span style="style1">Hai, mak.</span></p>
+<p xml:id="subtitle575" begin="28795833334t" end="28804166667t" region="region0"><span style="style1">Kau.</span></p>
+<p xml:id="subtitle576" begin="28830416667t" end="28843333334t" region="region0"><span style="style1">Hai awak!</span></p>
+<p xml:id="subtitle577" begin="28914583334t" end="28934166667t" region="region0"><span style="style1">Aku dah rosakkan semuanya.</span></p>
+<p xml:id="subtitle578" begin="28945833334t" end="28954166667t" region="region0"><span style="style1">Kan, Momo?</span></p>
+<p xml:id="subtitle579" begin="29002083334t" end="29011250000t" region="region0"><span style="style1">Aku kecewakan…</span></p>
+<p xml:id="subtitle580" begin="29027500000t" end="29035833334t" region="region0"><span style="style1">…semua orang.</span></p>
+<p xml:id="subtitle581" begin="29135833334t" end="29175833334t" region="region0"><span style="style1">Aku kena rasa segalanya supaya aku</span><br/><span style="style1">tak rasa apa-apa. Dan itu penting</span></p>
+<p xml:id="subtitle582" begin="29176666667t" end="29207500000t" region="region0"><span style="style1">untuk rasa segalanya.</span></p>
+<p xml:id="subtitle583" begin="29655833334t" end="29664166667t" region="region0"><span style="style1">Appa!</span></p>
+</div>
+</body>
+</tt>
