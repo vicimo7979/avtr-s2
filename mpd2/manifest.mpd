@@ -397,5 +397,56 @@
 				</SegmentTemplate>
 			</Representation>
 		</AdaptationSet>
+		
+		
+<!-- Subtitles AdaptationSet for Malay -->
+<AdaptationSet
+    contentType="text"
+    lang="ms"
+    label="Bahasa Melayu"
+    mimeType="application/ttml+xml">
+    
+    <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+    <Representation id="textstream_ms_1" bandwidth="256">
+        <BaseURL>https://vicimo7979.github.io/avtr-s2/mpd2/</BaseURL>
+        <SegmentList>
+            <SegmentURL media="subtitles_msa.ttml"/>
+        </SegmentList>
+    </Representation>
+</AdaptationSet>
+
+<!-- Subtitles AdaptationSet for English -->
+<AdaptationSet
+    contentType="text"
+    lang="en"
+    label="English"
+    mimeType="application/ttml+xml">
+    
+    <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+    <Representation id="textstream_en_1" bandwidth="256">
+        <BaseURL>https://vicimo7979.github.io/avtr-s2/mpd2/</BaseURL>
+        <SegmentList>
+            <SegmentURL media="subtitles_eng.ttml"/>
+        </SegmentList>
+    </Representation>
+</AdaptationSet>
+
+<!-- Subtitles AdaptationSet for Chinese -->
+<AdaptationSet
+    contentType="text"
+    lang="zh"
+    label="Chinese"
+    mimeType="application/ttml+xml">
+    
+    <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+    <Representation id="textstream_zh_1" bandwidth="256">
+        <BaseURL>https://vicimo7979.github.io/avtr-s2/mpd2/</BaseURL>
+        <SegmentList>
+            <SegmentURL media="subtitles_chi.ttml"/>
+        </SegmentList>
+    </Representation>
+</AdaptationSet>		
+		
+		
 	</Period>
 </MPD>

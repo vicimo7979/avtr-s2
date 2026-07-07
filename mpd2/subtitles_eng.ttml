@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt ttp:contentProfiles="http://www.w3.org/ns/ttml/profile/imsc1.1/text" xmlns="http://www.w3.org/ns/ttml" xmlns:nttm="http://www.netflix.com/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xml="http://www.w3.org/XML/1998/namespace" ttp:tickRate="10000000" ttp:timeBase="media" xml:lang="en">
+<head>
+<metadata nttm:schemaVersion="0" nttm:textType="CC" nttm:uuid="528498d8-9d67-4bbe-8d14-f16a908c89db"/>
+<styling>
+<initial tts:backgroundColor="transparent" tts:color="white" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:opacity="1.000" tts:origin="10.000% 10.000%" tts:showBackground="whenActive" tts:textAlign="center" tts:textOutline="black 0.300rh" tts:writingMode="lrtb"/>
+<style xml:id="style1" tts:fontWeight="normal"/>
+<style xml:id="style2" tts:fontStyle="italic" tts:fontWeight="normal"/>
+</styling>
+<layout>
+<region xml:id="region0" tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:origin="10.000% 10.000%"/>
+<region xml:id="region1" tts:backgroundColor="transparent" tts:displayAlign="before" tts:extent="80.000% 80.000%" tts:origin="10.000% 10.000%"/>
+</layout>
+</head>
+<body>
+<div>
+<p xml:id="subtitle1" begin="100000000t" end="120000000t" region="region0"><span style="style1">[wind blowing]</span></p>
+<p xml:id="subtitle2" begin="233333334t" end="253333334t" region="region0"><span style="style1">[panting]</span></p>
+<p xml:id="subtitle3" begin="450416667t" end="459583334t" region="region0"><span style="style1">[grunts]</span></p>
+<p xml:id="subtitle4" begin="543333334t" end="563333334t" region="region0"><span style="style1">[mysterious music playing]</span></p>
+<p xml:id="subtitle5" begin="621250000t" end="641250000t" region="region0"><span style="style1">[panting]</span></p>
+<p xml:id="subtitle6" begin="682916667t" end="694166667t" region="region0"><span style="style1">Huh?</span></p>
+<p xml:id="subtitle7" begin="695000000t" end="715000000t" region="region0"><span style="style1">[woman panting]</span></p>
+<p xml:id="subtitle8" begin="833750000t" end="853750000t" region="region0"><span style="style1">[tense music playing]</span></p>
+<p xml:id="subtitle9" begin="996666667t" end="1016666667t" region="region0"><span style="style1">[dramatic music playing]</span></p>
+<p xml:id="subtitle10" begin="1189166667t" end="1204166667t" region="region0"><span style="style1">[boy] I need to get this to the market.</span></p>
+<p xml:id="subtitle11" begin="1205000000t" end="1228333334t" region="region0"><span style="style1">You don't support the army</span><br/><span style="style1">of the Earth Kingdom?</span></p>
+<p xml:id="subtitle12" begin="1233333334t" end="1255000000t" region="region0"><span style="style1">What are you? Fire Nation?</span></p>
+<p xml:id="subtitle13" begin="1255833334t" end="1280833334t" region="region0"><span style="style1">We need to sell this crop</span><br/><span style="style1">to make it through the winter.</span></p>
+<p xml:id="subtitle14" begin="1281666667t" end="1303333334t" region="region0"><span style="style1">[soldier] The army has to make it</span><br/><span style="style1">through the winter too,</span></p>
+<p xml:id="subtitle15" begin="1304166667t" end="1326250000t" region="region0"><span style="style1">and every civilian has to do their part.</span></p>
+<p xml:id="subtitle16" begin="1327083334t" end="1346666667t" region="region0"><span style="style1">-You know better than the Earth King?</span><br/><span style="style1">-[boy] No--</span></p>
+<p xml:id="subtitle17" begin="1347500000t" end="1371250000t" region="region0"><span style="style1">[soldier] Then we're commandeering</span><br/><span style="style1">half your cart.</span></p>
+<p xml:id="subtitle18" begin="1372083334t" end="1404166667t" region="region0"><span style="style1">And you can show us gratitude</span><br/><span style="style1">for keeping you safe from all the baddies.</span></p>
+<p xml:id="subtitle19" begin="1405000000t" end="1414583334t" region="region0"><span style="style1">[boy] Stop!</span></p>
+<p xml:id="subtitle20" begin="1415416667t" end="1433750000t" region="region0"><span style="style1">[grunts]</span></p>
+<p xml:id="subtitle21" begin="1434583334t" end="1443333334t" region="region0"><span style="style1">[guard laughs]</span></p>
+<p xml:id="subtitle22" begin="1444166667t" end="1452500000t" region="region0"><span style="style1">Put them back.</span></p>
+<p xml:id="subtitle23" begin="1464583334t" end="1499583334t" region="region0"><span style="style1">Put them… back.</span></p>
+<p xml:id="subtitle24" begin="1509583334t" end="1529583334t" region="region0"><span style="style1">[quacking]</span></p>
+<p xml:id="subtitle25" begin="1600416667t" end="1622916667t" region="region0"><span style="style1">Azula! Leave 'em alone!</span></p>
+<p xml:id="subtitle26" begin="1631666667t" end="1647916667t" region="region0"><span style="style1">Look at that slow one.</span></p>
+<p xml:id="subtitle27" begin="1648750000t" end="1670000000t" region="region0"><span style="style1">I bet I can crack its shell.</span></p>
+<p xml:id="subtitle28" begin="1670833334t" end="1680416667t" region="region0"><span style="style1">[Zuko grunts]</span></p>
+<p xml:id="subtitle29" begin="1681250000t" end="1692500000t" region="region0"><span style="style1">Get off me!</span></p>
+<p xml:id="subtitle30" begin="1693333334t" end="1718333334t" region="region0"><span style="style1">-[Zuko] You'll hurt them!</span><br/><span style="style1">-[Azula] Zuko, get off!</span></p>
+<p xml:id="subtitle31" begin="1719166667t" end="1743750000t" region="region0"><span style="style1">-[both grunt]</span><br/><span style="style1">-I bet I can crack </span><span style="style2">your </span><span style="style1">shell.</span></p>
+<p xml:id="subtitle32" begin="1744583334t" end="1767916667t" region="region0"><span style="style1">Stop it, Azula.</span><br/><span style="style1">I'm not trying to hurt you.</span></p>
+<p xml:id="subtitle33" begin="1783750000t" end="1795833334t" region="region0"><span style="style1">[woman] Azula!</span></p>
+<p xml:id="subtitle34" begin="1825833334t" end="1857500000t" region="region0"><span style="style1">-She threw rocks at the turtle ducks.</span><br/><span style="style1">-I was training.</span></p>
+<p xml:id="subtitle35" begin="1858333334t" end="1898333334t" region="region0"><span style="style1">That's enough.</span><br/><span style="style1">Now, you are brother and sister, right?</span></p>
+<p xml:id="subtitle36" begin="1903750000t" end="1946250000t" region="region0"><span style="style1">So you have to settle your disputes</span><br/><span style="style1">with respect and dignity.</span></p>
+<p xml:id="subtitle37" begin="1951250000t" end="1964166667t" region="region0"><span style="style1">[Ozai] Only if you are weak.</span></p>
+<p xml:id="subtitle38" begin="1980000000t" end="2003333334t" region="region0"><span style="style1">We are the descendants of mighty warriors.</span></p>
+<p xml:id="subtitle39" begin="2011250000t" end="2032500000t" region="region0"><span style="style1">They survived living by a code.</span></p>
+<p xml:id="subtitle40" begin="2041250000t" end="2066250000t" region="region0"><span style="style1">A fight, once begun,</span></p>
+<p xml:id="subtitle41" begin="2067083334t" end="2092916667t" region="region0"><span style="style1">only ends when one wins…</span></p>
+<p xml:id="subtitle42" begin="2112916667t" end="2128750000t" region="region0"><span style="style1">and one loses.</span></p>
+<p xml:id="subtitle43" begin="2155416667t" end="2168333334t" region="region0"><span style="style1">[Zuko grunts]</span></p>
+<p xml:id="subtitle44" begin="2208750000t" end="2232916667t" region="region0"><span style="style1">[tense music swells]</span></p>
+<p xml:id="subtitle45" begin="2233750000t" end="2243750000t" region="region0"><span style="style1">[music stops]</span></p>
+<p xml:id="subtitle46" begin="2244583334t" end="2262916667t" region="region0"><span style="style1">I said put them back.</span></p>
+<p xml:id="subtitle47" begin="2276250000t" end="2322083334t" region="region0"><span style="style1">Even in a case of imminent attack,</span><br/><span style="style1">it's a violation of Army Code 27, Sec. 4</span></p>
+<p xml:id="subtitle48" begin="2322916667t" end="2355000000t" region="region0"><span style="style1">to commandeer livestock or foodstuff</span><br/><span style="style1">from any home containing children.</span></p>
+<p xml:id="subtitle49" begin="2372916667t" end="2395416667t" region="region0"><span style="style1">Where'd you get that? Front lines?</span></p>
+<p xml:id="subtitle50" begin="2408333334t" end="2418333334t" region="region0"><span style="style1">Where's your uniform?</span></p>
+<p xml:id="subtitle51" begin="2419166667t" end="2451666667t" region="region0"><span style="style1">You wanna talk about uniform?</span><br/><span style="style1">Hair five inches too long.</span></p>
+<p xml:id="subtitle52" begin="2461250000t" end="2493750000t" region="region0"><span style="style1">-It's hard to be fashionable out here.</span><br/><span style="style1">-It's a breeding ground for lice.</span></p>
+<p xml:id="subtitle53" begin="2501250000t" end="2539166667t" region="region0"><span style="style1">Those pauldrons are mismatched.</span><br/><span style="style1">Greaves, gauntlets, outdated.</span></p>
+<p xml:id="subtitle54" begin="2544166667t" end="2560416667t" region="region0"><span style="style1">And your boots.</span></p>
+<p xml:id="subtitle55" begin="2565833334t" end="2598333334t" region="region0"><span style="style1">What'd you do?</span><br/><span style="style1">Commandeer them from some other civilian?</span></p>
+<p xml:id="subtitle56" begin="2672083334t" end="2691250000t" region="region0"><span style="style1">Well, they're small and rancid anyway.</span></p>
+<p xml:id="subtitle57" begin="2698333334t" end="2708750000t" region="region0"><span style="style1">[snaps]</span></p>
+<p xml:id="subtitle58" begin="2709583334t" end="2718333334t" region="region0"><span style="style1">[soldier] Yes.</span></p>
+<p xml:id="subtitle59" begin="2727916667t" end="2738333334t" region="region0"><span style="style1">Give me that.</span></p>
+<p xml:id="subtitle60" begin="2837916667t" end="2869583334t" region="region0"><span style="style1">[soldier 2] Don't be a stranger, stranger.</span></p>
+<p xml:id="subtitle61" begin="2895416667t" end="2905416667t" region="region0"><span style="style1">Thanks.</span></p>
+<p xml:id="subtitle62" begin="2915416667t" end="2950000000t" region="region0"><span style="style1">They've been getting worse lately.</span><br/><span style="style1">You come from the war?</span></p>
+<p xml:id="subtitle63" begin="2956666667t" end="2985000000t" region="region0"><span style="style1">You're a real soldier. They're rejects.</span></p>
+<p xml:id="subtitle64" begin="2990000000t" end="3009583334t" region="region0"><span style="style1">My brother's a real soldier too.</span></p>
+<p xml:id="subtitle65" begin="3010416667t" end="3035833334t" region="region0"><span style="style1">He's stationed at Bin-Er. You been there?</span></p>
+<p xml:id="subtitle66" begin="3036666667t" end="3055416667t" region="region0"><span style="style1">Ever met a soldier named Sensu?</span></p>
+<p xml:id="subtitle67" begin="3069583334t" end="3083750000t" region="region0"><span style="style1">Sorry, kid. I…</span></p>
+<p xml:id="subtitle68" begin="3100416667t" end="3111250000t" region="region0"><span style="style1">I gotta keep moving.</span></p>
+<p xml:id="subtitle69" begin="3117083334t" end="3153333334t" region="region0"><span style="style1">Okay, yeah, but…</span><br/><span style="style1">you gotta have dinner, right?</span></p>
+<p xml:id="subtitle70" begin="3154166667t" end="3174166667t" region="region0"><span style="style1">[pensive music playing]</span></p>
+<p xml:id="subtitle71" begin="3225416667t" end="3245416667t" region="region0"><span style="style1">[indistinct chatter]</span></p>
+<p xml:id="subtitle72" begin="3258333334t" end="3275000000t" region="region0"><span style="style1">[Appa roar]</span></p>
+<p xml:id="subtitle73" begin="3275833334t" end="3288333334t" region="region0"><span style="style1">Dang it, Aang!</span></p>
+<p xml:id="subtitle74" begin="3289166667t" end="3299166667t" region="region0"><span style="style1">[Aang laughs]</span></p>
+<p xml:id="subtitle75" begin="3343333334t" end="3357916667t" region="region0"><span style="style1">-Again?</span><br/><span style="style1">-Did I scare you?</span></p>
+<p xml:id="subtitle76" begin="3358750000t" end="3380833334t" region="region0"><span style="style1">Yes! No. Uh, Aang did.</span></p>
+<p xml:id="subtitle77" begin="3381666667t" end="3412083334t" region="region0"><span style="style1">He always buzzes me with Appa</span><br/><span style="style1">every time he comes back from a scout.</span></p>
+<p xml:id="subtitle78" begin="3419583334t" end="3444583334t" region="region0"><span style="style1">Is this the list of supplies</span><br/><span style="style1">we need from Tau?</span></p>
+<p xml:id="subtitle79" begin="3445416667t" end="3453750000t" region="region0"><span style="style1">[Sokka] No.</span></p>
+<p xml:id="subtitle80" begin="3458750000t" end="3477083334t" region="region0"><span style="style1">-That is.</span><br/><span style="style1">-Oh, right.</span></p>
+<p xml:id="subtitle81" begin="3495000000t" end="3516666667t" region="region0"><span style="style1">You forgot to put</span><br/><span style="style1">&quot;earthbending teacher&quot; on it.</span></p>
+<p xml:id="subtitle82" begin="3517500000t" end="3542083334t" region="region0"><span style="style1">One who understands neutral jing.</span><br/><span style="style1">You should write that down.</span></p>
+<p xml:id="subtitle83" begin="3542916667t" end="3563750000t" region="region0"><span style="style1">Why neutral?</span><br/><span style="style1">The positive jing's the best one, right?</span></p>
+<p xml:id="subtitle84" begin="3564583334t" end="3594583334t" region="region0"><span style="style1">No, jing is not good or bad.</span><br/><span style="style1">It's just the way you do things.</span></p>
+<p xml:id="subtitle85" begin="3595416667t" end="3623750000t" region="region0"><span style="style1">Oh, so positive is moving forward?</span></p>
+<p xml:id="subtitle86" begin="3624583334t" end="3650833334t" region="region0"><span style="style1">Yeah, or like in a battle, it's attacking.</span></p>
+<p xml:id="subtitle87" begin="3651666667t" end="3662500000t" region="region0"><span style="style1">Like a punch.</span></p>
+<p xml:id="subtitle88" begin="3667500000t" end="3700833334t" region="region0"><span style="style1">Well, actually, if you wanna hurt him</span><br/><span style="style1">and not yourself…</span></p>
+<p xml:id="subtitle89" begin="3719583334t" end="3737500000t" region="region0"><span style="style1">Oh, thanks.</span></p>
+<p xml:id="subtitle90" begin="3742916667t" end="3770833334t" region="region0"><span style="style1">Okay, got it.</span><br/><span style="style1">And the negative jing is like a block?</span></p>
+<p xml:id="subtitle91" begin="3771666667t" end="3784166667t" region="region0"><span style="style1">Or tactical retreat.</span></p>
+<p xml:id="subtitle92" begin="3785000000t" end="3808333334t" region="region0"><span style="style1">Yeah. Like living to fight another day.</span></p>
+<p xml:id="subtitle93" begin="3809166667t" end="3828333334t" region="region0"><span style="style1">But Aang needs to master the neutral jing.</span></p>
+<p xml:id="subtitle94" begin="3833333334t" end="3858750000t" region="region0"><span style="style1">What's that? Like standing there</span><br/><span style="style1">and getting punched in the face?</span></p>
+<p xml:id="subtitle95" begin="3859583334t" end="3872083334t" region="region0"><span style="style1">No, of course not.</span></p>
+<p xml:id="subtitle96" begin="3872916667t" end="3900833334t" region="region0"><span style="style1">It's… waiting and listening.</span></p>
+<p xml:id="subtitle97" begin="3901666667t" end="3915000000t" region="region0"><span style="style1">Oh.</span></p>
+<p xml:id="subtitle98" begin="3915833334t" end="3924583334t" region="region0"><span style="style1">[Katara] Hmm.</span></p>
+<p xml:id="subtitle99" begin="3934166667t" end="3944583334t" region="region0"><span style="style1">[Sokka] Huh.</span></p>
+<p xml:id="subtitle100" begin="3949583334t" end="3963750000t" region="region0"><span style="style1">The jing is kind of mysterious.</span></p>
+<p xml:id="subtitle101" begin="3970000000t" end="3990000000t" region="region0"><span style="style1">It's just &quot;jing,&quot; not &quot;the jing.&quot;</span></p>
+<p xml:id="subtitle102" begin="3990833334t" end="4007916667t" region="region0"><span style="style1">The jing sounds so much better.</span></p>
+<p xml:id="subtitle103" begin="4017500000t" end="4037083334t" region="region0"><span style="style1">Great news. I scouted the town.</span></p>
+<p xml:id="subtitle104" begin="4037916667t" end="4060416667t" region="region0"><span style="style1">And they have the supplies we need</span><br/><span style="style1">to feed the refugees?</span></p>
+<p xml:id="subtitle105" begin="4061250000t" end="4081250000t" region="region0"><span style="style1">Sure. But even better.</span></p>
+<p xml:id="subtitle106" begin="4082083334t" end="4108333334t" region="region0"><span style="style1">They have</span><br/><span style="style1">the world's biggest crocorhino egg.</span></p>
+<p xml:id="subtitle107" begin="4139583334t" end="4162500000t" region="region0"><span style="style1">Guys, it's gonna be great. Come on.</span></p>
+<p xml:id="subtitle108" begin="4187916667t" end="4210833334t" region="region0"><span style="style1">[sighs] Well, be careful while I'm gone.</span></p>
+<p xml:id="subtitle109" begin="4217500000t" end="4231666667t" region="region0"><span style="style1">I'm never careful.</span></p>
+<p xml:id="subtitle110" begin="4240000000t" end="4260000000t" region="region0"><span style="style1">[Appa grunting]</span></p>
+<p xml:id="subtitle111" begin="4260833334t" end="4280833334t" region="region0"><span style="style1">[poignant music playing]</span></p>
+<p xml:id="subtitle112" begin="4287916667t" end="4297500000t" region="region0"><span style="style1">Hey, buddy.</span></p>
+<p xml:id="subtitle113" begin="4311250000t" end="4323750000t" region="region0"><span style="style1">Keep an eye on her.</span></p>
+<p xml:id="subtitle114" begin="4335000000t" end="4355833334t" region="region0"><span style="style1">Wait! Coming.</span></p>
+<p xml:id="subtitle115" begin="4356666667t" end="4375416667t" region="region0"><span style="style1">[ominous music playing]</span></p>
+<p xml:id="subtitle116" begin="4376250000t" end="4391666667t" region="region0"><span style="style1">[man whimpering] Wait.</span></p>
+<p xml:id="subtitle117" begin="4392500000t" end="4420000000t" region="region0"><span style="style1">Please! I don't know anything!</span></p>
+<p xml:id="subtitle118" begin="4420833334t" end="4437916667t" region="region0"><span style="style1">[man 2 groaning]</span></p>
+<p xml:id="subtitle119" begin="4438750000t" end="4458750000t" region="region0"><span style="style1">[man] Wait! Wait, wait!</span></p>
+<p xml:id="subtitle120" begin="4459583334t" end="4470416667t" region="region0"><span style="style1">[whimpers]</span></p>
+<p xml:id="subtitle121" begin="4471250000t" end="4480416667t" region="region0"><span style="style1">[grunts]</span></p>
+<p xml:id="subtitle122" begin="4500000000t" end="4508750000t" region="region0"><span style="style1">[Ty Lee] Hmm.</span></p>
+<p xml:id="subtitle123" begin="4540833334t" end="4563750000t" region="region0"><span style="style1">I'm going to ask you one more time.</span></p>
+<p xml:id="subtitle124" begin="4577083334t" end="4600833334t" region="region0"><span style="style1">Because I know they came through here.</span></p>
+<p xml:id="subtitle125" begin="4601666667t" end="4612083334t" region="region0"><span style="style1">Bald head.</span></p>
+<p xml:id="subtitle126" begin="4617083334t" end="4629583334t" region="region0"><span style="style1">Blue arrows.</span></p>
+<p xml:id="subtitle127" begin="4639166667t" end="4652916667t" region="region0"><span style="style1">Which way did they go?</span></p>
+<p xml:id="subtitle128" begin="4690000000t" end="4703333334t" region="region0"><span style="style1">Ty Lee, can he not talk?</span></p>
+<p xml:id="subtitle129" begin="4716666667t" end="4742916667t" region="region0"><span style="style1">Sorry. I didn't know</span><br/><span style="style1">you still needed him to.</span></p>
+<p xml:id="subtitle130" begin="4773333334t" end="4784583334t" region="region0"><span style="style1">It's okay.</span></p>
+<p xml:id="subtitle131" begin="4793333334t" end="4807916667t" region="region0"><span style="style1">His eyes still work.</span></p>
+<p xml:id="subtitle132" begin="4853750000t" end="4875000000t" region="region0"><span style="style1">[man groaning]</span></p>
+<p xml:id="subtitle133" begin="4875833334t" end="4895416667t" region="region0"><span style="style1">That wasn't so hard, now, was it?</span></p>
+<p xml:id="subtitle134" begin="4937916667t" end="4952500000t" region="region0"><span style="style1">[man groaning]</span></p>
+<p xml:id="subtitle135" begin="4965416667t" end="4975000000t" region="region0"><span style="style1">[Ty Lee chuckles]</span></p>
+<p xml:id="subtitle136" begin="4988333334t" end="5017916667t" region="region0"><span style="style1">[boy] But our place, it's kind of perfect.</span></p>
+<p xml:id="subtitle137" begin="5018750000t" end="5055000000t" region="region0"><span style="style1">'Cause it's far enough that</span><br/><span style="style1">those goons get a backache chasing me,</span></p>
+<p xml:id="subtitle138" begin="5055833334t" end="5089583334t" region="region0"><span style="style1">but not so far</span><br/><span style="style1">that the trip to the market's unbearable.</span></p>
+<p xml:id="subtitle139" begin="5094583334t" end="5108333334t" region="region0"><span style="style1">The market's small.</span></p>
+<p xml:id="subtitle140" begin="5118750000t" end="5136666667t" region="region0"><span style="style1">Ever seen a market so small?</span></p>
+<p xml:id="subtitle141" begin="5151666667t" end="5175416667t" region="region0"><span style="style1">You've probably seen bigger places before.</span></p>
+<p xml:id="subtitle142" begin="5225416667t" end="5235416667t" region="region0"><span style="style1">Hey, Fei.</span></p>
+<p xml:id="subtitle143" begin="5241250000t" end="5249583334t" region="region0"><span style="style1">That's Fei.</span></p>
+<p xml:id="subtitle144" begin="5292916667t" end="5304583334t" region="region0"><span style="style1">What's this now, Peng?</span></p>
+<p xml:id="subtitle145" begin="5305416667t" end="5320833334t" region="region0"><span style="style1">This is Li.</span></p>
+<p xml:id="subtitle146" begin="5326666667t" end="5346250000t" region="region0"><span style="style1">Li, this is my sister, Fei.</span></p>
+<p xml:id="subtitle147" begin="5361250000t" end="5382500000t" region="region0"><span style="style1">Li helped me at that stupid checkpoint.</span></p>
+<p xml:id="subtitle148" begin="5388333334t" end="5402500000t" region="region0"><span style="style1">You made it to the market?</span></p>
+<p xml:id="subtitle149" begin="5403333334t" end="5427083334t" region="region0"><span style="style1">Sold every single one.</span></p>
+<p xml:id="subtitle150" begin="5453750000t" end="5466250000t" region="region0"><span style="style1">Thanks to Li here.</span></p>
+<p xml:id="subtitle151" begin="5472500000t" end="5484166667t" region="region0"><span style="style1">[coins jangle]</span></p>
+<p xml:id="subtitle152" begin="5485000000t" end="5510416667t" region="region0"><span style="style1">Okay, well, thank the man, Peng,</span><br/><span style="style1">so he can be on his way.</span></p>
+<p xml:id="subtitle153" begin="5516250000t" end="5535000000t" region="region0"><span style="style1">[Peng] I said we'd give him dinner.</span></p>
+<p xml:id="subtitle154" begin="5558333334t" end="5568750000t" region="region0"><span style="style1">[Zuko] It's okay.</span></p>
+<p xml:id="subtitle155" begin="5591250000t" end="5608750000t" region="region0"><span style="style1">Just wanted to make sure</span><br/><span style="style1">he made it home safe.</span></p>
+<p xml:id="subtitle156" begin="5627500000t" end="5641250000t" region="region0"><span style="style1">Come on, Fei.</span></p>
+<p xml:id="subtitle157" begin="5642083334t" end="5667500000t" region="region0"><span style="style1">He's a good man. You can trust him.</span></p>
+<p xml:id="subtitle158" begin="5697083334t" end="5707916667t" region="region0"><span style="style1">[sighs]</span></p>
+<p xml:id="subtitle159" begin="5741666667t" end="5754583334t" region="region0"><span style="style1">Okay, you want some dinner, then?</span></p>
+<p xml:id="subtitle160" begin="5772916667t" end="5782500000t" region="region0"><span style="style1">That means come in.</span></p>
+<p xml:id="subtitle161" begin="5783333334t" end="5803333334t" region="region0"><span style="style1">[gentle music playing]</span></p>
+<p xml:id="subtitle162" begin="5809166667t" end="5820000000t" region="region0"><span style="style1">[Zuko] Uh…</span></p>
+<p xml:id="subtitle163" begin="5835000000t" end="5844166667t" region="region0"><span style="style1">[sighs]</span></p>
+<p xml:id="subtitle164" begin="5919583334t" end="5942083334t" region="region0"><span style="style1">[Katara] Aang, don't you think</span><br/><span style="style1">an Earthbender just…</span></p>
+<p xml:id="subtitle165" begin="5952500000t" end="5961666667t" region="region0"><span style="style1">[music fades]</span></p>
+<p xml:id="subtitle166" begin="5962500000t" end="5974583334t" region="region0"><span style="style1">…earthbent it?</span></p>
+<p xml:id="subtitle167" begin="5992083334t" end="6021666667t" region="region0"><span style="style1">Why? To fool people into</span><br/><span style="style1">coming here to see it?</span></p>
+<p xml:id="subtitle168" begin="6027916667t" end="6041666667t" region="region0"><span style="style1">Come on, who'd do that?</span></p>
+<p xml:id="subtitle169" begin="6042500000t" end="6065416667t" region="region0"><span style="style1">It is making me hungry. Maybe it is real.</span></p>
+<p xml:id="subtitle170" begin="6066250000t" end="6088333334t" region="region0"><span style="style1">Then we better go get some food.</span></p>
+<p xml:id="subtitle171" begin="6093333334t" end="6119166667t" region="region0"><span style="style1">Unless you guys</span><br/><span style="style1">wanna stay a little longer.</span></p>
+<p xml:id="subtitle172" begin="6120000000t" end="6128333334t" region="region0"><span style="style1">I've…</span></p>
+<p xml:id="subtitle173" begin="6129166667t" end="6144583334t" region="region0"><span style="style1">-I think I'm good.</span><br/><span style="style1">-…absorbed it.</span></p>
+<p xml:id="subtitle174" begin="6145416667t" end="6157500000t" region="region0"><span style="style1">-[Katara] Yeah.</span><br/><span style="style1">-[Aang] Huh.</span></p>
+<p xml:id="subtitle175" begin="6158333334t" end="6178333334t" region="region0"><span style="style1">[jaunty music playing]</span></p>
+<p xml:id="subtitle176" begin="6179166667t" end="6199166667t" region="region1"><span style="style1">-[indistinct chatter]</span><br/><span style="style1">-[sizzling]</span></p>
+<p xml:id="subtitle177" begin="6239583334t" end="6266666667t" region="region0"><span style="style1">Greetings. I'm the Avatar Aang,</span><br/><span style="style1">and these are my companions.</span></p>
+<p xml:id="subtitle178" begin="6275833334t" end="6314166667t" region="region0"><span style="style1">We are escorting a group of refugees,</span><br/><span style="style1">and we are in great need of alms.</span></p>
+<p xml:id="subtitle179" begin="6322916667t" end="6338333334t" region="region0"><span style="style1">Oh, and steamed buns.</span></p>
+<p xml:id="subtitle180" begin="6339166667t" end="6362500000t" region="region0"><span style="style1">You want food? For free?</span></p>
+<p xml:id="subtitle181" begin="6363333334t" end="6396250000t" region="region0"><span style="style1">No, of course not. I'll gladly bless you,</span><br/><span style="style1">your business, anyone you like.</span></p>
+<p xml:id="subtitle182" begin="6412500000t" end="6425416667t" region="region0"><span style="style1">I also do weddings.</span></p>
+<p xml:id="subtitle183" begin="6426250000t" end="6438333334t" region="region0"><span style="style1">No.</span></p>
+<p xml:id="subtitle184" begin="6460416667t" end="6495000000t" region="region0"><span style="style1">When the Air Nomads travel,</span><br/><span style="style1">people usually take care of them.</span></p>
+<p xml:id="subtitle185" begin="6495833334t" end="6507500000t" region="region0"><span style="style1">I wasn't expecting this.</span></p>
+<p xml:id="subtitle186" begin="6508333334t" end="6535000000t" region="region0"><span style="style1">You didn't expect people to want money</span><br/><span style="style1">for goods and services?</span></p>
+<p xml:id="subtitle187" begin="6535833334t" end="6545000000t" region="region0"><span style="style1">No.</span></p>
+<p xml:id="subtitle188" begin="6550416667t" end="6560833334t" region="region0"><span style="style1">[sighs]</span></p>
+<p xml:id="subtitle189" begin="6561666667t" end="6583333334t" region="region0"><span style="style1">There's got to be an easy way</span><br/><span style="style1">to make some money fast.</span></p>
+<p xml:id="subtitle190" begin="6584166667t" end="6604166667t" region="region0"><span style="style1">[clears throat] Hey.</span></p>
+<p xml:id="subtitle191" begin="6614583334t" end="6635000000t" region="region0"><span style="style1">You could always win it</span><br/><span style="style1">at Earth Rumble, kid.</span></p>
+<p xml:id="subtitle192" begin="6641250000t" end="6660000000t" region="region0"><span style="style1">What's Earth Rumble?</span></p>
+<p xml:id="subtitle193" begin="6660833334t" end="6675000000t" region="region0"><span style="style1">Bending match.</span></p>
+<p xml:id="subtitle194" begin="6680000000t" end="6704166667t" region="region0"><span style="style1">Prize purse tonight is gonna be huge.</span></p>
+<p xml:id="subtitle195" begin="6710416667t" end="6724583334t" region="region0"><span style="style1">The winner wins a lot of money?</span></p>
+<p xml:id="subtitle196" begin="6725416667t" end="6736666667t" region="region0"><span style="style1">And a purse?</span></p>
+<p xml:id="subtitle197" begin="6754166667t" end="6762916667t" region="region0"><span style="style1">Where is it?</span></p>
+<p xml:id="subtitle198" begin="6780000000t" end="6795000000t" region="region0"><span style="style1">In a little town called Nanya.</span></p>
+<p xml:id="subtitle199" begin="6795833334t" end="6815000000t" region="region0"><span style="style1">[suspenseful music playing]</span></p>
+<p xml:id="subtitle200" begin="6827916667t" end="6838750000t" region="region0"><span style="style1">Nanya business!</span></p>
+<p xml:id="subtitle201" begin="6839583334t" end="6859166667t" region="region0"><span style="style1">[laughing]</span></p>
+<p xml:id="subtitle202" begin="6892500000t" end="6919583334t" region="region0"><span style="style1">-We can figure out where it is.</span><br/><span style="style1">-Yeah, there must be an arena.</span></p>
+<p xml:id="subtitle203" begin="6920416667t" end="6946250000t" region="region0"><span style="style1">Oh, what if it's underground?</span><br/><span style="style1">Like, actually underground.</span></p>
+<p xml:id="subtitle204" begin="6947083334t" end="6966666667t" region="region0"><span style="style1">Hey. Found out where it is.</span></p>
+<p xml:id="subtitle205" begin="6967500000t" end="6987500000t" region="region0"><span style="style1">-Follow me.</span><br/><span style="style1">-How'd you get them to tell you?</span></p>
+<p xml:id="subtitle206" begin="6997083334t" end="7009583334t" region="region0"><span style="style1">A girl has her ways.</span></p>
+<p xml:id="subtitle207" begin="7015416667t" end="7025416667t" region="region0"><span style="style1">Let me guess.</span></p>
+<p xml:id="subtitle208" begin="7030416667t" end="7042083334t" region="region0"><span style="style1">Waterbending.</span></p>
+<p xml:id="subtitle209" begin="7051250000t" end="7064583334t" region="region0"><span style="style1">One-trick panda pony.</span></p>
+<p xml:id="subtitle210" begin="7065416667t" end="7085416667t" region="region0"><span style="style1">[music intensifies]</span></p>
+<p xml:id="subtitle211" begin="7108333334t" end="7127916667t" region="region0"><span style="style1">-[groaning]</span><br/><span style="style1">-[ice cracking]</span></p>
+<p xml:id="subtitle212" begin="7135000000t" end="7147500000t" region="region0"><span style="style1">Water tribe!</span></p>
+<p xml:id="subtitle213" begin="7165833334t" end="7185833334t" region="region0"><span style="style1">[Peng] And…</span><br/><span style="style1">and then the guard knocked him down?</span></p>
+<p xml:id="subtitle214" begin="7186666667t" end="7199583334t" region="region0"><span style="style1">[Fei] Peng, sit down and eat.</span></p>
+<p xml:id="subtitle215" begin="7200416667t" end="7215000000t" region="region0"><span style="style1">-[rain pouring]</span><br/><span style="style1">-[thunder rumbling]</span></p>
+<p xml:id="subtitle216" begin="7215833334t" end="7257500000t" region="region0"><span style="style1">And then Li was like, &quot;Your uniforms?&quot;</span></p>
+<p xml:id="subtitle217" begin="7258333334t" end="7278750000t" region="region0"><span style="style1">&quot;All wrong. Sloppy.&quot;</span></p>
+<p xml:id="subtitle218" begin="7279583334t" end="7317083334t" region="region0"><span style="style1">-&quot;This whole setup? Scam. No manners.&quot;</span><br/><span style="style1">-[chokes]</span></p>
+<p xml:id="subtitle219" begin="7317916667t" end="7340416667t" region="region0"><span style="style1">[Peng] And that's when</span><br/><span style="style1">they almost fought Li,</span></p>
+<p xml:id="subtitle220" begin="7341250000t" end="7370833334t" region="region0"><span style="style1">but Li just stood there like,</span><br/><span style="style1">&quot;Give those flower potatoes back.&quot;</span></p>
+<p xml:id="subtitle221" begin="7371666667t" end="7387083334t" region="region0"><span style="style1">Take a breath, Peng.</span></p>
+<p xml:id="subtitle222" begin="7440833334t" end="7454166667t" region="region0"><span style="style1">[slurping]</span></p>
+<p xml:id="subtitle223" begin="7493333334t" end="7508333334t" region="region0"><span style="style1">Been a while since you ate?</span></p>
+<p xml:id="subtitle224" begin="7518750000t" end="7527083334t" region="region0"><span style="style1">Sorry.</span></p>
+<p xml:id="subtitle225" begin="7527916667t" end="7549166667t" region="region0"><span style="style1">No. No apologies.</span></p>
+<p xml:id="subtitle226" begin="7557500000t" end="7572500000t" region="region0"><span style="style1">I mean, you helped Peng.</span></p>
+<p xml:id="subtitle227" begin="7573333334t" end="7597083334t" region="region0"><span style="style1">The least we can do is</span><br/><span style="style1">keep you dry and feed you.</span></p>
+<p xml:id="subtitle228" begin="7618333334t" end="7629166667t" region="region0"><span style="style1">Would you, um--</span></p>
+<p xml:id="subtitle229" begin="7630000000t" end="7641666667t" region="region0"><span style="style1">Right. The dishes.</span></p>
+<p xml:id="subtitle230" begin="7673750000t" end="7697083334t" region="region0"><span style="style1">[thunder rumbling]</span></p>
+<p xml:id="subtitle231" begin="7808750000t" end="7826250000t" region="region0"><span style="style1">Headed to Kudi Village?</span></p>
+<p xml:id="subtitle232" begin="7855833334t" end="7870416667t" region="region0"><span style="style1">[somber music playing]</span></p>
+<p xml:id="subtitle233" begin="7871250000t" end="7886250000t" region="region0"><span style="style1">Just looking for someone.</span></p>
+<p xml:id="subtitle234" begin="7910000000t" end="7921250000t" region="region0"><span style="style1">A friend?</span></p>
+<p xml:id="subtitle235" begin="7952916667t" end="7970000000t" region="region0"><span style="style1">Someone I used to fight with.</span></p>
+<p xml:id="subtitle236" begin="8010000000t" end="8028333334t" region="region0"><span style="style1">So why don't you wanna find them?</span></p>
+<p xml:id="subtitle237" begin="8079583334t" end="8089583334t" region="region0"><span style="style1">What do you mean?</span></p>
+<p xml:id="subtitle238" begin="8127500000t" end="8145833334t" region="region0"><span style="style1">You looked sad when I asked.</span></p>
+<p xml:id="subtitle239" begin="8225833334t" end="8237916667t" region="region0"><span style="style1">I'm not sad.</span></p>
+<p xml:id="subtitle240" begin="8293333334t" end="8308333334t" region="region0"><span style="style1">Just a little lost.</span></p>
+<p xml:id="subtitle241" begin="8374166667t" end="8385833334t" region="region0"><span style="style1">Our, um…</span></p>
+<p xml:id="subtitle242" begin="8395416667t" end="8429583334t" region="region0"><span style="style1">our parents are away</span><br/><span style="style1">with the ostrich horse for the night.</span></p>
+<p xml:id="subtitle243" begin="8435833334t" end="8458333334t" region="region0"><span style="style1">So the barn's empty.</span></p>
+<p xml:id="subtitle244" begin="8478333334t" end="8490833334t" region="region0"><span style="style1">That's very kind.</span></p>
+<p xml:id="subtitle245" begin="8530833334t" end="8546250000t" region="region0"><span style="style1">[thunder crashes]</span></p>
+<p xml:id="subtitle246" begin="8679583334t" end="8690416667t" region="region0"><span style="style1">[rattling]</span></p>
+<p xml:id="subtitle247" begin="8726666667t" end="8747500000t" region="region0"><span style="style1">[gasping softly]</span></p>
+<p xml:id="subtitle248" begin="8827916667t" end="8851250000t" region="region0"><span style="style1">[rattles, clatters]</span></p>
+<p xml:id="subtitle249" begin="8880000000t" end="8902500000t" region="region0"><span style="style1">[panting]</span></p>
+<p xml:id="subtitle250" begin="8903333334t" end="8919583334t" region="region0"><span style="style1">[thunder rumbling]</span></p>
+<p xml:id="subtitle251" begin="8920416667t" end="8934166667t" region="region0"><span style="style1">[woman] Hey, Zuzu.</span></p>
+<p xml:id="subtitle252" begin="9034583334t" end="9044583334t" region="region0"><span style="style1">Let me see.</span></p>
+<p xml:id="subtitle253" begin="9055000000t" end="9067083334t" region="region0"><span style="style1">Let me see.</span></p>
+<p xml:id="subtitle254" begin="9160833334t" end="9184583334t" region="region0"><span style="style1">I know it hurts, Zuzu, but</span></p>
+<p xml:id="subtitle255" begin="9192500000t" end="9207083334t" region="region0"><span style="style1">I promise you</span></p>
+<p xml:id="subtitle256" begin="9217500000t" end="9234166667t" region="region0"><span style="style1">you're going to survive.</span></p>
+<p xml:id="subtitle257" begin="9258750000t" end="9277083334t" region="region0"><span style="style1">I am so proud of you.</span></p>
+<p xml:id="subtitle258" begin="9288333334t" end="9303333334t" region="region0"><span style="style1">Proud of me?</span></p>
+<p xml:id="subtitle259" begin="9320000000t" end="9344583334t" region="region0"><span style="style1">I lost. I'm a loser.</span></p>
+<p xml:id="subtitle260" begin="9389583334t" end="9423750000t" region="region0"><span style="style1">Zuzu, there are no winners or losers.</span></p>
+<p xml:id="subtitle261" begin="9438750000t" end="9461250000t" region="region0"><span style="style1">Only those who practice courage.</span></p>
+<p xml:id="subtitle262" begin="9471250000t" end="9511250000t" region="region0"><span style="style1">And those who stand up for what is right,</span><br/><span style="style1">even when it's the hardest thing to do.</span></p>
+<p xml:id="subtitle263" begin="9512083334t" end="9539583334t" region="region0"><span style="style1">And you stood up</span><br/><span style="style1">for those little turtle ducks.</span></p>
+<p xml:id="subtitle264" begin="9540416667t" end="9554583334t" region="region0"><span style="style1">That took courage.</span></p>
+<p xml:id="subtitle265" begin="9555416667t" end="9568333334t" region="region0"><span style="style1">I guess. [sighs]</span></p>
+<p xml:id="subtitle266" begin="9592500000t" end="9617083334t" region="region0"><span style="style1">Do you know who else protects</span><br/><span style="style1">the innocent?</span></p>
+<p xml:id="subtitle267" begin="9626250000t" end="9640000000t" region="region0"><span style="style1">The Blue Spirit?</span></p>
+<p xml:id="subtitle268" begin="9640833334t" end="9653333334t" region="region0"><span style="style1">[chuckles] That's right.</span></p>
+<p xml:id="subtitle269" begin="9658333334t" end="9677500000t" region="region0"><span style="style1">Can you tell me the story again?</span></p>
+<p xml:id="subtitle270" begin="9683333334t" end="9693333334t" region="region0"><span style="style1">[woman] Yes.</span></p>
+<p xml:id="subtitle271" begin="9720000000t" end="9752083334t" region="region0"><span style="style1">They called their protector</span><br/><span style="style1">the Blue Spirit.</span></p>
+<p xml:id="subtitle272" begin="9762916667t" end="9809166667t" region="region0"><span style="style1">And no one knew if he was a spirit</span><br/><span style="style1">or a man blessed by the spirits</span></p>
+<p xml:id="subtitle273" begin="9810000000t" end="9824583334t" region="region0"><span style="style1">for his good works.</span></p>
+<p xml:id="subtitle274" begin="9842500000t" end="9874166667t" region="region0"><span style="style1">He had two swords and a mask.</span></p>
+<p xml:id="subtitle275" begin="9875000000t" end="9887500000t" region="region0"><span style="style1">And a mask.</span></p>
+<p xml:id="subtitle276" begin="9903333334t" end="9928750000t" region="region0"><span style="style1">And though he hid his face,</span></p>
+<p xml:id="subtitle277" begin="9929583334t" end="9968750000t" region="region0"><span style="style1">he fought with eyes bright</span><br/><span style="style1">and swords sharp</span></p>
+<p xml:id="subtitle278" begin="9969583334t" end="10022500000t" region="region0"><span style="style1">and a heart that was untainted</span><br/><span style="style1">by hate or greed.</span></p>
+<p xml:id="subtitle279" begin="10036250000t" end="10077500000t" region="region0"><span style="style1">He said, &quot;I will protect them,</span><br/><span style="style1">big and small…</span></p>
+<p xml:id="subtitle280" begin="10103750000t" end="10122083334t" region="region0"><span style="style1">no matter the cost to me.&quot;</span></p>
+<p xml:id="subtitle281" begin="10130000000t" end="10167916667t" region="region0"><span style="style1">Is the Blue Spirit real, Mom?</span></p>
+<p xml:id="subtitle282" begin="10199583334t" end="10219166667t" region="region0"><span style="style1">As real as you and me, Zuko.</span></p>
+<p xml:id="subtitle283" begin="10308750000t" end="10317916667t" region="region0"><span style="style1">[Zuko chuckles]</span></p>
+<p xml:id="subtitle284" begin="10340416667t" end="10366666667t" region="region0"><span style="style1">[tense music playing]</span></p>
+<p xml:id="subtitle285" begin="10372916667t" end="10385416667t" region="region0"><span style="style1">[fighter grunts]</span></p>
+<p xml:id="subtitle286" begin="10456666667t" end="10472083334t" region="region0"><span style="style1">[grunting]</span></p>
+<p xml:id="subtitle287" begin="10472916667t" end="10492916667t" region="region0"><span style="style1">[crowd clamoring]</span></p>
+<p xml:id="subtitle288" begin="10508333334t" end="10522083334t" region="region0"><span style="style1">[grunts]</span></p>
+<p xml:id="subtitle289" begin="10529166667t" end="10545000000t" region="region0"><span style="style1">[chuckles] You're gonna be fine.</span></p>
+<p xml:id="subtitle290" begin="10545833334t" end="10565000000t" region="region0"><span style="style1">-Of course I will. I'm the Avatar, after--</span><br/><span style="style1">-[thud]</span></p>
+<p xml:id="subtitle291" begin="10565833334t" end="10595416667t" region="region0"><span style="style1">Oh! You're gonna be fine</span><br/><span style="style1">if he doesn't do that.</span></p>
+<p xml:id="subtitle292" begin="10596250000t" end="10612916667t" region="region0"><span style="style1">-[fighter grunts]</span><br/><span style="style1">-[woman yelps]</span></p>
+<p xml:id="subtitle293" begin="10613750000t" end="10626250000t" region="region0"><span style="style1">Or that.</span></p>
+<p xml:id="subtitle294" begin="10627083334t" end="10654166667t" region="region0"><span style="style1">-They're just bluster and muscle.</span><br/><span style="style1">-Lots and lots of muscle.</span></p>
+<p xml:id="subtitle295" begin="10655000000t" end="10680000000t" region="region0"><span style="style1">But nothing more.</span><br/><span style="style1">The bigger the whale walrus--</span></p>
+<p xml:id="subtitle296" begin="10680833334t" end="10693750000t" region="region0"><span style="style1">Oh, the duller the tusks.</span></p>
+<p xml:id="subtitle297" begin="10694583334t" end="10719583334t" region="region0"><span style="style1">As long as you dodge,</span><br/><span style="style1">keep your distance, they'll burn out.</span></p>
+<p xml:id="subtitle298" begin="10720416667t" end="10747500000t" region="region0"><span style="style1">Stay light. Pepper them with air punches.</span></p>
+<p xml:id="subtitle299" begin="10748333334t" end="10780833334t" region="region0"><span style="style1">Be annoying. Got it.</span><br/><span style="style1">I can do that. I'm good at that.</span></p>
+<p xml:id="subtitle300" begin="10781666667t" end="10794583334t" region="region0"><span style="style1">Yeah, you are.</span></p>
+<p xml:id="subtitle301" begin="10795416667t" end="10805416667t" region="region0"><span style="style1">[fighter grunts]</span></p>
+<p xml:id="subtitle302" begin="10810416667t" end="10832500000t" region="region0"><span style="style1">[cheering]</span></p>
+<p xml:id="subtitle303" begin="10839166667t" end="10865000000t" region="region0"><span style="style1">Yeah! Let's go!</span></p>
+<p xml:id="subtitle304" begin="10865833334t" end="10880833334t" region="region0"><span style="style1">Ah! [laughs]</span></p>
+<p xml:id="subtitle305" begin="10881666667t" end="10922916667t" region="region0"><span style="style1">A truly smashing victory by your favorite,</span></p>
+<p xml:id="subtitle306" begin="10923750000t" end="10961250000t" region="region0"><span style="style1">the greatest Earthbender</span><br/><span style="style1">in the world, The Boulder!</span></p>
+<p xml:id="subtitle307" begin="10962083334t" end="10990000000t" region="region0"><span style="style1">-[Sokka] Yeah! The Boulder!</span><br/><span style="style1">-Yeah!</span></p>
+<p xml:id="subtitle308" begin="10995833334t" end="11049166667t" region="region0"><span style="style1">Now, who out there has the stones</span><br/><span style="style1">to challenge The Boulder for this purse?</span></p>
+<p xml:id="subtitle309" begin="11050000000t" end="11069166667t" region="region0"><span style="style1">[man] No one can challenge him!</span></p>
+<p xml:id="subtitle310" begin="11070000000t" end="11086250000t" region="region0"><span style="style1">Wow. That's a lot of money.</span></p>
+<p xml:id="subtitle311" begin="11087083334t" end="11097083334t" region="region0"><span style="style1">And a nice purse.</span></p>
+<p xml:id="subtitle312" begin="11097916667t" end="11107916667t" region="region0"><span style="style1">You got this.</span></p>
+<p xml:id="subtitle313" begin="11108750000t" end="11153750000t" region="region0"><span style="style1">I got this. Win the money,</span><br/><span style="style1">buy the supplies, feed the refugees.</span></p>
+<p xml:id="subtitle314" begin="11161666667t" end="11209166667t" region="region0"><span style="style1">The Boulder… welcomes all challengers.</span></p>
+<p xml:id="subtitle315" begin="11214166667t" end="11230833334t" region="region0"><span style="style1">But beware.</span></p>
+<p xml:id="subtitle316" begin="11231666667t" end="11251666667t" region="region0"><span style="style1">With great reward</span></p>
+<p xml:id="subtitle317" begin="11259166667t" end="11283750000t" region="region0"><span style="style1">comes great risk.</span></p>
+<p xml:id="subtitle318" begin="11284583334t" end="11301666667t" region="region0"><span style="style1">-You're ready, Aang.</span><br/><span style="style1">-Don't die, Aang.</span></p>
+<p xml:id="subtitle319" begin="11302500000t" end="11315833334t" region="region0"><span style="style1">[suspenseful music playing]</span></p>
+<p xml:id="subtitle320" begin="11316666667t" end="11330416667t" region="region0"><span style="style1">[Katara] Why would you say that?</span></p>
+<p xml:id="subtitle321" begin="11340000000t" end="11359166667t" region="region0"><span style="style1">[suspenseful music playing]</span></p>
+<p xml:id="subtitle322" begin="11360000000t" end="11375833334t" region="region0"><span style="style1">[crowd stomping rhythmically]</span></p>
+<p xml:id="subtitle323" begin="11382083334t" end="11395000000t" region="region0"><span style="style1">[announcer] And she's back!</span></p>
+<p xml:id="subtitle324" begin="11395833334t" end="11425416667t" region="region0"><span style="style1">[crowd grunting rhythmically]</span></p>
+<p xml:id="subtitle325" begin="11426250000t" end="11446666667t" region="region0"><span style="style1">For the first time in weeks…</span></p>
+<p xml:id="subtitle326" begin="11457500000t" end="11476250000t" region="region0"><span style="style1">[stomping and grunting speed up]</span></p>
+<p xml:id="subtitle327" begin="11500833334t" end="11527916667t" region="region0"><span style="style1">…it's the Blind Bandit!</span></p>
+<p xml:id="subtitle328" begin="11528750000t" end="11548750000t" region="region0"><span style="style1">[mysterious music playing]</span></p>
+<p xml:id="subtitle329" begin="11661250000t" end="11707500000t" region="region0"><span style="style1">The Boulder is amused</span><br/><span style="style1">by this comical challenger.</span></p>
+<p xml:id="subtitle330" begin="11708333334t" end="11718750000t" region="region0"><span style="style1">[crowd laughs]</span></p>
+<p xml:id="subtitle331" begin="11719583334t" end="11736250000t" region="region0"><span style="style1">[laughs]</span></p>
+<p xml:id="subtitle332" begin="11737083334t" end="11760833334t" region="region0"><span style="style1">-[man] Destroy her!</span><br/><span style="style1">-[crowd chattering]</span></p>
+<p xml:id="subtitle333" begin="11761666667t" end="11785000000t" region="region0"><span style="style1">But it's time for you to go,</span><br/><span style="style1">little Blind Bandit.</span></p>
+<p xml:id="subtitle334" begin="11811666667t" end="11827083334t" region="region0"><span style="style1">[Bandit] Hyah! Hyah!</span></p>
+<p xml:id="subtitle335" begin="11827916667t" end="11841250000t" region="region0"><span style="style1">[crunching]</span></p>
+<p xml:id="subtitle336" begin="11888750000t" end="11907083334t" region="region0"><span style="style1">[Sokka] You got this, Boulder!</span></p>
+<p xml:id="subtitle337" begin="11930416667t" end="11945833334t" region="region0"><span style="style1">[laughs]</span></p>
+<p xml:id="subtitle338" begin="11946666667t" end="11971250000t" region="region0"><span style="style1">-[Sokka] No match!</span><br/><span style="style1">-[suspenseful music playing]</span></p>
+<p xml:id="subtitle339" begin="11972083334t" end="11982083334t" region="region0"><span style="style1">[chuckles]</span></p>
+<p xml:id="subtitle340" begin="11987916667t" end="12002083334t" region="region0"><span style="style1">A sly move.</span></p>
+<p xml:id="subtitle341" begin="12027916667t" end="12048333334t" region="region0"><span style="style1">The Boulder is conflicted.</span></p>
+<p xml:id="subtitle342" begin="12049166667t" end="12077083334t" region="region0"><span style="style1">Should he fight this tiny opponent…</span></p>
+<p xml:id="subtitle343" begin="12077916667t" end="12086250000t" region="region0"><span style="style1">[Sokka] Fight her!</span></p>
+<p xml:id="subtitle344" begin="12091250000t" end="12118750000t" region="region0"><span style="style1">…or release her back to whence she came?</span></p>
+<p xml:id="subtitle345" begin="12123750000t" end="12134583334t" region="region0"><span style="style1">[Sokka] Send her back!</span></p>
+<p xml:id="subtitle346" begin="12135416667t" end="12148333334t" region="region0"><span style="style1">What's the matter?</span></p>
+<p xml:id="subtitle347" begin="12149166667t" end="12170833334t" region="region0"><span style="style1">You scared, The Pebble?</span></p>
+<p xml:id="subtitle348" begin="12171666667t" end="12187916667t" region="region0"><span style="style1">[crowd clamors] Oh!</span></p>
+<p xml:id="subtitle349" begin="12200000000t" end="12211666667t" region="region0"><span style="style1">[The Boulder grunts] Agh!</span></p>
+<p xml:id="subtitle350" begin="12217500000t" end="12227916667t" region="region0"><span style="style1">[groans]</span></p>
+<p xml:id="subtitle351" begin="12237916667t" end="12266250000t" region="region0"><span style="style1">The Boulder is no longer conflicted.</span></p>
+<p xml:id="subtitle352" begin="12267083334t" end="12275416667t" region="region0"><span style="style1">[dings]</span></p>
+<p xml:id="subtitle353" begin="12276250000t" end="12299583334t" region="region0"><span style="style1">[grunting]</span></p>
+<p xml:id="subtitle354" begin="12335416667t" end="12373333334t" region="region0"><span style="style1">[distorted mournful sounds]</span></p>
+<p xml:id="subtitle355" begin="12388750000t" end="12404166667t" region="region0"><span style="style1">[The Boulder roars]</span></p>
+<p xml:id="subtitle356" begin="12405000000t" end="12417916667t" region="region0"><span style="style1">[Sokka] Go, Boulder!</span></p>
+<p xml:id="subtitle357" begin="12426250000t" end="12450416667t" region="region0"><span style="style1">[The Boulder grunting]</span></p>
+<p xml:id="subtitle358" begin="12451250000t" end="12463333334t" region="region0"><span style="style1">[groans]</span></p>
+<p xml:id="subtitle359" begin="12464166667t" end="12474583334t" region="region0"><span style="style1">[grunts]</span></p>
+<p xml:id="subtitle360" begin="12489166667t" end="12510416667t" region="region0"><span style="style1">-[grunts]</span><br/><span style="style1">-[crowd gasps]</span></p>
+<p xml:id="subtitle361" begin="12511250000t" end="12523333334t" region="region0"><span style="style1">-Ah!</span><br/><span style="style1">-[man] Oh.</span></p>
+<p xml:id="subtitle362" begin="12524166667t" end="12545416667t" region="region0"><span style="style1">-[Katara chuckles] Oh.</span><br/><span style="style1">-Is she actually blind?</span></p>
+<p xml:id="subtitle363" begin="12546250000t" end="12562083334t" region="region0"><span style="style1">Either way, she's amazing.</span></p>
+<p xml:id="subtitle364" begin="12572500000t" end="12583750000t" region="region0"><span style="style1">[Aang] She's doing it.</span></p>
+<p xml:id="subtitle365" begin="12584583334t" end="12601666667t" region="region0"><span style="style1">Waiting and listening.</span></p>
+<p xml:id="subtitle366" begin="12602500000t" end="12617083334t" region="region0"><span style="style1">Just like Bumi said.</span></p>
+<p xml:id="subtitle367" begin="12641250000t" end="12665000000t" region="region0"><span style="style1">That's it? That's the neutral thing?</span></p>
+<p xml:id="subtitle368" begin="12670000000t" end="12687916667t" region="region0"><span style="style1">-Jing, Sokka.</span><br/><span style="style1">-Yeah, the jing.</span></p>
+<p xml:id="subtitle369" begin="12698750000t" end="12728333334t" region="region0"><span style="style1">[crowd cheering, applauding]</span></p>
+<p xml:id="subtitle370" begin="12729166667t" end="12743333334t" region="region0"><span style="style1">[grunts]</span></p>
+<p xml:id="subtitle371" begin="12744166667t" end="12764583334t" region="region0"><span style="style1">[Sokka] You got this, Boulder! You got it!</span></p>
+<p xml:id="subtitle372" begin="12775000000t" end="12791666667t" region="region0"><span style="style1">Don't let her get under your skin!</span></p>
+<p xml:id="subtitle373" begin="12812083334t" end="12826666667t" region="region0"><span style="style1">[The Boulder grunts]</span></p>
+<p xml:id="subtitle374" begin="12859166667t" end="12876666667t" region="region0"><span style="style1">-[object bursts]</span><br/><span style="style1">-[Aang gasps]</span></p>
+<p xml:id="subtitle375" begin="12889583334t" end="12906666667t" region="region0"><span style="style1">-[grunts]</span><br/><span style="style1">-[Sokka] Come on, Boulder!</span></p>
+<p xml:id="subtitle376" begin="12978750000t" end="12990833334t" region="region0"><span style="style1">[The Boulder grunts]</span></p>
+<p xml:id="subtitle377" begin="12991666667t" end="13014166667t" region="region0"><span style="style1">-Oh!</span><br/><span style="style1">-Maybe you should give up.</span></p>
+<p xml:id="subtitle378" begin="13015000000t" end="13035416667t" region="region0"><span style="style1">The crowd doesn't wanna see</span><br/><span style="style2">two </span><span style="style1">little girls fighting.</span></p>
+<p xml:id="subtitle379" begin="13036250000t" end="13063750000t" region="region0"><span style="style1">[crowd gasping, laughing]</span></p>
+<p xml:id="subtitle380" begin="13071666667t" end="13091666667t" region="region0"><span style="style1">[rumbling]</span></p>
+<p xml:id="subtitle381" begin="13092500000t" end="13112500000t" region="region0"><span style="style1">[grunting]</span></p>
+<p xml:id="subtitle382" begin="13167916667t" end="13183333334t" region="region0"><span style="style1">[man] Come on, Boulder!</span></p>
+<p xml:id="subtitle383" begin="13202083334t" end="13221250000t" region="region0"><span style="style1">[yells] Yah!</span></p>
+<p xml:id="subtitle384" begin="13228750000t" end="13242083334t" region="region0"><span style="style1">[crowd gasps] Oh!</span></p>
+<p xml:id="subtitle385" begin="13242916667t" end="13272083334t" region="region0"><span style="style1">[laughing]</span></p>
+<p xml:id="subtitle386" begin="13272916667t" end="13293750000t" region="region0"><span style="style1">[crowd murmuring]</span></p>
+<p xml:id="subtitle387" begin="13294583334t" end="13305416667t" region="region0"><span style="style1">[The Boulder laughs]</span></p>
+<p xml:id="subtitle388" begin="13306250000t" end="13327916667t" region="region0"><span style="style1">Did The Boulder just squish a little girl?</span></p>
+<p xml:id="subtitle389" begin="13328750000t" end="13348333334t" region="region0"><span style="style1">[laughing]</span></p>
+<p xml:id="subtitle390" begin="13355416667t" end="13375416667t" region="region0"><span style="style1">[rumbling]</span></p>
+<p xml:id="subtitle391" begin="13454583334t" end="13473750000t" region="region0"><span style="style1">[crowd gasps]</span></p>
+<p xml:id="subtitle392" begin="13487916667t" end="13507500000t" region="region0"><span style="style1">-[gasps]</span><br/><span style="style1">-[crowd cheering]</span></p>
+<p xml:id="subtitle393" begin="13513333334t" end="13530833334t" region="region0"><span style="style1">[Sokka] Go, Blind Bandit!</span></p>
+<p xml:id="subtitle394" begin="13531666667t" end="13551666667t" region="region0"><span style="style1">[triumphant music playing]</span></p>
+<p xml:id="subtitle395" begin="13573333334t" end="13587083334t" region="region0"><span style="style1">[cheering]</span></p>
+<p xml:id="subtitle396" begin="13595000000t" end="13616666667t" region="region0"><span style="style1">That's her! She's my teacher!</span></p>
+<p xml:id="subtitle397" begin="13617500000t" end="13637916667t" region="region0"><span style="style1">-[Katara] Aang, wait!</span><br/><span style="style1">-[Sokka] Where are you going?</span></p>
+<p xml:id="subtitle398" begin="13638750000t" end="13653333334t" region="region0"><span style="style1">Excuse me, sorry.</span></p>
+<p xml:id="subtitle399" begin="13694166667t" end="13710000000t" region="region0"><span style="style1">[Katara] Sorry, excuse me.</span></p>
+<p xml:id="subtitle400" begin="13720000000t" end="13731250000t" region="region0"><span style="style1">Excuse me.</span></p>
+<p xml:id="subtitle401" begin="13732083334t" end="13750000000t" region="region0"><span style="style1">Excuse me. Sorry about that.</span></p>
+<p xml:id="subtitle402" begin="13755833334t" end="13765833334t" region="region0"><span style="style1">Sorry.</span></p>
+<p xml:id="subtitle403" begin="13766666667t" end="13777083334t" region="region0"><span style="style1">[footsteps approaching]</span></p>
+<p xml:id="subtitle404" begin="13777916667t" end="13787500000t" region="region0"><span style="style1">[Aang] Excuse me.</span></p>
+<p xml:id="subtitle405" begin="13799583334t" end="13817083334t" region="region0"><span style="style1">-[Katara] Aang!</span><br/><span style="style1">-[Aang] No, wait!</span></p>
+<p xml:id="subtitle406" begin="13822083334t" end="13836250000t" region="region0"><span style="style1">[man 2] Can you believe that?</span></p>
+<p xml:id="subtitle407" begin="13843750000t" end="13858333334t" region="region0"><span style="style1">We need to find her. I need to--</span></p>
+<p xml:id="subtitle408" begin="13859166667t" end="13876250000t" region="region0"><span style="style1">Aang, breathe.</span></p>
+<p xml:id="subtitle409" begin="13893333334t" end="13904583334t" region="region0"><span style="style1">She's gone.</span></p>
+<p xml:id="subtitle410" begin="13912916667t" end="13958333334t" region="region0"><span style="style1">Avatar Aang, I am Ji Shen,</span><br/><span style="style1">Executive Secretary to the Beifong family.</span></p>
+<p xml:id="subtitle411" begin="13959166667t" end="13967916667t" region="region0"><span style="style1">The Bei who?</span></p>
+<p xml:id="subtitle412" begin="13968750000t" end="13994583334t" region="region0"><span style="style1">That's the symbol</span><br/><span style="style1">we've been seeing all over town.</span></p>
+<p xml:id="subtitle413" begin="13995416667t" end="14017500000t" region="region0"><span style="style1">The flying boar seal</span><br/><span style="style1">of the Beifong family.</span></p>
+<p xml:id="subtitle414" begin="14018333334t" end="14055833334t" region="region0"><span style="style1">Lord and Lady Beifong's holdings are</span><br/><span style="style1">as vast as the lands of the Earth Kingdom.</span></p>
+<p xml:id="subtitle415" begin="14061666667t" end="14095000000t" region="region0"><span style="style1">The Beifongs were great friends</span><br/><span style="style1">to Avatar Roku</span></p>
+<p xml:id="subtitle416" begin="14095833334t" end="14113750000t" region="region0"><span style="style1">and wish to be the same to you.</span></p>
+<p xml:id="subtitle417" begin="14127500000t" end="14148750000t" region="region0"><span style="style1">Please, accept this invitation</span></p>
+<p xml:id="subtitle418" begin="14149583334t" end="14180833334t" region="region0"><span style="style1">to a light introductory meal</span><br/><span style="style1">at Beifong Manor.</span></p>
+<p xml:id="subtitle419" begin="14202083334t" end="14212500000t" region="region0"><span style="style1">[Sokka] Whoa.</span></p>
+<p xml:id="subtitle420" begin="14231250000t" end="14241666667t" region="region0"><span style="style1">They're rich.</span></p>
+<p xml:id="subtitle421" begin="14242500000t" end="14267500000t" region="region0"><span style="style1">If they can feed us,</span><br/><span style="style1">they can feed the refugees too.</span></p>
+<p xml:id="subtitle422" begin="14268333334t" end="14277083334t" region="region0"><span style="style1">Yeah.</span></p>
+<p xml:id="subtitle423" begin="14288750000t" end="14301250000t" region="region0"><span style="style1">What do you think, Aang?</span></p>
+<p xml:id="subtitle424" begin="14339583334t" end="14352500000t" region="region0"><span style="style1">[tapping]</span></p>
+<p xml:id="subtitle425" begin="14679583334t" end="14689166667t" region="region0"><span style="style1">Did I wake you?</span></p>
+<p xml:id="subtitle426" begin="14705833334t" end="14714166667t" region="region0"><span style="style1">No.</span></p>
+<p xml:id="subtitle427" begin="14734166667t" end="14742500000t" region="region0"><span style="style1">It…</span></p>
+<p xml:id="subtitle428" begin="14761250000t" end="14771666667t" region="region0"><span style="style1">needed fixing.</span></p>
+<p xml:id="subtitle429" begin="14807083334t" end="14815833334t" region="region0"><span style="style1">It did.</span></p>
+<p xml:id="subtitle430" begin="14943750000t" end="14965833334t" region="region0"><span style="style1">[pensive music playing]</span></p>
+<p xml:id="subtitle431" begin="14966666667t" end="14976250000t" region="region0"><span style="style1">Um…</span></p>
+<p xml:id="subtitle432" begin="15000833334t" end="15049166667t" region="region0"><span style="style1">I mean, since you have</span><br/><span style="style1">such a long way to go and…</span></p>
+<p xml:id="subtitle433" begin="15063333334t" end="15097083334t" region="region0"><span style="style1">I mean, now that I… I know</span><br/><span style="style1">you're clever-handed…</span></p>
+<p xml:id="subtitle434" begin="15156250000t" end="15165416667t" region="region0"><span style="style1">Well…</span></p>
+<p xml:id="subtitle435" begin="15189166667t" end="15200416667t" region="region0"><span style="style1">There's, um…</span></p>
+<p xml:id="subtitle436" begin="15220416667t" end="15246250000t" region="region0"><span style="style1">plenty around here</span><br/><span style="style1">that could use some fixing.</span></p>
+<p xml:id="subtitle437" begin="15262500000t" end="15271666667t" region="region0"><span style="style1">I mean,</span></p>
+<p xml:id="subtitle438" begin="15279166667t" end="15312500000t" region="region0"><span style="style1">more than I could get done</span><br/><span style="style1">in a year on my own.</span></p>
+<p xml:id="subtitle439" begin="15400833334t" end="15420833334t" region="region0"><span style="style1">[foreboding music playing]</span></p>
+<p xml:id="subtitle440" begin="15442916667t" end="15460416667t" region="region0"><span style="style1">The big footprints go that way.</span></p>
+<p xml:id="subtitle441" begin="15468333334t" end="15496666667t" region="region0"><span style="style1">It's the sky bison</span><br/><span style="style1">the Avatar's always seen with.</span></p>
+<p xml:id="subtitle442" begin="15497500000t" end="15515000000t" region="region0"><span style="style1">Its fur is everywhere.</span></p>
+<p xml:id="subtitle443" begin="15520000000t" end="15543750000t" region="region0"><span style="style1">Why bring something</span><br/><span style="style1">that makes you so easy to track?</span></p>
+<p xml:id="subtitle444" begin="15544583334t" end="15563750000t" region="region0"><span style="style1">'Cause it seems all cute and fuzzy.</span></p>
+<p xml:id="subtitle445" begin="15564583334t" end="15597083334t" region="region0"><span style="style1">But this set of three tracks goes</span><br/><span style="style1">the other way with no fur.</span></p>
+<p xml:id="subtitle446" begin="15607916667t" end="15637916667t" region="region0"><span style="style1">Follow the bison.</span><br/><span style="style1">I'll follow the tracks towards that town.</span></p>
+<p xml:id="subtitle447" begin="15653333334t" end="15673750000t" region="region0"><span style="style1">You're going into an Earth Kingdom town?</span></p>
+<p xml:id="subtitle448" begin="15680833334t" end="15689166667t" region="region0"><span style="style1">Alone?</span></p>
+<p xml:id="subtitle449" begin="15690000000t" end="15704583334t" region="region0"><span style="style1">What, are you worried about me?</span></p>
+<p xml:id="subtitle450" begin="15705416667t" end="15725416667t" region="region0"><span style="style1">-Not about you getting hurt.</span><br/><span style="style1">-Just about--</span></p>
+<p xml:id="subtitle451" begin="15726250000t" end="15748333334t" region="region0"><span style="style1">Me snapping</span><br/><span style="style1">and burning the town to the ground,</span></p>
+<p xml:id="subtitle452" begin="15749166667t" end="15786250000t" region="region0"><span style="style1">leaving nothing behind me</span><br/><span style="style1">but a trail of blood and ashes.</span></p>
+<p xml:id="subtitle453" begin="15805000000t" end="15832916667t" region="region0"><span style="style1">Seriously, though, you're…</span><br/><span style="style1">you're not going to do that, right?</span></p>
+<p xml:id="subtitle454" begin="15841250000t" end="15854166667t" region="region0"><span style="style1">Of course not.</span></p>
+<p xml:id="subtitle455" begin="15864166667t" end="15882083334t" region="region0"><span style="style1">I am perfectly in control.</span></p>
+<p xml:id="subtitle456" begin="15890000000t" end="15916666667t" region="region0"><span style="style1">I will wait patiently</span><br/><span style="style1">for the Avatar to lead me to Zuko.</span></p>
+<p xml:id="subtitle457" begin="15917500000t" end="15957500000t" region="region0"><span style="style1">We'll have a warm and brief reunion,</span><br/><span style="style1">and then I'll tell him to come home.</span></p>
+<p xml:id="subtitle458" begin="15977500000t" end="15987916667t" region="region0"><span style="style1">Or else.</span></p>
+<p xml:id="subtitle459" begin="16025416667t" end="16058750000t" region="region0"><span style="style1">You're not still mad at me</span><br/><span style="style1">for almost killing you, are you?</span></p>
+<p xml:id="subtitle460" begin="16059583334t" end="16084166667t" region="region0"><span style="style1">As long as you're not mad at me</span><br/><span style="style1">for almost killing you.</span></p>
+<p xml:id="subtitle461" begin="16085000000t" end="16099166667t" region="region0"><span style="style1">No, I'm good.</span></p>
+<p xml:id="subtitle462" begin="16120416667t" end="16144583334t" region="region0"><span style="style1">What kind of trees are these anyway?</span></p>
+<p xml:id="subtitle463" begin="16157083334t" end="16177083334t" region="region0"><span style="style1">[uplifting music playing]</span></p>
+<p xml:id="subtitle464" begin="16212083334t" end="16223333334t" region="region0"><span style="style1">Wow.</span></p>
+<p xml:id="subtitle465" begin="16230000000t" end="16240416667t" region="region0"><span style="style1">This place is…</span></p>
+<p xml:id="subtitle466" begin="16241250000t" end="16251250000t" region="region0"><span style="style1">Yeah.</span></p>
+<p xml:id="subtitle467" begin="16278333334t" end="16291250000t" region="region0"><span style="style1">[Sokka] That's Kyoshi?</span></p>
+<p xml:id="subtitle468" begin="16292083334t" end="16305833334t" region="region0"><span style="style1">That's not to scale.</span></p>
+<p xml:id="subtitle469" begin="16311666667t" end="16333333334t" region="region0"><span style="style1">And my other past incarnations.</span></p>
+<p xml:id="subtitle470" begin="16338750000t" end="16367083334t" region="region0"><span style="style1">Roku, Kuruk, and Yangchen.</span></p>
+<p xml:id="subtitle471" begin="16367916667t" end="16384583334t" region="region0"><span style="style1">Those must be the past Beifongs.</span></p>
+<p xml:id="subtitle472" begin="16392500000t" end="16410416667t" region="region0"><span style="style1">I guess they really were friends.</span></p>
+<p xml:id="subtitle473" begin="16411250000t" end="16437083334t" region="region0"><span style="style1">-They don't have one of you yet, Aang.</span><br/><span style="style1">-Avatar Aang.</span></p>
+<p xml:id="subtitle474" begin="16437916667t" end="16448750000t" region="region0"><span style="style1">At long last.</span></p>
+<p xml:id="subtitle475" begin="16458333334t" end="16479166667t" region="region0"><span style="style1">It's so wonderful to finally meet you.</span></p>
+<p xml:id="subtitle476" begin="16480000000t" end="16522500000t" region="region0"><span style="style1">For generations, the Beifongs have been</span><br/><span style="style1">friends and benefactors of the Avatar,</span></p>
+<p xml:id="subtitle477" begin="16523333334t" end="16532916667t" region="region0"><span style="style1">as you can see.</span></p>
+<p xml:id="subtitle478" begin="16533750000t" end="16547916667t" region="region0"><span style="style1">You've clearly come a long way.</span></p>
+<p xml:id="subtitle479" begin="16577500000t" end="16611250000t" region="region0"><span style="style1">Thank you.</span><br/><span style="style1">And it's wonderful to meet you too.</span></p>
+<p xml:id="subtitle480" begin="16617916667t" end="16638333334t" region="region0"><span style="style1">But we actually have another request.</span></p>
+<p xml:id="subtitle481" begin="16639166667t" end="16657500000t" region="region0"><span style="style1">We're traveling with a group of refugees</span></p>
+<p xml:id="subtitle482" begin="16658333334t" end="16675416667t" region="region0"><span style="style1">who are in great need</span><br/><span style="style1">of food and supplies.</span></p>
+<p xml:id="subtitle483" begin="16676250000t" end="16701250000t" region="region0"><span style="style1">-A most virtuous entreaty.</span><br/><span style="style1">-Mm.</span></p>
+<p xml:id="subtitle484" begin="16702083334t" end="16715000000t" region="region0"><span style="style1">Does that mean you can help?</span></p>
+<p xml:id="subtitle485" begin="16715833334t" end="16742500000t" region="region0"><span style="style1">Oh, now. Let's not discuss business</span><br/><span style="style1">before dinner,</span></p>
+<p xml:id="subtitle486" begin="16743333334t" end="16762500000t" region="region0"><span style="style1">which will begin as soon as…</span></p>
+<p xml:id="subtitle487" begin="16763333334t" end="16788750000t" region="region0"><span style="style1">Ah, there's our little flower now.</span></p>
+<p xml:id="subtitle488" begin="16799166667t" end="16826250000t" region="region0"><span style="style1">This is our daughter, Toph.</span></p>
+<p xml:id="subtitle489" begin="16827083334t" end="16847083334t" region="region0"><span style="style1">[mysterious music playing]</span></p>
+<p xml:id="subtitle490" begin="16905000000t" end="16920833334t" region="region0"><span style="style1">It's the Blind Bandit.</span></p>
+<p xml:id="subtitle491" begin="16989166667t" end="17004166667t" region="region0"><span style="style1">Welcome, Avatar.</span></p>
+<p xml:id="subtitle492" begin="17005000000t" end="17034583334t" region="region0"><span style="style1">We pray you enjoy our most humble repast.</span></p>
+<p xml:id="subtitle493" begin="17064166667t" end="17074583334t" region="region0"><span style="style1">[music fades]</span></p>
+<p xml:id="subtitle494" begin="17087500000t" end="17105416667t" region="region0"><span style="style1">[Lord Beifong] The Southern Water Tribe.</span></p>
+<p xml:id="subtitle495" begin="17106250000t" end="17150000000t" region="region0"><span style="style1">Meeting you both</span><br/><span style="style1">is almost as rare a treat as the Avatar.</span></p>
+<p xml:id="subtitle496" begin="17150833334t" end="17179583334t" region="region0"><span style="style1">My dear husband is</span><br/><span style="style1">an eternal student of the world</span></p>
+<p xml:id="subtitle497" begin="17180416667t" end="17197083334t" region="region0"><span style="style1">and its cultures and geography.</span></p>
+<p xml:id="subtitle498" begin="17197916667t" end="17248750000t" region="region0"><span style="style1">Well, a flexible mind holds both</span><br/><span style="style1">wisdom of age and curiosity of youth.</span></p>
+<p xml:id="subtitle499" begin="17253750000t" end="17267916667t" region="region0"><span style="style1">What our gran gran always says.</span></p>
+<p xml:id="subtitle500" begin="17268750000t" end="17309166667t" region="region0"><span style="style1">Charming aphorisms from the South.</span><br/><span style="style1">I will try to earn that compliment.</span></p>
+<p xml:id="subtitle501" begin="17310000000t" end="17319166667t" region="region0"><span style="style1">Thank you.</span></p>
+<p xml:id="subtitle502" begin="17339166667t" end="17361666667t" region="region0"><span style="style1">Ji Shen, make sure</span><br/><span style="style1">Toph's soup is cool enough.</span></p>
+<p xml:id="subtitle503" begin="17362500000t" end="17382083334t" region="region0"><span style="style1">She's quite, uh, delicate.</span></p>
+<p xml:id="subtitle504" begin="17440833334t" end="17462500000t" region="region0"><span style="style1">You're the best Earthbender</span><br/><span style="style1">I've ever seen.</span></p>
+<p xml:id="subtitle505" begin="17471666667t" end="17496666667t" region="region0"><span style="style1">I'm sorry? Are you talking to me, Avatar?</span></p>
+<p xml:id="subtitle506" begin="17504166667t" end="17523333334t" region="region0"><span style="style1">Yeah. You're the Blind Bandit.</span></p>
+<p xml:id="subtitle507" begin="17524166667t" end="17532500000t" region="region0"><span style="style1">[huffs]</span></p>
+<p xml:id="subtitle508" begin="17533333334t" end="17566250000t" region="region0"><span style="style1">I think you're mistaking me</span><br/><span style="style1">for some other blind girl.</span></p>
+<p xml:id="subtitle509" begin="17567083334t" end="17592500000t" region="region0"><span style="style1">Understandable, but still quite offensive.</span></p>
+<p xml:id="subtitle510" begin="17593333334t" end="17629166667t" region="region0"><span style="style1">Your homeland is fascinating.</span><br/><span style="style1">Has there been any mining done there?</span></p>
+<p xml:id="subtitle511" begin="17630000000t" end="17640416667t" region="region0"><span style="style1">[Sokka] Mm.</span></p>
+<p xml:id="subtitle512" begin="17641250000t" end="17672916667t" region="region0"><span style="style1">Well, we are really very self-sufficient.</span></p>
+<p xml:id="subtitle513" begin="17681250000t" end="17714583334t" region="region0"><span style="style1">We have a kind of harmony</span><br/><span style="style1">with the lands and seas around us.</span></p>
+<p xml:id="subtitle514" begin="17715416667t" end="17748333334t" region="region0"><span style="style1">So you're saying that there are</span><br/><span style="style1">vast, untapped resources in the South?</span></p>
+<p xml:id="subtitle515" begin="17749166667t" end="17770833334t" region="region0"><span style="style1">[Lady Beifong] What my husband</span><br/><span style="style1">really wants to know</span></p>
+<p xml:id="subtitle516" begin="17771666667t" end="17799583334t" region="region0"><span style="style1">is what would it take for you</span><br/><span style="style1">to open your borders for trade?</span></p>
+<p xml:id="subtitle517" begin="17800416667t" end="17846250000t" region="region0"><span style="style1">Oh, our tribe's great and ancient history</span><br/><span style="style1">is one of seafaring and trade, but that--</span></p>
+<p xml:id="subtitle518" begin="17847083334t" end="17878750000t" region="region0"><span style="style1">-That ended when the Fire Nation attacked.</span><br/><span style="style1">-That's right.</span></p>
+<p xml:id="subtitle519" begin="17879583334t" end="17910416667t" region="region0"><span style="style1">The colonies and garrisons</span><br/><span style="style1">on the islands around ours</span></p>
+<p xml:id="subtitle520" begin="17911250000t" end="17935833334t" region="region0"><span style="style1">make it impossible for our ships to pass.</span></p>
+<p xml:id="subtitle521" begin="17936666667t" end="17962916667t" region="region0"><span style="style1">[Lady Beifong] Our ships move</span><br/><span style="style1">with more ease.</span></p>
+<p xml:id="subtitle522" begin="17963750000t" end="17980000000t" region="region0"><span style="style1">Business knows no borders.</span></p>
+<p xml:id="subtitle523" begin="17980833334t" end="17992500000t" region="region0"><span style="style1">Well,</span></p>
+<p xml:id="subtitle524" begin="18002083334t" end="18013333334t" region="region0"><span style="style1">in that case,</span></p>
+<p xml:id="subtitle525" begin="18014166667t" end="18047500000t" region="region0"><span style="style1">maybe we should be negotiating with you</span><br/><span style="style1">about these supplies?</span></p>
+<p xml:id="subtitle526" begin="18058750000t" end="18083333334t" region="region0"><span style="style1">I noticed you're short one portrait</span><br/><span style="style1">in your gallery.</span></p>
+<p xml:id="subtitle527" begin="18110000000t" end="18118333334t" region="region0"><span style="style1">Go on.</span></p>
+<p xml:id="subtitle528" begin="18119166667t" end="18157500000t" region="region0"><span style="style1">I need you to teach me earthbending.</span><br/><span style="style1">The way you fought at the Earth Rumble--</span></p>
+<p xml:id="subtitle529" begin="18158333334t" end="18175416667t" region="region0"><span style="style1">I've never heard of that.</span></p>
+<p xml:id="subtitle530" begin="18176250000t" end="18204583334t" region="region0"><span style="style1">My goodness.</span><br/><span style="style1">It sounds like a congregation of ruffians.</span></p>
+<p xml:id="subtitle531" begin="18210416667t" end="18230416667t" region="region0"><span style="style1">If he sits for a portrait,</span></p>
+<p xml:id="subtitle532" begin="18231250000t" end="18282083334t" region="region0"><span style="style1">my husband and I will gladly provide</span><br/><span style="style1">all the supplies your sky bison can carry.</span></p>
+<p xml:id="subtitle533" begin="18282916667t" end="18292916667t" region="region0"><span style="style1">It's a deal.</span></p>
+<p xml:id="subtitle534" begin="18329583334t" end="18354166667t" region="region0"><span style="style1">Okay, I guess</span><br/><span style="style1">you're a two-trick panda pony.</span></p>
+<p xml:id="subtitle535" begin="18359583334t" end="18368750000t" region="region0"><span style="style1">I used bending.</span></p>
+<p xml:id="subtitle536" begin="18378750000t" end="18402083334t" region="region0"><span style="style1">Bending their will. [chuckles]</span></p>
+<p xml:id="subtitle537" begin="18402916667t" end="18412500000t" region="region0"><span style="style1">Right?</span></p>
+<p xml:id="subtitle538" begin="18435416667t" end="18470000000t" region="region0"><span style="style1">You're a master of neutral jing.</span><br/><span style="style1">You can teach me to wait and listen.</span></p>
+<p xml:id="subtitle539" begin="18470833334t" end="18495416667t" region="region0"><span style="style1">Then listen to this.</span></p>
+<p xml:id="subtitle540" begin="18496250000t" end="18524583334t" region="region0"><span style="style1">Shut your hole.</span></p>
+<p xml:id="subtitle541" begin="18525416667t" end="18538333334t" region="region0"><span style="style1">[Aang grunts]</span></p>
+<p xml:id="subtitle542" begin="18547916667t" end="18564583334t" region="region0"><span style="style1">-[Sokka] Mm.</span><br/><span style="style1">-[Aang gasps]</span></p>
+<p xml:id="subtitle543" begin="18577500000t" end="18590416667t" region="region0"><span style="style1">[sighs]</span></p>
+<p xml:id="subtitle544" begin="18603750000t" end="18635833334t" region="region0"><span style="style1">The Avatar has sullied himself.</span><br/><span style="style1">Do help him tidy up, please, Ji Shen.</span></p>
+<p xml:id="subtitle545" begin="18636666667t" end="18657916667t" region="region0"><span style="style1">No, it's all right. I got it.</span></p>
+<p xml:id="subtitle546" begin="18702083334t" end="18715416667t" region="region0"><span style="style1">Ah.</span></p>
+<p xml:id="subtitle547" begin="18763333334t" end="18777083334t" region="region0"><span style="style1">Mm.</span></p>
+<p xml:id="subtitle548" begin="18777916667t" end="18790416667t" region="region0"><span style="style1">Marvelous!</span></p>
+<p xml:id="subtitle549" begin="18795416667t" end="18807500000t" region="region0"><span style="style1">Oh, bravo!</span></p>
+<p xml:id="subtitle550" begin="18808333334t" end="18822083334t" region="region0"><span style="style1">[chuckling]</span></p>
+<p xml:id="subtitle551" begin="18822916667t" end="18854166667t" region="region0"><span style="style1">As you can see,</span><br/><span style="style1">I'm ready to learn the next element.</span></p>
+<p xml:id="subtitle552" begin="18855000000t" end="18870000000t" region="region0"><span style="style1">I just need the right teacher.</span></p>
+<p xml:id="subtitle553" begin="18883750000t" end="18923333334t" region="region0"><span style="style1">Who taught Toph to earthbend?</span><br/><span style="style1">I'm sure she's very accomplished.</span></p>
+<p xml:id="subtitle554" begin="18924166667t" end="18934583334t" region="region0"><span style="style1">No.</span></p>
+<p xml:id="subtitle555" begin="18949583334t" end="18973333334t" region="region0"><span style="style1">Toph is our little flower.</span></p>
+<p xml:id="subtitle556" begin="18974166667t" end="19011666667t" region="region0"><span style="style1">Her fragile nature wouldn't agree with</span><br/><span style="style1">all that stomping and brouhaha.</span></p>
+<p xml:id="subtitle557" begin="19012500000t" end="19024583334t" region="region0"><span style="style1">You mean, you don't…</span></p>
+<p xml:id="subtitle558" begin="19039583334t" end="19049166667t" region="region0"><span style="style1">[strained] No.</span></p>
+<p xml:id="subtitle559" begin="19057916667t" end="19069583334t" region="region0"><span style="style1">She's…</span></p>
+<p xml:id="subtitle560" begin="19070416667t" end="19090416667t" region="region0"><span style="style1">[gasping] Having trouble breathing.</span></p>
+<p xml:id="subtitle561" begin="19107083334t" end="19117500000t" region="region0"><span style="style1">[grunts]</span></p>
+<p xml:id="subtitle562" begin="19118333334t" end="19140833334t" region="region0"><span style="style1">[Katara] It's okay.</span><br/><span style="style1">He usually lands softly.</span></p>
+<p xml:id="subtitle563" begin="19141666667t" end="19156250000t" region="region0"><span style="style1">[Sokka] Oh, he'll be fine.</span></p>
+<p xml:id="subtitle564" begin="19240416667t" end="19250833334t" region="region0"><span style="style1">[chuckles softly]</span></p>
+<p xml:id="subtitle565" begin="19276250000t" end="19295833334t" region="region0"><span style="style1">Are you unwell, Avatar?</span></p>
+<p xml:id="subtitle566" begin="19296666667t" end="19326666667t" region="region0"><span style="style1">-I was, but not anymore.</span><br/><span style="style1">-[Lord Beifong] Of course you are.</span></p>
+<p xml:id="subtitle567" begin="19327500000t" end="19357916667t" region="region0"><span style="style1">Now that your refugees</span><br/><span style="style1">have everything they need,</span></p>
+<p xml:id="subtitle568" begin="19358750000t" end="19406250000t" region="region0"><span style="style1">we can welcome you into the warm</span><br/><span style="style1">and potent embrace of the Beifong Clan.</span></p>
+<p xml:id="subtitle569" begin="19427083334t" end="19452916667t" region="region0"><span style="style1">I love a good embrace.</span></p>
+<p xml:id="subtitle570" begin="19525000000t" end="19545000000t" region="region0"><span style="style1">[Fei] I didn't take you for a farmhand.</span></p>
+<p xml:id="subtitle571" begin="19545833334t" end="19559583334t" region="region0"><span style="style1">[Zuko] I've been</span></p>
+<p xml:id="subtitle572" begin="19572083334t" end="19586666667t" region="region0"><span style="style1">a lot of things lately.</span></p>
+<p xml:id="subtitle573" begin="19684166667t" end="19706250000t" region="region0"><span style="style1">[somber music playing]</span></p>
+<p xml:id="subtitle574" begin="19785833334t" end="19800000000t" region="region0"><span style="style1">It was right over there.</span></p>
+<p xml:id="subtitle575" begin="19838333334t" end="19857500000t" region="region0"><span style="style1">They were just out here working.</span></p>
+<p xml:id="subtitle576" begin="19863750000t" end="19877500000t" region="region0"><span style="style1">My mom and dad.</span></p>
+<p xml:id="subtitle577" begin="19888333334t" end="19915416667t" region="region0"><span style="style1">And my older brother</span><br/><span style="style1">was already off with the army.</span></p>
+<p xml:id="subtitle578" begin="19971666667t" end="19985000000t" region="region0"><span style="style1">I was, um…</span></p>
+<p xml:id="subtitle579" begin="20022083334t" end="20058750000t" region="region0"><span style="style1">I was inside</span><br/><span style="style1">when I heard the raised voices.</span></p>
+<p xml:id="subtitle580" begin="20067916667t" end="20079583334t" region="region0"><span style="style1">And…</span></p>
+<p xml:id="subtitle581" begin="20141250000t" end="20163333334t" region="region0"><span style="style1">I don't know how, but I knew it was them.</span></p>
+<p xml:id="subtitle582" begin="20175833334t" end="20189583334t" region="region0"><span style="style1">Fire Nation.</span></p>
+<p xml:id="subtitle583" begin="20215833334t" end="20236666667t" region="region0"><span style="style1">So I made Peng hide, and I</span></p>
+<p xml:id="subtitle584" begin="20246250000t" end="20267916667t" region="region0"><span style="style1">ran out to try to get to them.</span></p>
+<p xml:id="subtitle585" begin="20302083334t" end="20329166667t" region="region0"><span style="style1">'Cause, you know, I thought</span><br/><span style="style1">if they knew that we were a family,</span></p>
+<p xml:id="subtitle586" begin="20330000000t" end="20367500000t" region="region0"><span style="style1">that… that there were kids here,</span><br/><span style="style1">that they might… might not, uh…</span></p>
+<p xml:id="subtitle587" begin="20422083334t" end="20432500000t" region="region0"><span style="style1">[sniffles]</span></p>
+<p xml:id="subtitle588" begin="20470416667t" end="20488750000t" region="region0"><span style="style1">It happened so fast.</span></p>
+<p xml:id="subtitle589" begin="20505416667t" end="20540416667t" region="region0"><span style="style1">And even when I knew it was too late,</span><br/><span style="style1">I still ran toward them.</span></p>
+<p xml:id="subtitle590" begin="20558333334t" end="20574583334t" region="region0"><span style="style1">And then he turned on me.</span></p>
+<p xml:id="subtitle591" begin="20585416667t" end="20604166667t" region="region0"><span style="style1">[sniffles] The one who did it.</span></p>
+<p xml:id="subtitle592" begin="20660416667t" end="20671250000t" region="region0"><span style="style1">I'm sorry.</span></p>
+<p xml:id="subtitle593" begin="20698750000t" end="20720416667t" region="region0"><span style="style1">I don't really know</span><br/><span style="style1">why I told you all that.</span></p>
+<p xml:id="subtitle594" begin="20742083334t" end="20756666667t" region="region0"><span style="style1">We've all lost things.</span></p>
+<p xml:id="subtitle595" begin="20819166667t" end="20845416667t" region="region0"><span style="style1">You don't need to be ashamed of your scar.</span></p>
+<p xml:id="subtitle596" begin="20860000000t" end="20876666667t" region="region0"><span style="style1">It means you made it out.</span></p>
+<p xml:id="subtitle597" begin="20877500000t" end="20897500000t" region="region0"><span style="style1">[foreboding music playing]</span></p>
+<p xml:id="subtitle598" begin="20926666667t" end="20943750000t" region="region0"><span style="style1">-[thunder rumbles]</span><br/><span style="style1">-Uh…</span></p>
+<p xml:id="subtitle599" begin="20950833334t" end="20979583334t" region="region0"><span style="style1">I need to get some more ties</span><br/><span style="style1">from the barn.</span></p>
+<p xml:id="subtitle600" begin="21041666667t" end="21051666667t" region="region0"><span style="style1">[exhales]</span></p>
+<p xml:id="subtitle601" begin="21056666667t" end="21072916667t" region="region0"><span style="style1">[Zuko's mom] </span><span style="style2">Remember who you are.</span></p>
+<p xml:id="subtitle602" begin="21080000000t" end="21114583334t" region="region0"><span style="style1">[young Azula] </span><span style="style2">Mama! Mama! Mama!</span></p>
+<p xml:id="subtitle603" begin="21128750000t" end="21145833334t" region="region0"><span style="style1">[Zuko's mom] </span><span style="style2">I have to go on.</span></p>
+<p xml:id="subtitle604" begin="21146666667t" end="21162083334t" region="region0"><span style="style1">[Fei] We can't give you anymore.</span></p>
+<p xml:id="subtitle605" begin="21162916667t" end="21195416667t" region="region0"><span style="style1">[soldier] We let you live,</span><br/><span style="style1">so hand the food over!</span></p>
+<p xml:id="subtitle606" begin="21196250000t" end="21216666667t" region="region0"><span style="style1">Stay back. I'll cut you! No!</span></p>
+<p xml:id="subtitle607" begin="21230416667t" end="21260833334t" region="region0"><span style="style1">-[Ozai] He flinches from conflict.</span><br/><span style="style1">-[Zuko's mom] Because he's kind.</span></p>
+<p xml:id="subtitle608" begin="21261666667t" end="21305000000t" region="region0"><span style="style1">Because he wants to help people.</span><br/><span style="style1">He wants peace and justice.</span></p>
+<p xml:id="subtitle609" begin="21305833334t" end="21348333334t" region="region0"><span style="style1">We are bringing peace and justice</span><br/><span style="style1">to the world under one rule,</span></p>
+<p xml:id="subtitle610" begin="21349166667t" end="21365416667t" region="region0"><span style="style1">and that takes strength.</span></p>
+<p xml:id="subtitle611" begin="21370833334t" end="21380000000t" region="region0"><span style="style1">[sighs]</span></p>
+<p xml:id="subtitle612" begin="21388333334t" end="21404583334t" region="region0"><span style="style1">Zuko lacks strength.</span></p>
+<p xml:id="subtitle613" begin="21415000000t" end="21455833334t" region="region0"><span style="style1">Sometimes strength is knowing when</span><br/><span style="style1">to not fight.</span></p>
+<p xml:id="subtitle614" begin="21473333334t" end="21487500000t" region="region0"><span style="style1">You need to give him another chance.</span></p>
+<p xml:id="subtitle615" begin="21488333334t" end="21526666667t" region="region0"><span style="style1">You need to nurture his instincts</span><br/><span style="style1">instead of just thwarting them.</span></p>
+<p xml:id="subtitle616" begin="21527500000t" end="21553750000t" region="region0"><span style="style1">Not in this family. Not in this world.</span></p>
+<p xml:id="subtitle617" begin="21565000000t" end="21597083334t" region="region0"><span style="style1">If our son refuses</span><br/><span style="style1">to put his younger sister in her place,</span></p>
+<p xml:id="subtitle618" begin="21597916667t" end="21615833334t" region="region0"><span style="style1">well, then she will take his place.</span></p>
+<p xml:id="subtitle619" begin="21616666667t" end="21645000000t" region="region0"><span style="style1">-So you want them to hate each other?</span><br/><span style="style1">-If that's what it takes.</span></p>
+<p xml:id="subtitle620" begin="21645833334t" end="21686250000t" region="region0"><span style="style1">There is a greater destiny in store for</span><br/><span style="style1">both our children than you can imagine.</span></p>
+<p xml:id="subtitle621" begin="21687083334t" end="21700000000t" region="region0"><span style="style1">What do you mean?</span></p>
+<p xml:id="subtitle622" begin="21727500000t" end="21762916667t" region="region0"><span style="style1">You came to me</span><br/><span style="style1">with an impeccable, strong bloodline.</span></p>
+<p xml:id="subtitle623" begin="21763750000t" end="21778750000t" region="region0"><span style="style1">And we promised</span></p>
+<p xml:id="subtitle624" begin="21784583334t" end="21822500000t" region="region0"><span style="style1">we would join our clans</span><br/><span style="style1">and make a family together.</span></p>
+<p xml:id="subtitle625" begin="21823333334t" end="21844583334t" region="region0"><span style="style1">You gave me an heir.</span></p>
+<p xml:id="subtitle626" begin="21850833334t" end="21859583334t" region="region0"><span style="style1">And a spare.</span></p>
+<p xml:id="subtitle627" begin="21860416667t" end="21874166667t" region="region0"><span style="style1">An heir? What…</span></p>
+<p xml:id="subtitle628" begin="21875000000t" end="21895000000t" region="region0"><span style="style1">[foreboding music playing]</span></p>
+<p xml:id="subtitle629" begin="21901250000t" end="21923750000t" region="region0"><span style="style1">Iroh is in line for the throne.</span></p>
+<p xml:id="subtitle630" begin="21934166667t" end="21955416667t" region="region0"><span style="style1">Lu Ten is the heir. I…</span></p>
+<p xml:id="subtitle631" begin="21956250000t" end="21984583334t" region="region0"><span style="style1">-Leave my children's education to me.</span><br/><span style="style1">-They're my children too!</span></p>
+<p xml:id="subtitle632" begin="22010833334t" end="22039166667t" region="region0"><span style="style1">I won't let you turn them into monsters.</span></p>
+<p xml:id="subtitle633" begin="22052916667t" end="22071666667t" region="region0"><span style="style1">Is that what you think I am?</span></p>
+<p xml:id="subtitle634" begin="22085833334t" end="22094583334t" region="region0"><span style="style1">A monster?</span></p>
+<p xml:id="subtitle635" begin="22100416667t" end="22120416667t" region="region0"><span style="style1">[fire crackling]</span></p>
+<p xml:id="subtitle636" begin="22130416667t" end="22155833334t" region="region0"><span style="style1">[tense music playing]</span></p>
+<p xml:id="subtitle637" begin="22156666667t" end="22175833334t" region="region0"><span style="style1">[Zuko panting]</span></p>
+<p xml:id="subtitle638" begin="22207083334t" end="22229166667t" region="region0"><span style="style1">[men groaning and panting]</span></p>
+<p xml:id="subtitle639" begin="22230000000t" end="22242916667t" region="region0"><span style="style1">Get out of here!</span></p>
+<p xml:id="subtitle640" begin="22291666667t" end="22310833334t" region="region0"><span style="style1">[music fades]</span></p>
+<p xml:id="subtitle641" begin="22311666667t" end="22330416667t" region="region0"><span style="style1">I didn't mean to.</span></p>
+<p xml:id="subtitle642" begin="22342083334t" end="22355000000t" region="region0"><span style="style1">It's okay.</span></p>
+<p xml:id="subtitle643" begin="22377500000t" end="22393750000t" region="region0"><span style="style1">If you didn't, I would've.</span></p>
+<p xml:id="subtitle644" begin="22394583334t" end="22414583334t" region="region0"><span style="style1">[somber music playing]</span></p>
+<p xml:id="subtitle645" begin="22495833334t" end="22509166667t" region="region0"><span style="style1">[footsteps approaching]</span></p>
+<p xml:id="subtitle646" begin="22516666667t" end="22525000000t" region="region0"><span style="style1">[Aang] There you are.</span></p>
+<p xml:id="subtitle647" begin="22525833334t" end="22554583334t" region="region0"><span style="style1">You and your big mouth</span><br/><span style="style1">almost blew my cover with my parents.</span></p>
+<p xml:id="subtitle648" begin="22555416667t" end="22568750000t" region="region0"><span style="style1">[Aang] Sorry. I just…</span></p>
+<p xml:id="subtitle649" begin="22569583334t" end="22587500000t" region="region0"><span style="style1">I really need an earthbending teacher.</span></p>
+<p xml:id="subtitle650" begin="22588333334t" end="22597083334t" region="region0"><span style="style1">Not my problem.</span></p>
+<p xml:id="subtitle651" begin="22597916667t" end="22619583334t" region="region0"><span style="style1">Shut up about it,</span><br/><span style="style1">and leave me alone forever.</span></p>
+<p xml:id="subtitle652" begin="22640000000t" end="22679166667t" region="region0"><span style="style1">But my friend Bumi said that my teacher</span><br/><span style="style1">would be a master of neutral jing.</span></p>
+<p xml:id="subtitle653" begin="22680000000t" end="22704583334t" region="region0"><span style="style1">Never heard of it. Get out of my way!</span></p>
+<p xml:id="subtitle654" begin="22727083334t" end="22769583334t" region="region0"><span style="style1">Pretty light on your feet, Twinkle Toes.</span><br/><span style="style1">Stay on the ground where I can see you.</span></p>
+<p xml:id="subtitle655" begin="22797916667t" end="22817500000t" region="region0"><span style="style1">Is this better?</span></p>
+<p xml:id="subtitle656" begin="22827916667t" end="22837083334t" region="region0"><span style="style1">Yes.</span></p>
+<p xml:id="subtitle657" begin="22846666667t" end="22856250000t" region="region0"><span style="style1">Now turn around.</span></p>
+<p xml:id="subtitle658" begin="22875833334t" end="22892500000t" region="region0"><span style="style1">Walk back towards the gate.</span></p>
+<p xml:id="subtitle659" begin="22915416667t" end="22932916667t" region="region0"><span style="style1">And keep walking forever.</span></p>
+<p xml:id="subtitle660" begin="22945000000t" end="22968333334t" region="region0"><span style="style1">Okay, so you don't wanna be</span><br/><span style="style1">my earthbending teacher.</span></p>
+<p xml:id="subtitle661" begin="22969166667t" end="22985416667t" region="region0"><span style="style1">Oh! So he's smart too.</span></p>
+<p xml:id="subtitle662" begin="22986250000t" end="23018750000t" region="region0"><span style="style1">But… I need to understand neutral jing.</span></p>
+<p xml:id="subtitle663" begin="23019583334t" end="23036250000t" region="region0"><span style="style1">And I've seen you do it.</span></p>
+<p xml:id="subtitle664" begin="23037083334t" end="23060416667t" region="region0"><span style="style1">Can you just show me how you earthbend?</span></p>
+<p xml:id="subtitle665" begin="23061250000t" end="23092916667t" region="region0"><span style="style1">I… I just do. Uh…</span></p>
+<p xml:id="subtitle666" begin="23093750000t" end="23116250000t" region="region0"><span style="style1">-Who cares?</span><br/><span style="style1">-I care.</span></p>
+<p xml:id="subtitle667" begin="23127916667t" end="23137083334t" region="region0"><span style="style1">Fine.</span></p>
+<p xml:id="subtitle668" begin="23144583334t" end="23160833334t" region="region0"><span style="style1">So, when I was little,</span></p>
+<p xml:id="subtitle669" begin="23161666667t" end="23183750000t" region="region0"><span style="style1">I ran away from home,</span><br/><span style="style1">and I hid in this cave.</span></p>
+<p xml:id="subtitle670" begin="23184583334t" end="23198333334t" region="region0"><span style="style1">Why'd you run away?</span></p>
+<p xml:id="subtitle671" begin="23225000000t" end="23252083334t" region="region0"><span style="style1">I don't remember.</span><br/><span style="style1">That's not an important part of the story.</span></p>
+<p xml:id="subtitle672" begin="23252916667t" end="23282916667t" region="region0"><span style="style1">The important thing is that, in this cave,</span></p>
+<p xml:id="subtitle673" begin="23291250000t" end="23321250000t" region="region0"><span style="style1">I met these… badgermoles.</span></p>
+<p xml:id="subtitle674" begin="23330000000t" end="23348333334t" region="region0"><span style="style1">I could feel them through the ground.</span></p>
+<p xml:id="subtitle675" begin="23356666667t" end="23410833334t" region="region0"><span style="style1">But what was weirder is that I could feel</span><br/><span style="style1">that they knew I was scared.</span></p>
+<p xml:id="subtitle676" begin="23434583334t" end="23456250000t" region="region0"><span style="style1">They were blind, like me, so</span></p>
+<p xml:id="subtitle677" begin="23466666667t" end="23480416667t" region="region0"><span style="style1">we understood each other.</span></p>
+<p xml:id="subtitle678" begin="23497083334t" end="23516666667t" region="region0"><span style="style1">Earthbending, to them,</span></p>
+<p xml:id="subtitle679" begin="23525416667t" end="23535000000t" region="region0"><span style="style1">wasn't fighting.</span></p>
+<p xml:id="subtitle680" begin="23535833334t" end="23566666667t" region="region0"><span style="style1">It was how they interacted with the world.</span></p>
+<p xml:id="subtitle681" begin="23567500000t" end="23592916667t" region="region0"><span style="style1">How they created their own world.</span></p>
+<p xml:id="subtitle682" begin="23606250000t" end="23617500000t" region="region0"><span style="style1">[scoffs]</span></p>
+<p xml:id="subtitle683" begin="23618333334t" end="23648333334t" region="region0"><span style="style1">So that's how they taught it to me,</span></p>
+<p xml:id="subtitle684" begin="23655000000t" end="23681250000t" region="region0"><span style="style1">as an extension of my senses.</span></p>
+<p xml:id="subtitle685" begin="23687916667t" end="23707083334t" region="region0"><span style="style1">-Everything's vibrating.</span><br/><span style="style1">-[faint rumbling]</span></p>
+<p xml:id="subtitle686" begin="23707916667t" end="23718750000t" region="region0"><span style="style1">All around us.</span></p>
+<p xml:id="subtitle687" begin="23725833334t" end="23740833334t" region="region0"><span style="style1">The world is turning.</span></p>
+<p xml:id="subtitle688" begin="23745833334t" end="23777916667t" region="region0"><span style="style1">There's water</span><br/><span style="style1">in the rivers deep underground.</span></p>
+<p xml:id="subtitle689" begin="23783333334t" end="23804583334t" region="region0"><span style="style1">Squirrels run across tree branches.</span></p>
+<p xml:id="subtitle690" begin="23805416667t" end="23817500000t" region="region0"><span style="style1">[squirrels squeaking]</span></p>
+<p xml:id="subtitle691" begin="23823333334t" end="23852083334t" region="region0"><span style="style1">Ants carry little bits of sand</span><br/><span style="style1">through the moss.</span></p>
+<p xml:id="subtitle692" begin="23852916667t" end="23870416667t" region="region0"><span style="style1">We're all connected through the earth.</span></p>
+<p xml:id="subtitle693" begin="23878750000t" end="23889583334t" region="region0"><span style="style1">Even you.</span></p>
+<p xml:id="subtitle694" begin="23895833334t" end="23927500000t" region="region0"><span style="style1">I could feel the moment</span><br/><span style="style1">you walked into my house, Twinkle Toes.</span></p>
+<p xml:id="subtitle695" begin="23944583334t" end="23966250000t" region="region0"><span style="style1">I bet the badgermoles made you feel safe.</span></p>
+<p xml:id="subtitle696" begin="23971250000t" end="23987916667t" region="region0"><span style="style1">Do you ever visit them?</span></p>
+<p xml:id="subtitle697" begin="23992916667t" end="24002916667t" region="region0"><span style="style1">No.</span></p>
+<p xml:id="subtitle698" begin="24013750000t" end="24037083334t" region="region0"><span style="style1">This was near our house we had in Gaoling.</span></p>
+<p xml:id="subtitle699" begin="24042500000t" end="24057500000t" region="region0"><span style="style1">We don't go there anymore.</span></p>
+<p xml:id="subtitle700" begin="24063750000t" end="24072916667t" region="region0"><span style="style1">[Aang] I'm sorry.</span></p>
+<p xml:id="subtitle701" begin="24081250000t" end="24117500000t" region="region0"><span style="style1">My sky bison, Appa, is my closest friend.</span></p>
+<p xml:id="subtitle702" begin="24127916667t" end="24141250000t" region="region0"><span style="style1">If I ever lost him,</span></p>
+<p xml:id="subtitle703" begin="24159583334t" end="24173333334t" region="region0"><span style="style1">I don't know what I'd do.</span></p>
+<p xml:id="subtitle704" begin="24194583334t" end="24204583334t" region="region0"><span style="style1">[exhales shakily]</span></p>
+<p xml:id="subtitle705" begin="24205416667t" end="24240000000t" region="region0"><span style="style1">Did you ever tell your parents all this?</span></p>
+<p xml:id="subtitle706" begin="24240833334t" end="24252083334t" region="region0"><span style="style1">They don't get it.</span></p>
+<p xml:id="subtitle707" begin="24260416667t" end="24276666667t" region="region0"><span style="style1">They don't want me to bend.</span></p>
+<p xml:id="subtitle708" begin="24290000000t" end="24312916667t" region="region0"><span style="style1">[sighs] That's why</span><br/><span style="style1">we don't go to Gaoling anymore.</span></p>
+<p xml:id="subtitle709" begin="24323750000t" end="24353750000t" region="region0"><span style="style1">They're my parents, you know? [scoffs]</span></p>
+<p xml:id="subtitle710" begin="24362916667t" end="24380416667t" region="region0"><span style="style1">They're just trying to protect me.</span></p>
+<p xml:id="subtitle711" begin="24388750000t" end="24412083334t" region="region0"><span style="style1">But you </span><span style="style2">can't </span><span style="style1">be yourself here.</span></p>
+<p xml:id="subtitle712" begin="24417083334t" end="24429166667t" region="region0"><span style="style1">You could with us.</span></p>
+<p xml:id="subtitle713" begin="24430000000t" end="24442083334t" region="region0"><span style="style1">[scoffs]</span></p>
+<p xml:id="subtitle714" begin="24442916667t" end="24481250000t" region="region0"><span style="style1">Okay, you clearly don't understand</span><br/><span style="style1">how my family works.</span></p>
+<p xml:id="subtitle715" begin="24482083334t" end="24495833334t" region="region0"><span style="style1">You're born a Beifong,</span></p>
+<p xml:id="subtitle716" begin="24496666667t" end="24526250000t" region="region0"><span style="style1">and then you have to live your entire life</span><br/><span style="style1">playing that role.</span></p>
+<p xml:id="subtitle717" begin="24535416667t" end="24552500000t" region="region0"><span style="style1">There's no getting out of it.</span></p>
+<p xml:id="subtitle718" begin="24608750000t" end="24641250000t" region="region0"><span style="style1">I was born the Avatar,</span><br/><span style="style1">and I have to be the Avatar.</span></p>
+<p xml:id="subtitle719" begin="24646666667t" end="24660000000t" region="region0"><span style="style1">I don't have a choice.</span></p>
+<p xml:id="subtitle720" begin="24675833334t" end="24685000000t" region="region0"><span style="style1">Right.</span></p>
+<p xml:id="subtitle721" begin="24702500000t" end="24715833334t" region="region0"><span style="style1">You're an Avatar,</span></p>
+<p xml:id="subtitle722" begin="24721250000t" end="24739583334t" region="region0"><span style="style1">and I'm a Beifong. [sighs]</span></p>
+<p xml:id="subtitle723" begin="24752916667t" end="24772916667t" region="region0"><span style="style1">Maybe I wouldn't have chose this either.</span></p>
+<p xml:id="subtitle724" begin="24777916667t" end="24802083334t" region="region0"><span style="style1">I could've just been an Air Nomad.</span></p>
+<p xml:id="subtitle725" begin="24819166667t" end="24828333334t" region="region0"><span style="style1">But</span></p>
+<p xml:id="subtitle726" begin="24837500000t" end="24863750000t" region="region0"><span style="style1">I would've never met my two best friends</span></p>
+<p xml:id="subtitle727" begin="24864583334t" end="24882500000t" region="region0"><span style="style1">or traveled everywhere</span></p>
+<p xml:id="subtitle728" begin="24883333334t" end="24918333334t" region="region0"><span style="style1">or even seen</span><br/><span style="style1">the world's largest crocorhino egg,</span></p>
+<p xml:id="subtitle729" begin="24919166667t" end="24949166667t" region="region0"><span style="style1">which Katara thinks is earthbent,</span><br/><span style="style1">but she's wrong because it's real.</span></p>
+<p xml:id="subtitle730" begin="25022916667t" end="25047916667t" region="region0"><span style="style1">I respect your decision.</span></p>
+<p xml:id="subtitle731" begin="25093333334t" end="25102083334t" region="region0"><span style="style1">Right.</span></p>
+<p xml:id="subtitle732" begin="25111666667t" end="25121666667t" region="region0"><span style="style1">Good.</span></p>
+<p xml:id="subtitle733" begin="25150000000t" end="25159166667t" region="region0"><span style="style1">And…</span></p>
+<p xml:id="subtitle734" begin="25183333334t" end="25209166667t" region="region0"><span style="style1">I really hope you get to see</span><br/><span style="style1">those badgermoles again.</span></p>
+<p xml:id="subtitle735" begin="25234166667t" end="25254166667t" region="region0"><span style="style1">[footsteps receding]</span></p>
+<p xml:id="subtitle736" begin="25332500000t" end="25352500000t" region="region0"><span style="style1">[tense, somber music playing]</span></p>
+<p xml:id="subtitle737" begin="25439166667t" end="25478750000t" region="region0"><span style="style1">[Peng] The Avatar's here!</span><br/><span style="style1">The Avatar is in the village!</span></p>
+<p xml:id="subtitle738" begin="25535000000t" end="25550833334t" region="region0"><span style="style1">Bet a lot of people are gonna be there.</span></p>
+<p xml:id="subtitle739" begin="25551666667t" end="25583750000t" region="region0"><span style="style1">We should sell our flower potatoes</span><br/><span style="style1">and our melon yams.</span></p>
+<p xml:id="subtitle740" begin="25584583334t" end="25610000000t" region="region0"><span style="style1">Our cabbages, our tomatoes, and our kale.</span></p>
+<p xml:id="subtitle741" begin="25610833334t" end="25629583334t" region="region0"><span style="style1">Everything we have on the farm.</span></p>
+<p xml:id="subtitle742" begin="25630416667t" end="25655416667t" region="region0"><span style="style1">And then we can actually make some profit.</span></p>
+<p xml:id="subtitle743" begin="25656250000t" end="25669583334t" region="region0"><span style="style1">[door opens]</span></p>
+<p xml:id="subtitle744" begin="25686666667t" end="25705000000t" region="region0"><span style="style1">[Zuko's mom] Zuko. Zuko, wake up.</span></p>
+<p xml:id="subtitle745" begin="25705833334t" end="25735416667t" region="region0"><span style="style1">-What's wrong?</span><br/><span style="style1">-Wake up. We need to go. We need to go.</span></p>
+<p xml:id="subtitle746" begin="25736250000t" end="25756250000t" region="region0"><span style="style1">[foreboding music playing]</span></p>
+<p xml:id="subtitle747" begin="25765416667t" end="25804583334t" region="region0"><span style="style1">-It's too early. Or too late.</span><br/><span style="style1">-Sh, my love. Come on.</span></p>
+<p xml:id="subtitle748" begin="25809583334t" end="25822083334t" region="region0"><span style="style1">Sh. Sh.</span></p>
+<p xml:id="subtitle749" begin="25883333334t" end="25899166667t" region="region0"><span style="style1">Sit, okay?</span></p>
+<p xml:id="subtitle750" begin="25900000000t" end="25921666667t" region="region0"><span style="style1">Sit here. Okay.</span></p>
+<p xml:id="subtitle751" begin="25934583334t" end="25953333334t" region="region0"><span style="style1">-Don't touch me.</span><br/><span style="style1">-Sh, Azula!</span></p>
+<p xml:id="subtitle752" begin="25954166667t" end="25970000000t" region="region0"><span style="style1">[Azula] You shush.</span></p>
+<p xml:id="subtitle753" begin="25997500000t" end="26014583334t" region="region0"><span style="style1">-[man] Yah!</span><br/><span style="style1">-[horses galloping]</span></p>
+<p xml:id="subtitle754" begin="26015416667t" end="26027500000t" region="region0"><span style="style1">Where's Dad?</span></p>
+<p xml:id="subtitle755" begin="26032500000t" end="26056250000t" region="region0"><span style="style1">Mom, where's Dad? Where's Dad?</span></p>
+<p xml:id="subtitle756" begin="26057083334t" end="26069166667t" region="region0"><span style="style1">Azula, stop. Quiet!</span></p>
+<p xml:id="subtitle757" begin="26070000000t" end="26091250000t" region="region0"><span style="style1">-[Azula] Stop touching me!</span><br/><span style="style1">-Honey, please stop!</span></p>
+<p xml:id="subtitle758" begin="26092083334t" end="26109166667t" region="region0"><span style="style1">-[footsteps approaching]</span><br/><span style="style1">-[gasps]</span></p>
+<p xml:id="subtitle759" begin="26128333334t" end="26148750000t" region="region0"><span style="style1">-[man] Stop!</span><br/><span style="style1">-What's happening, Mom?</span></p>
+<p xml:id="subtitle760" begin="26177500000t" end="26186250000t" region="region0"><span style="style1">-It's okay.</span><br/><span style="style1">-Mom…</span></p>
+<p xml:id="subtitle761" begin="26187083334t" end="26196666667t" region="region0"><span style="style1">Honey, listen.</span></p>
+<p xml:id="subtitle762" begin="26197500000t" end="26224583334t" region="region0"><span style="style1">I need you to promise me</span><br/><span style="style1">that no matter what happens,</span></p>
+<p xml:id="subtitle763" begin="26225416667t" end="26235833334t" region="region0"><span style="style1">you stay together.</span></p>
+<p xml:id="subtitle764" begin="26236666667t" end="26263750000t" region="region0"><span style="style1">Promise me that. And you hold</span><br/><span style="style1">that promise deep inside your heart.</span></p>
+<p xml:id="subtitle765" begin="26264583334t" end="26276666667t" region="region0"><span style="style1">We will, Mom.</span></p>
+<p xml:id="subtitle766" begin="26293750000t" end="26307083334t" region="region0"><span style="style1">-[pounds on door]</span><br/><span style="style1">-[man] Out, now!</span></p>
+<p xml:id="subtitle767" begin="26315416667t" end="26327916667t" region="region0"><span style="style1">Drop the reins!</span></p>
+<p xml:id="subtitle768" begin="26350416667t" end="26366666667t" region="region0"><span style="style1">[horse whinnies]</span></p>
+<p xml:id="subtitle769" begin="26367500000t" end="26385833334t" region="region0"><span style="style1">-You remember who you are.</span><br/><span style="style1">-[man] Spread out!</span></p>
+<p xml:id="subtitle770" begin="26386666667t" end="26415000000t" region="region0"><span style="style1">And you take care of your sister. Okay?</span></p>
+<p xml:id="subtitle771" begin="26462916667t" end="26480833334t" region="region0"><span style="style1">I love you both so much.</span></p>
+<p xml:id="subtitle772" begin="26497083334t" end="26508750000t" region="region0"><span style="style1">[man grunts]</span></p>
+<p xml:id="subtitle773" begin="26520416667t" end="26529583334t" region="region0"><span style="style1">No!</span></p>
+<p xml:id="subtitle774" begin="26530416667t" end="26563750000t" region="region0"><span style="style1">[screaming] No! No! No!</span></p>
+<p xml:id="subtitle775" begin="26564583334t" end="26604583334t" region="region0"><span style="style1">-[screams]</span><br/><span style="style1">-Mom! Mama!</span></p>
+<p xml:id="subtitle776" begin="26632500000t" end="26652500000t" region="region0"><span style="style1">[mysterious music playing]</span></p>
+<p xml:id="subtitle777" begin="26730833334t" end="26741666667t" region="region0"><span style="style1">[Zuko sighs]</span></p>
+<p xml:id="subtitle778" begin="26793750000t" end="26803750000t" region="region0"><span style="style1">[wind gusting]</span></p>
+<p xml:id="subtitle779" begin="26930833334t" end="26976666667t" region="region0"><span style="style1">I've been thinking about it, and I think</span><br/><span style="style1">you have too much positive jing.</span></p>
+<p xml:id="subtitle780" begin="27005416667t" end="27015416667t" region="region0"><span style="style1">Thank you.</span></p>
+<p xml:id="subtitle781" begin="27027083334t" end="27057916667t" region="region0"><span style="style1">Uh, it's not a compliment. It's, uh…</span></p>
+<p xml:id="subtitle782" begin="27068333334t" end="27106250000t" region="region0"><span style="style1">it's like whenever we're in danger</span><br/><span style="style1">or a battle</span></p>
+<p xml:id="subtitle783" begin="27107083334t" end="27140416667t" region="region0"><span style="style1">or a giant sea serpent, for example,</span></p>
+<p xml:id="subtitle784" begin="27146250000t" end="27184166667t" region="region0"><span style="style1">you always just yell &quot;follow me,&quot;</span><br/><span style="style1">and just rush right in there.</span></p>
+<p xml:id="subtitle785" begin="27185000000t" end="27201250000t" region="region0"><span style="style1">You know? So…</span></p>
+<p xml:id="subtitle786" begin="27202083334t" end="27217500000t" region="region0"><span style="style1">-Right.</span><br/><span style="style1">-Right.</span></p>
+<p xml:id="subtitle787" begin="27218333334t" end="27244166667t" region="region0"><span style="style1">Well, I'm the leader</span><br/><span style="style1">of the Kyoshi Warriors,</span></p>
+<p xml:id="subtitle788" begin="27245000000t" end="27264583334t" region="region0"><span style="style1">so it's customary for me to lead.</span></p>
+<p xml:id="subtitle789" begin="27276250000t" end="27285833334t" region="region0"><span style="style1">Yeah.</span></p>
+<p xml:id="subtitle790" begin="27296666667t" end="27315833334t" region="region0"><span style="style1">I just think you shouldn't be so reckless.</span></p>
+<p xml:id="subtitle791" begin="27331250000t" end="27352500000t" region="region0"><span style="style1">I think you know</span><br/><span style="style1">I can take care of myself.</span></p>
+<p xml:id="subtitle792" begin="27375416667t" end="27419583334t" region="region0"><span style="style1">Do I? You… you almost got boiled alive</span><br/><span style="style1">by a sea serpent.</span></p>
+<p xml:id="subtitle793" begin="27428333334t" end="27459583334t" region="region0"><span style="style1">I got grazed.</span><br/><span style="style1">And Katara healed me. I'm fine.</span></p>
+<p xml:id="subtitle794" begin="27460416667t" end="27470000000t" region="region0"><span style="style1">Okay.</span></p>
+<p xml:id="subtitle795" begin="27477083334t" end="27494166667t" region="region0"><span style="style1">You know what? Just forget about it.</span></p>
+<p xml:id="subtitle796" begin="27502500000t" end="27515833334t" region="region0"><span style="style1">Wait, what's really going on?</span></p>
+<p xml:id="subtitle797" begin="27516666667t" end="27553750000t" region="region0"><span style="style1">No, if you don't wanna take</span><br/><span style="style1">my fear seriously, it's fine. It's… We…</span></p>
+<p xml:id="subtitle798" begin="27577916667t" end="27592083334t" region="region0"><span style="style1">-Forget about it.</span><br/><span style="style1">-Sokka.</span></p>
+<p xml:id="subtitle799" begin="27606666667t" end="27649583334t" region="region0"><span style="style1">Did something happen? After Kyoshi Island?</span><br/><span style="style1">Something that's making you so worried?</span></p>
+<p xml:id="subtitle800" begin="27650416667t" end="27679583334t" region="region0"><span style="style1">I know Aang got captured, and Katara</span><br/><span style="style1">was on the front lines in the North.</span></p>
+<p xml:id="subtitle801" begin="27680416667t" end="27696666667t" region="region0"><span style="style1">They talked to you about the North?</span></p>
+<p xml:id="subtitle802" begin="27708333334t" end="27718333334t" region="region0"><span style="style1">What'd they say?</span></p>
+<p xml:id="subtitle803" begin="27730000000t" end="27744583334t" region="region0"><span style="style1">Only what they went through.</span></p>
+<p xml:id="subtitle804" begin="27745416667t" end="27753750000t" region="region0"><span style="style1">[Sokka sighs]</span></p>
+<p xml:id="subtitle805" begin="27754583334t" end="27788750000t" region="region0"><span style="style1">[Suki] Look, clearly</span><br/><span style="style1">something heavy's going on with you.</span></p>
+<p xml:id="subtitle806" begin="27794583334t" end="27824583334t" region="region0"><span style="style1">And I just want you to know, I'm here.</span></p>
+<p xml:id="subtitle807" begin="27833333334t" end="27841666667t" region="region0"><span style="style1">I'll listen.</span></p>
+<p xml:id="subtitle808" begin="27901666667t" end="27912083334t" region="region0"><span style="style1">Nothing happened.</span></p>
+<p xml:id="subtitle809" begin="27969166667t" end="27990833334t" region="region0"><span style="style1">[tense, mysterious music playing]</span></p>
+<p xml:id="subtitle810" begin="28004166667t" end="28025000000t" region="region0"><span style="style1">Why are there two Fire Nation girls</span><br/><span style="style1">over there?</span></p>
+<p xml:id="subtitle811" begin="28058333334t" end="28067500000t" region="region0"><span style="style1">Hey!</span></p>
+<p xml:id="subtitle812" begin="28072500000t" end="28107916667t" region="region0"><span style="style1">You think that's the Waterbender</span><br/><span style="style1">that's supposed to be with the Avatar?</span></p>
+<p xml:id="subtitle813" begin="28113750000t" end="28135833334t" region="region0"><span style="style1">Sokka, follow me.</span></p>
+<p xml:id="subtitle814" begin="28140833334t" end="28150416667t" region="region0"><span style="style1">Uh…</span></p>
+<p xml:id="subtitle815" begin="28151250000t" end="28160833334t" region="region0"><span style="style1">[groans]</span></p>
+<p xml:id="subtitle816" begin="28161666667t" end="28178750000t" region="region0"><span style="style1">Should we beat them up and find out?</span></p>
+<p xml:id="subtitle817" begin="28179583334t" end="28193333334t" region="region0"><span style="style1">[Ty Lee chuckles]</span></p>
+<p xml:id="subtitle818" begin="28200000000t" end="28215000000t" region="region0"><span style="style1">[tense music playing]</span></p>
+<p xml:id="subtitle819" begin="28215833334t" end="28224166667t" region="region0"><span style="style1">[grunts]</span></p>
+<p xml:id="subtitle820" begin="28254166667t" end="28263333334t" region="region0"><span style="style1">[Ty Lee grunts]</span></p>
+<p xml:id="subtitle821" begin="28284583334t" end="28293333334t" region="region0"><span style="style1">[grunts]</span></p>
+<p xml:id="subtitle822" begin="28299166667t" end="28311666667t" region="region0"><span style="style1">[grunts]</span></p>
+<p xml:id="subtitle823" begin="28312500000t" end="28332916667t" region="region0"><span style="style1">-[grunting]</span><br/><span style="style1">-[music intensifies]</span></p>
+<p xml:id="subtitle824" begin="28398750000t" end="28411250000t" region="region0"><span style="style1">Aah!</span></p>
+<p xml:id="subtitle825" begin="28412083334t" end="28427083334t" region="region0"><span style="style1">Aah!</span></p>
+<p xml:id="subtitle826" begin="28427916667t" end="28445000000t" region="region0"><span style="style1">-[grunting]</span><br/><span style="style1">-[bone cracking]</span></p>
+<p xml:id="subtitle827" begin="28455833334t" end="28483750000t" region="region0"><span style="style1">[grunting continues]</span></p>
+<p xml:id="subtitle828" begin="28484583334t" end="28499583334t" region="region0"><span style="style1">-[squeals] Aah!</span><br/><span style="style1">-Ha!</span></p>
+<p xml:id="subtitle829" begin="28500416667t" end="28513333334t" region="region0"><span style="style1">[grunts]</span></p>
+<p xml:id="subtitle830" begin="28520000000t" end="28535000000t" region="region0"><span style="style1">What did you do to me?</span></p>
+<p xml:id="subtitle831" begin="28535833334t" end="28570416667t" region="region0"><span style="style1">Just relax your chi for a hot sec.</span><br/><span style="style1">You'll be fine, cutie.</span></p>
+<p xml:id="subtitle832" begin="28594166667t" end="28611250000t" region="region0"><span style="style1">[grunting]</span></p>
+<p xml:id="subtitle833" begin="28767500000t" end="28790000000t" region="region0"><span style="style1">[dramatic music playing]</span></p>
+<p xml:id="subtitle834" begin="28884166667t" end="28897083334t" region="region0"><span style="style1">What did you just do to me?</span></p>
+<p xml:id="subtitle835" begin="28897916667t" end="28924166667t" region="region0"><span style="style1">Not so tough without your bendies,</span><br/><span style="style1">are you?</span></p>
+<p xml:id="subtitle836" begin="28931666667t" end="28942083334t" region="region0"><span style="style1">[knuckles crack]</span></p>
+<p xml:id="subtitle837" begin="28955000000t" end="28966666667t" region="region0"><span style="style1">[grunts]</span></p>
+<p xml:id="subtitle838" begin="28967500000t" end="28986250000t" region="region0"><span style="style1">The face? Really?</span></p>
+<p xml:id="subtitle839" begin="28996250000t" end="29009583334t" region="region0"><span style="style1">[Appa growls]</span></p>
+<p xml:id="subtitle840" begin="29010416667t" end="29027083334t" region="region0"><span style="style1">[dramatic music playing]</span></p>
+<p xml:id="subtitle841" begin="29077916667t" end="29110833334t" region="region0"><span style="style1">[roaring]</span></p>
+<p xml:id="subtitle842" begin="29111666667t" end="29120000000t" region="region0"><span style="style1">[panting]</span></p>
+<p xml:id="subtitle843" begin="29125833334t" end="29140833334t" region="region0"><span style="style1">She paralyzed me somehow.</span></p>
+<p xml:id="subtitle844" begin="29141666667t" end="29159166667t" region="region0"><span style="style1">[Katara] They're after Aang. [grunts]</span></p>
+<p xml:id="subtitle845" begin="29160000000t" end="29181666667t" region="region0"><span style="style1">He's back at the village.</span><br/><span style="style1">We have to warn him.</span></p>
+<p xml:id="subtitle846" begin="29189583334t" end="29211666667t" region="region0"><span style="style1">[panting]</span></p>
+<p xml:id="subtitle847" begin="29212500000t" end="29232500000t" region="region0"><span style="style1">[indistinct chatter]</span></p>
+<p xml:id="subtitle848" begin="29345833334t" end="29359583334t" region="region0"><span style="style1">[Azula] Hello, Zuzu.</span></p>
+<p xml:id="subtitle849" begin="29379583334t" end="29390416667t" region="region0"><span style="style1">Azula.</span></p>
+<p xml:id="subtitle850" begin="29391250000t" end="29411250000t" region="region0"><span style="style1">[tense music playing]</span></p>
+<p xml:id="subtitle851" begin="29445000000t" end="29459583334t" region="region0"><span style="style1">[Zuko] What are you doing here?</span></p>
+<p xml:id="subtitle852" begin="29470000000t" end="29490416667t" region="region0"><span style="style1">Is that any way to greet your sister?</span></p>
+<p xml:id="subtitle853" begin="29507083334t" end="29517083334t" region="region0"><span style="style1">[groans]</span></p>
+<p xml:id="subtitle854" begin="29523333334t" end="29539166667t" region="region0"><span style="style1">What have you done to your hair?</span></p>
+<p xml:id="subtitle855" begin="29598750000t" end="29613333334t" region="region0"><span style="style1">Stay out of my way.</span></p>
+<p xml:id="subtitle856" begin="29626666667t" end="29641250000t" region="region0"><span style="style1">You don't have to do that.</span></p>
+<p xml:id="subtitle857" begin="29653750000t" end="29686666667t" region="region0"><span style="style1">Capture the Avatar, I mean.</span><br/><span style="style1">Father doesn't care about that anymore.</span></p>
+<p xml:id="subtitle858" begin="29713333334t" end="29730000000t" region="region0"><span style="style1">What do you mean he doesn't care?</span></p>
+<p xml:id="subtitle859" begin="29787916667t" end="29811250000t" region="region0"><span style="style1">He's pardoned you</span><br/><span style="style1">for your treachery in the North,</span></p>
+<p xml:id="subtitle860" begin="29812083334t" end="29834583334t" region="region0"><span style="style1">and he's lifted your banishment.</span></p>
+<p xml:id="subtitle861" begin="29845833334t" end="29862500000t" region="region0"><span style="style1">Congratulations.</span></p>
+<p xml:id="subtitle862" begin="29863333334t" end="29877500000t" region="region0"><span style="style1">You're lying.</span></p>
+<p xml:id="subtitle863" begin="29905416667t" end="29918750000t" region="region0"><span style="style1">I wish I were.</span></p>
+<p xml:id="subtitle864" begin="29933333334t" end="29956666667t" region="region0"><span style="style1">I've been sent to retrieve you.</span></p>
+<p xml:id="subtitle865" begin="29988333334t" end="30013333334t" region="region0"><span style="style1">You've done your best, Zuzu.</span><br/><span style="style1">We all know it.</span></p>
+<p xml:id="subtitle866" begin="30018333334t" end="30045416667t" region="region0"><span style="style1">And after all, that's what really counts.</span></p>
+<p xml:id="subtitle867" begin="30053333334t" end="30063750000t" region="region0"><span style="style1">Isn't it?</span></p>
+<p xml:id="subtitle868" begin="30064583334t" end="30085416667t" region="region0"><span style="style1">The Avatar is growing in power.</span></p>
+<p xml:id="subtitle869" begin="30090416667t" end="30109583334t" region="region0"><span style="style1">If he wants to win the war,</span><br/><span style="style1">we need to catch him.</span></p>
+<p xml:id="subtitle870" begin="30110416667t" end="30132916667t" region="region0"><span style="style1">Don't question your Fire Lord.</span></p>
+<p xml:id="subtitle871" begin="30165416667t" end="30187500000t" region="region0"><span style="style1">He's commanded me to bring you home,</span></p>
+<p xml:id="subtitle872" begin="30193333334t" end="30212500000t" region="region0"><span style="style1">and I will do that.</span></p>
+<p xml:id="subtitle873" begin="30227083334t" end="30238333334t" region="region0"><span style="style1">One way</span></p>
+<p xml:id="subtitle874" begin="30252083334t" end="30261666667t" region="region0"><span style="style1">or another.</span></p>
+<p xml:id="subtitle875" begin="30267500000t" end="30283750000t" region="region0"><span style="style1">So you're running his errands now?</span></p>
+<p xml:id="subtitle876" begin="30299166667t" end="30308333334t" region="region0"><span style="style1">Yes.</span></p>
+<p xml:id="subtitle877" begin="30314583334t" end="30335416667t" region="region0"><span style="style1">Whatever errands he commands.</span></p>
+<p xml:id="subtitle878" begin="30342500000t" end="30355833334t" region="region0"><span style="style1">Conquer Omashu.</span></p>
+<p xml:id="subtitle879" begin="30364583334t" end="30382083334t" region="region0"><span style="style1">Fetch his failson.</span></p>
+<p xml:id="subtitle880" begin="30382916667t" end="30400416667t" region="region0"><span style="style1">[Zuko] I don't know</span><br/><span style="style1">what game you're playing,</span></p>
+<p xml:id="subtitle881" begin="30401250000t" end="30422083334t" region="region0"><span style="style1">but I know</span><br/><span style="style1">that you would never do anything</span></p>
+<p xml:id="subtitle882" begin="30422916667t" end="30435833334t" region="region0"><span style="style1">that would be good for me.</span></p>
+<p xml:id="subtitle883" begin="30436666667t" end="30453333334t" region="region0"><span style="style1">Get over yourself.</span></p>
+<p xml:id="subtitle884" begin="30467500000t" end="30498750000t" region="region0"><span style="style1">You don't register that high</span><br/><span style="style1">on my list of concerns.</span></p>
+<p xml:id="subtitle885" begin="30499583334t" end="30520833334t" region="region0"><span style="style1">Is that why you recruited Zhao</span><br/><span style="style1">to do your dirty work?</span></p>
+<p xml:id="subtitle886" begin="30532500000t" end="30551250000t" region="region0"><span style="style1">I don't know what</span><br/><span style="style1">or to whom you're referring.</span></p>
+<p xml:id="subtitle887" begin="30558333334t" end="30573750000t" region="region0"><span style="style1">At least this time,</span></p>
+<p xml:id="subtitle888" begin="30587500000t" end="30618333334t" region="region0"><span style="style1">you had the dignity to come in person</span><br/><span style="style1">to try to thwart my mission.</span></p>
+<p xml:id="subtitle889" begin="30619166667t" end="30651666667t" region="region0"><span style="style1">Your mission is meaningless.</span></p>
+<p xml:id="subtitle890" begin="30652500000t" end="30672916667t" region="region0"><span style="style1">Then take a seat while I finish it.</span></p>
+<p xml:id="subtitle891" begin="30705833334t" end="30734583334t" region="region0"><span style="style1">I'm not going back without the Avatar.</span></p>
+<p xml:id="subtitle892" begin="30735416667t" end="30752916667t" region="region0"><span style="style1">Don't be a fool, Zuko.</span></p>
+<p xml:id="subtitle893" begin="30766666667t" end="30779166667t" region="region0"><span style="style1">Look at the state of you.</span></p>
+<p xml:id="subtitle894" begin="30780000000t" end="30825833334t" region="region0"><span style="style1">I'm more powerful than you remember.</span></p>
+<p xml:id="subtitle895" begin="30855000000t" end="30865000000t" region="region0"><span style="style1">[tense music fades]</span></p>
+<p xml:id="subtitle896" begin="30865833334t" end="30886666667t" region="region0"><span style="style1">[indistinct chatter]</span></p>
+<p xml:id="subtitle897" begin="30892500000t" end="30917916667t" region="region0"><span style="style1">That might be the only earthbending</span><br/><span style="style1">I ever learn.</span></p>
+<p xml:id="subtitle898" begin="30926666667t" end="30939166667t" region="region0"><span style="style1">[Zuko] Avatar!</span></p>
+<p xml:id="subtitle899" begin="30952916667t" end="30965000000t" region="region0"><span style="style1">Zuko?</span></p>
+<p xml:id="subtitle900" begin="30973333334t" end="30988750000t" region="region0"><span style="style1">[Azula] I'm not finished with you!</span></p>
+<p xml:id="subtitle901" begin="30997083334t" end="31012916667t" region="region0"><span style="style1">[suspenseful music playing]</span></p>
+<p xml:id="subtitle902" begin="31069583334t" end="31078750000t" region="region0"><span style="style1">This?</span></p>
+<p xml:id="subtitle903" begin="31090833334t" end="31106666667t" region="region0"><span style="style1">This is the Avatar?</span></p>
+<p xml:id="subtitle904" begin="31115833334t" end="31129583334t" region="region0"><span style="style1">Zuzu, he's a little boy.</span></p>
+<p xml:id="subtitle905" begin="31145833334t" end="31160000000t" region="region0"><span style="style1">Zuzu? [chuckles]</span></p>
+<p xml:id="subtitle906" begin="31185000000t" end="31197500000t" region="region0"><span style="style1">Who are you?</span></p>
+<p xml:id="subtitle907" begin="31210833334t" end="31222083334t" region="region0"><span style="style1">Can't tell?</span></p>
+<p xml:id="subtitle908" begin="31234583334t" end="31256250000t" region="region0"><span style="style1">I've been told</span><br/><span style="style1">the family resemblance is strong.</span></p>
+<p xml:id="subtitle909" begin="31312916667t" end="31344583334t" region="region0"><span style="style1">&quot;I will capture the Avatar</span><br/><span style="style1">and restore my honor.&quot;</span></p>
+<p xml:id="subtitle910" begin="31345416667t" end="31363333334t" region="region0"><span style="style1">I've never said that!</span></p>
+<p xml:id="subtitle911" begin="31404166667t" end="31415000000t" region="region0"><span style="style1">[tense music playing]</span></p>
+<p xml:id="subtitle912" begin="31517083334t" end="31534166667t" region="region0"><span style="style1">[grunting]</span></p>
+<p xml:id="subtitle913" begin="31624583334t" end="31639166667t" region="region0"><span style="style1">[yells] Ya!</span></p>
+<p xml:id="subtitle914" begin="31651250000t" end="31667500000t" region="region0"><span style="style1">[grunting]</span></p>
+<p xml:id="subtitle915" begin="31668333334t" end="31685833334t" region="region0"><span style="style1">[gasps, grunts]</span></p>
+<p xml:id="subtitle916" begin="31729583334t" end="31738333334t" region="region0"><span style="style1">[groans]</span></p>
+<p xml:id="subtitle917" begin="31800833334t" end="31820833334t" region="region0"><span style="style1">[panting]</span></p>
+<p xml:id="subtitle918" begin="31858333334t" end="31878333334t" region="region0"><span style="style1">[grunting]</span></p>
+<p xml:id="subtitle919" begin="31890833334t" end="31910833334t" region="region0"><span style="style1">[yells] Aah!</span></p>
+<p xml:id="subtitle920" begin="31911666667t" end="31927083334t" region="region0"><span style="style1">[snarling]</span></p>
+<p xml:id="subtitle921" begin="31940833334t" end="31954166667t" region="region0"><span style="style1">[Peng] Fei, look!</span></p>
+<p xml:id="subtitle922" begin="31985000000t" end="31997083334t" region="region0"><span style="style1">[grunting]</span></p>
+<p xml:id="subtitle923" begin="32057916667t" end="32069166667t" region="region0"><span style="style1">[Peng] It's Li.</span></p>
+<p xml:id="subtitle924" begin="32076666667t" end="32099583334t" region="region0"><span style="style1">[Zuko panting]</span></p>
+<p xml:id="subtitle925" begin="32100416667t" end="32110000000t" region="region0"><span style="style1">No, it's not.</span></p>
+<p xml:id="subtitle926" begin="32162083334t" end="32174166667t" region="region0"><span style="style1">[Sokka grunts]</span></p>
+<p xml:id="subtitle927" begin="32182500000t" end="32194166667t" region="region0"><span style="style1">Your arm's working again.</span></p>
+<p xml:id="subtitle928" begin="32208333334t" end="32224583334t" region="region0"><span style="style1">You were better than I thought.</span></p>
+<p xml:id="subtitle929" begin="32261250000t" end="32277916667t" region="region0"><span style="style1">[dramatic music playing]</span></p>
+<p xml:id="subtitle930" begin="32368333334t" end="32378750000t" region="region0"><span style="style1">[Sokka] Whoa!</span></p>
+<p xml:id="subtitle931" begin="32389166667t" end="32405000000t" region="region0"><span style="style1">[music intensifies]</span></p>
+<p xml:id="subtitle932" begin="32420833334t" end="32429583334t" region="region0"><span style="style1">Toph!</span></p>
+<p xml:id="subtitle933" begin="32430416667t" end="32462083334t" region="region0"><span style="style1">Why didn't you just tell me</span><br/><span style="style1">there was gonna be real fighting involved?</span></p>
+<p xml:id="subtitle934" begin="32472916667t" end="32482916667t" region="region0"><span style="style1">[Azula grunts]</span></p>
+<p xml:id="subtitle935" begin="32483750000t" end="32502083334t" region="region0"><span style="style1">[panting]</span></p>
+<p xml:id="subtitle936" begin="32586250000t" end="32605833334t" region="region0"><span style="style1">[panting]</span></p>
+<p xml:id="subtitle937" begin="32606666667t" end="32622500000t" region="region0"><span style="style1">[all grunting]</span></p>
+<p xml:id="subtitle938" begin="32712083334t" end="32732083334t" region="region0"><span style="style1">[mysterious music playing]</span></p>
+<p xml:id="subtitle939" begin="32875833334t" end="32885833334t" region="region0"><span style="style1">Azula!</span></p>
+<p xml:id="subtitle940" begin="32890833334t" end="32907916667t" region="region0"><span style="style1">Stand down!</span></p>
+<p xml:id="subtitle941" begin="32932083334t" end="32960000000t" region="region0"><span style="style1">Not surprising you've aligned yourself</span><br/><span style="style1">with the enemy, Zuko.</span></p>
+<p xml:id="subtitle942" begin="32960833334t" end="32980833334t" region="region0"><span style="style1">[suspenseful music playing]</span></p>
+<p xml:id="subtitle943" begin="33104166667t" end="33118750000t" region="region0"><span style="style1">I know when I'm beaten.</span></p>
+<p xml:id="subtitle944" begin="33126250000t" end="33143750000t" region="region0"><span style="style1">A princess surrenders…</span></p>
+<p xml:id="subtitle945" begin="33144583334t" end="33154583334t" region="region0"><span style="style1">Ha!</span></p>
+<p xml:id="subtitle946" begin="33155416667t" end="33165000000t" region="region0"><span style="style1">[Zuko] Uncle!</span></p>
+<p xml:id="subtitle947" begin="33165833334t" end="33180833334t" region="region0"><span style="style1">[sinister music playing]</span></p>
+<p xml:id="subtitle948" begin="33181666667t" end="33202500000t" region="region0"><span style="style1">[panting]</span></p>
+<p xml:id="subtitle949" begin="33223333334t" end="33235416667t" region="region0"><span style="style1">[grunts]</span></p>
+<p xml:id="subtitle950" begin="33306666667t" end="33315833334t" region="region0"><span style="style1">[Zuko] Uncle.</span></p>
+<p xml:id="subtitle951" begin="33347500000t" end="33366250000t" region="region0"><span style="style1">-Zuko, I can help.</span><br/><span style="style1">-Whoa. Whoa.</span></p>
+<p xml:id="subtitle952" begin="33367083334t" end="33387083334t" region="region0"><span style="style1">[somber music playing]</span></p>
+<p xml:id="subtitle953" begin="33395416667t" end="33407916667t" region="region0"><span style="style1">Leave us alone.</span></p>
+<p xml:id="subtitle954" begin="33413750000t" end="33430416667t" region="region0"><span style="style1">We should go now, okay?</span></p>
+<p xml:id="subtitle955" begin="33431250000t" end="33442500000t" region="region0"><span style="style1">But we could help.</span></p>
+<p xml:id="subtitle956" begin="33481250000t" end="33499166667t" region="region0"><span style="style1">-Leave!</span><br/><span style="style1">-[Sokka] Let's go! Go.</span></p>
+<p xml:id="subtitle957" begin="33650000000t" end="33660833334t" region="region0"><span style="style1">[Zuko] Uncle…</span></p>
+<p xml:id="subtitle958" begin="33741666667t" end="33770416667t" region="region0"><span style="style1">So those were Firebenders, huh?</span></p>
+<p xml:id="subtitle959" begin="33776666667t" end="33803750000t" region="region0"><span style="style1">[scoffs] Can't wait</span><br/><span style="style1">to get another shot at them.</span></p>
+<p xml:id="subtitle960" begin="33821250000t" end="33842083334t" region="region0"><span style="style1">Does this mean you're coming with us?</span></p>
+<p xml:id="subtitle961" begin="33869166667t" end="33879166667t" region="region0"><span style="style1">[Lady Beifong] Toph!</span></p>
+<p xml:id="subtitle962" begin="33945000000t" end="33954583334t" region="region0"><span style="style1">[gasps]</span></p>
+<p xml:id="subtitle963" begin="33960000000t" end="33981250000t" region="region0"><span style="style1">What in the world are you doing out here?</span></p>
+<p xml:id="subtitle964" begin="33991666667t" end="34026250000t" region="region0"><span style="style1">I… I felt rumbling, so I came to find out</span><br/><span style="style1">what was happening.</span></p>
+<p xml:id="subtitle965" begin="34027083334t" end="34058750000t" region="region0"><span style="style1">The Avatar was in a fight. I had to help.</span></p>
+<p xml:id="subtitle966" begin="34059583334t" end="34078333334t" region="region0"><span style="style1">You felt rumbling?</span></p>
+<p xml:id="subtitle967" begin="34085833334t" end="34095416667t" region="region0"><span style="style1">[gasps]</span></p>
+<p xml:id="subtitle968" begin="34100833334t" end="34134166667t" region="region0"><span style="style1">You're far too delicate</span><br/><span style="style1">to engage in that activity.</span></p>
+<p xml:id="subtitle969" begin="34152083334t" end="34175833334t" region="region0"><span style="style1">I'm not delicate.</span></p>
+<p xml:id="subtitle970" begin="34189166667t" end="34207500000t" region="region0"><span style="style1">And I'm not a flower.</span></p>
+<p xml:id="subtitle971" begin="34225833334t" end="34239166667t" region="region0"><span style="style1">I'm a rock.</span></p>
+<p xml:id="subtitle972" begin="34250833334t" end="34284166667t" region="region0"><span style="style1">And I'm blind,</span><br/><span style="style1">even if you don't wanna say it.</span></p>
+<p xml:id="subtitle973" begin="34308333334t" end="34316666667t" region="region0"><span style="style1">Just</span></p>
+<p xml:id="subtitle974" begin="34325833334t" end="34340833334t" region="region0"><span style="style1">listen to me.</span></p>
+<p xml:id="subtitle975" begin="34348333334t" end="34364583334t" region="region0"><span style="style1">This one time, Mom.</span></p>
+<p xml:id="subtitle976" begin="34387500000t" end="34411250000t" region="region0"><span style="style1">This is who I am.</span></p>
+<p xml:id="subtitle977" begin="34472916667t" end="34492916667t" region="region0"><span style="style1">We're giving you far too much liberty.</span></p>
+<p xml:id="subtitle978" begin="34499583334t" end="34532916667t" region="region0"><span style="style1">Put on your shoes, and come home… now.</span></p>
+<p xml:id="subtitle979" begin="34570416667t" end="34605000000t" region="region0"><span style="style1">I'm never wearing shoes again.</span></p>
+<p xml:id="subtitle980" begin="34605833334t" end="34625416667t" region="region0"><span style="style1">[upbeat music playing]</span></p>
+<p xml:id="subtitle981" begin="34626250000t" end="34665000000t" region="region0"><span style="style1">Come on, Avatar. I'm gonna teach you</span><br/><span style="style1">to earthbend even if it kills me.</span></p>
+<p xml:id="subtitle982" begin="34677083334t" end="34692916667t" region="region0"><span style="style1">-[chuckles]</span><br/><span style="style1">-[music fades]</span></p>
+<p xml:id="subtitle983" begin="34693750000t" end="34709166667t" region="region0"><span style="style1">-[Zuko] Can you stand?</span><br/><span style="style1">-[sighs]</span></p>
+<p xml:id="subtitle984" begin="34723750000t" end="34735833334t" region="region0"><span style="style1">[groans]</span></p>
+<p xml:id="subtitle985" begin="34736666667t" end="34745833334t" region="region0"><span style="style1">[Zuko grunts]</span></p>
+<p xml:id="subtitle986" begin="34765000000t" end="34777083334t" region="region0"><span style="style1">[Iroh groans softly]</span></p>
+<p xml:id="subtitle987" begin="34777916667t" end="34797916667t" region="region0"><span style="style1">[indistinct chatter]</span></p>
+<p xml:id="subtitle988" begin="34842500000t" end="34867500000t" region="region0"><span style="style1">-[door slams, creaks]</span><br/><span style="style1">-[suspenseful music playing]</span></p>
+<p xml:id="subtitle989" begin="34922083334t" end="34930416667t" region="region0"><span style="style1">Peng!</span></p>
+<p xml:id="subtitle990" begin="34952916667t" end="34971250000t" region="region0"><span style="style1">Get out of here, Firebender!</span></p>
+<p xml:id="subtitle991" begin="34976250000t" end="35008750000t" region="region0"><span style="style1">[Zuko] Listen, Uncle, we have to go now.</span><br/><span style="style1">Come on. Come on.</span></p>
+<p xml:id="subtitle992" begin="35009583334t" end="35019583334t" region="region0"><span style="style1">-Come on.</span><br/><span style="style1">-[Iroh grunts]</span></p>
+<p xml:id="subtitle993" begin="35025000000t" end="35035416667t" region="region0"><span style="style1">[grunting softly]</span></p>
+<p xml:id="subtitle994" begin="35129583334t" end="35149583334t" region="region0"><span style="style1">[foreboding music playing]</span></p>
+<p xml:id="subtitle995" begin="35218750000t" end="35259166667t" region="region0"><span style="style1">You'll get the rest on the safe return</span><br/><span style="style1">of our kidnapped daughter.</span></p>
+<p xml:id="subtitle996" begin="35270833334t" end="35295416667t" region="region0"><span style="style1">The Boulder will do his best.</span></p>
+<p xml:id="subtitle997" begin="35300416667t" end="35349166667t" region="region0"><span style="style1">But the Beifongs' daughter</span><br/><span style="style1">will be very hard to pin down.</span></p>
+<p xml:id="subtitle998" begin="35350000000t" end="35381666667t" region="region0"><span style="style1">She is tough and short</span></p>
+<p xml:id="subtitle999" begin="35382500000t" end="35412916667t" region="region0"><span style="style1">and very, very mean.</span></p>
+<p xml:id="subtitle1000" begin="35413750000t" end="35437083334t" region="region0"><span style="style1">That's why Ji Shen shall accompany you.</span></p>
+<p xml:id="subtitle1001" begin="35524166667t" end="35546666667t" region="region0"><span style="style1">Bring my daughter home to me</span></p>
+<p xml:id="subtitle1002" begin="35560833334t" end="35593333334t" region="region0"><span style="style1">by whatever means necessary.</span></p>
+<p xml:id="subtitle1003" begin="35666250000t" end="35682500000t" region="region0"><span style="style1">[The Boulder grunts]</span></p>
+<p xml:id="subtitle1004" begin="35689583334t" end="35709583334t" region="region0"><span style="style1">[Zuko panting]</span></p>
+<p xml:id="subtitle1005" begin="35799166667t" end="35819166667t" region="region0"><span style="style1">[dramatic music swells]</span></p>
+<p xml:id="subtitle1006" begin="35871666667t" end="35891666667t" region="region0"><span style="style1">[music fades]</span></p>
+<p xml:id="subtitle1007" begin="35902500000t" end="35921666667t" region="region0"><span style="style1">[dramatic, adventurous music playing]</span></p>
+<p xml:id="subtitle1008" begin="37212500000t" end="37227500000t" region="region0"><span style="style1">[music fades]</span></p>
+</div>
+</body>
+</tt>
