@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt ttp:contentProfiles="http://www.w3.org/ns/ttml/profile/imsc1.1/text" xmlns="http://www.w3.org/ns/ttml" xmlns:nttm="http://www.netflix.com/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xml="http://www.w3.org/XML/1998/namespace" ttp:tickRate="10000000" ttp:timeBase="media" xml:lang="zh-Hans">
+<head>
+<metadata nttm:schemaVersion="0" nttm:textType="SUBS" nttm:uuid="118153eb-3529-4ae6-8514-78dc52b46d83"/>
+<styling>
+<initial tts:backgroundColor="transparent" tts:color="white" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:opacity="1.000" tts:origin="10.000% 10.000%" tts:showBackground="whenActive" tts:textAlign="center" tts:textOutline="black 0.250rh" tts:writingMode="lrtb"/>
+<style xml:id="style1" tts:fontWeight="normal"/>
+</styling>
+<layout>
+<region xml:id="region0" tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:origin="10.000% 10.000%"/>
+<region xml:id="region1" tts:backgroundColor="transparent" tts:displayAlign="before" tts:extent="80.000% 80.000%" tts:origin="10.000% 10.000%"/>
+</layout>
+</head>
+<body>
+<div>
+<p xml:id="subtitle1" begin="192083334t" end="210416667t" region="region0"><span style="style1">醒醒 闪闪脚！</span></p>
+<p xml:id="subtitle2" begin="464166667t" end="499166667t" region="region0"><span style="style1">（欢迎降世神通莅临永固城）</span></p>
+<p xml:id="subtitle3" begin="767916667t" end="778750000t" region="region0"><span style="style1">塞乙</span></p>
+<p xml:id="subtitle4" begin="1822083334t" end="1843750000t" region="region0"><span style="style1">该砸东西了 碎风手！</span></p>
+<p xml:id="subtitle5" begin="1920833334t" end="1933750000t" region="region0"><span style="style1">塞乙</span></p>
+<p xml:id="subtitle6" begin="2002916667t" end="2019166667t" region="region0"><span style="style1">起床吧 光头奇才！</span></p>
+<p xml:id="subtitle7" begin="2145833334t" end="2154166667t" region="region0"><span style="style1">塞乙！</span></p>
+<p xml:id="subtitle8" begin="2208333334t" end="2222083334t" region="region0"><span style="style1">走吧 瓜头</span></p>
+<p xml:id="subtitle9" begin="2346666667t" end="2355833334t" region="region0"><span style="style1">你在里面吗？</span></p>
+<p xml:id="subtitle10" begin="2361666667t" end="2370000000t" region="region0"><span style="style1">鼾宗！</span></p>
+<p xml:id="subtitle11" begin="2408333334t" end="2420000000t" region="region0"><span style="style1">塞乙？</span></p>
+<p xml:id="subtitle12" begin="2445833334t" end="2456666667t" region="region0"><span style="style1">逃跑专业户！</span></p>
+<p xml:id="subtitle13" begin="2505416667t" end="2515000000t" region="region0"><span style="style1">回旋镖！</span></p>
+<p xml:id="subtitle14" begin="2552500000t" end="2569166667t" region="region0"><span style="style1">光头城！</span></p>
+<p xml:id="subtitle15" begin="2607500000t" end="2632083334t" region="region0"><span style="style1">你是在跟我对抗吗？</span></p>
+<p xml:id="subtitle16" begin="2730000000t" end="2756250000t" region="region0"><span style="style1">气宗能做到这样已经很不错了</span></p>
+<p xml:id="subtitle17" begin="2815833334t" end="2885833334t" region="region0"><span style="style1">《降世神通：最后的气宗》</span></p>
+<p xml:id="subtitle18" begin="2894166667t" end="2946250000t" region="region0"><span style="style1">集名：水落石出</span></p>
+<p xml:id="subtitle19" begin="3027500000t" end="3062083334t" region="region0"><span style="style1">火烈国军队正在集结</span><br/><span style="style1">这是他们的集合点</span></p>
+<p xml:id="subtitle20" begin="3062916667t" end="3104166667t" region="region0"><span style="style1">-现在有坦克团了</span><br/><span style="style1">-我们得警告永固城 要我去吗？</span></p>
+<p xml:id="subtitle21" begin="3134583334t" end="3151666667t" region="region0"><span style="style1">不用了 我去</span></p>
+<p xml:id="subtitle22" begin="3252500000t" end="3264166667t" region="region0"><span style="style1">记得我们吗？</span></p>
+<p xml:id="subtitle23" begin="3565000000t" end="3598333334t" region="region0"><span style="style1">没听说过煽风点火这个词吗？</span></p>
+<p xml:id="subtitle24" begin="3709166667t" end="3722500000t" region="region0"><span style="style1">挺厉害的嘛</span></p>
+<p xml:id="subtitle25" begin="3730000000t" end="3738333334t" region="region0"><span style="style1">没错</span></p>
+<p xml:id="subtitle26" begin="3739166667t" end="3762500000t" region="region0"><span style="style1">你善于御离你近的东西</span></p>
+<p xml:id="subtitle27" begin="3775833334t" end="3798333334t" region="region0"><span style="style1">-非常正确</span><br/><span style="style1">-但你毫不细腻</span></p>
+<p xml:id="subtitle28" begin="3804166667t" end="3827500000t" region="region0"><span style="style1">有时候你需要御远处的东西</span></p>
+<p xml:id="subtitle29" begin="3850833334t" end="3862916667t" region="region0"><span style="style1">像这样吗？</span></p>
+<p xml:id="subtitle30" begin="3903750000t" end="3925833334t" region="region0"><span style="style1">更像这样</span></p>
+<p xml:id="subtitle31" begin="3982916667t" end="3994166667t" region="region0"><span style="style1">怎么样？</span></p>
+<p xml:id="subtitle32" begin="3995000000t" end="4020416667t" region="region0"><span style="style1">我刚用一根小石柱</span><br/><span style="style1">把索卡手里的红枣敲走了</span></p>
+<p xml:id="subtitle33" begin="4021250000t" end="4034583334t" region="region0"><span style="style1">-真的吗？</span><br/><span style="style1">-现在你试试</span></p>
+<p xml:id="subtitle34" begin="4035416667t" end="4060000000t" region="region0"><span style="style1">-要怎么御我看不到的东西？</span><br/><span style="style1">-喂！</span></p>
+<p xml:id="subtitle35" begin="4060833334t" end="4071250000t" region="region0"><span style="style1">我的意思不是 我…</span></p>
+<p xml:id="subtitle36" begin="4072083334t" end="4082083334t" region="region0"><span style="style1">别道歉</span></p>
+<p xml:id="subtitle37" begin="4088333334t" end="4118750000t" region="region0"><span style="style1">但你的问题现在突然变得很明显</span></p>
+<p xml:id="subtitle38" begin="4136250000t" end="4145000000t" region="region0"><span style="style1">把这个戴上</span></p>
+<p xml:id="subtitle39" begin="4165000000t" end="4199166667t" region="region0"><span style="style1">现在你得看眼睛看不到的东西</span></p>
+<p xml:id="subtitle40" begin="4200000000t" end="4208333334t" region="region0"><span style="style1">啊？</span></p>
+<p xml:id="subtitle41" begin="4209166667t" end="4231250000t" region="region0"><span style="style1">明显得很 眼前的东西</span></p>
+<p xml:id="subtitle42" begin="4232083334t" end="4254583334t" region="region0"><span style="style1">对你的干扰太大了</span></p>
+<p xml:id="subtitle43" begin="4255416667t" end="4284583334t" region="region0"><span style="style1">试着用御术把身后的墙抬起来</span></p>
+<p xml:id="subtitle44" begin="4345416667t" end="4364166667t" region="region0"><span style="style1">不是 好了 别了</span></p>
+<p xml:id="subtitle45" begin="4372500000t" end="4381666667t" region="region0"><span style="style1">好的</span></p>
+<p xml:id="subtitle46" begin="4389583334t" end="4405833334t" region="region0"><span style="style1">记得我们刚认识的时候</span></p>
+<p xml:id="subtitle47" begin="4406666667t" end="4437916667t" region="region0"><span style="style1">我跟你说过所有东西都在震动吗？</span></p>
+<p xml:id="subtitle48" begin="4450000000t" end="4468750000t" region="region0"><span style="style1">我说的就是这个意思</span></p>
+<p xml:id="subtitle49" begin="4480833334t" end="4517916667t" region="region0"><span style="style1">这世界暗藏着秘密的生机</span></p>
+<p xml:id="subtitle50" begin="4518750000t" end="4533750000t" region="region0"><span style="style1">需要你去感受</span></p>
+<p xml:id="subtitle51" begin="4542916667t" end="4561666667t" region="region0"><span style="style1">沙子下面的生命</span></p>
+<p xml:id="subtitle52" begin="4562500000t" end="4575833334t" region="region0"><span style="style1">石头下面的生命</span></p>
+<p xml:id="subtitle53" begin="4576666667t" end="4602083334t" region="region0"><span style="style1">在你以为所知道的一切之下</span></p>
+<p xml:id="subtitle54" begin="4607500000t" end="4617916667t" region="region0"><span style="style1">真实的生命</span></p>
+<p xml:id="subtitle55" begin="4632083334t" end="4643750000t" region="region0"><span style="style1">如果你能感受到它</span></p>
+<p xml:id="subtitle56" begin="4652083334t" end="4665833334t" region="region0"><span style="style1">就能改变它</span></p>
+<p xml:id="subtitle57" begin="4782500000t" end="4810416667t" region="region0"><span style="style1">现在试着用御术</span><br/><span style="style1">把门廊上的一根小柱子抬起来</span></p>
+<p xml:id="subtitle58" begin="4818750000t" end="4827500000t" region="region0"><span style="style1">好的</span></p>
+<p xml:id="subtitle59" begin="4945833334t" end="4957500000t" region="region0"><span style="style1">我成功了吗？</span></p>
+<p xml:id="subtitle60" begin="5056250000t" end="5085416667t" region="region0"><span style="style1">肯定是长风来了 我得走了 回头见</span></p>
+<p xml:id="subtitle61" begin="5210000000t" end="5224166667t" region="region0"><span style="style1">你的新工作如何？</span></p>
+<p xml:id="subtitle62" begin="5298750000t" end="5310833334t" region="region0"><span style="style1">这是凉的</span></p>
+<p xml:id="subtitle63" begin="5366666667t" end="5392083334t" region="region0"><span style="style1">打火石呢？</span></p>
+<p xml:id="subtitle64" begin="5392916667t" end="5407916667t" region="region0"><span style="style1">这是我们什么时候买的？</span></p>
+<p xml:id="subtitle65" begin="5417500000t" end="5442083334t" region="region0"><span style="style1">-看起来很贵</span><br/><span style="style1">-我们需要新的</span></p>
+<p xml:id="subtitle66" begin="5613333334t" end="5645833334t" region="region0"><span style="style1">你给这座城带来的改变真叫人感动</span></p>
+<p xml:id="subtitle67" begin="5662083334t" end="5675833334t" region="region0"><span style="style1">感觉真好</span></p>
+<p xml:id="subtitle68" begin="5680833334t" end="5709166667t" region="region0"><span style="style1">真没想到 做降世神通会是这种感觉</span></p>
+<p xml:id="subtitle69" begin="5714583334t" end="5729583334t" region="region0"><span style="style1">就应该这样</span></p>
+<p xml:id="subtitle70" begin="5760416667t" end="5769166667t" region="region0"><span style="style1">怎么了？</span></p>
+<p xml:id="subtitle71" begin="5779166667t" end="5805833334t" region="region0"><span style="style1">-你会御土术</span><br/><span style="style1">-对</span></p>
+<p xml:id="subtitle72" begin="5812083334t" end="5845833334t" region="region0"><span style="style1">我曾是个高手</span></p>
+<p xml:id="subtitle73" begin="5862500000t" end="5912500000t" region="region0"><span style="style1">据说世间万物都在暗中震颤</span><br/><span style="style1">你知道吗？</span></p>
+<p xml:id="subtitle74" begin="5913333334t" end="5927916667t" region="region0"><span style="style1">大概是这个意思吧</span></p>
+<p xml:id="subtitle75" begin="5971666667t" end="6000416667t" region="region0"><span style="style1">拓芙跟我说 如果我专注</span></p>
+<p xml:id="subtitle76" begin="6001250000t" end="6038333334t" region="region0"><span style="style1">就能感受到底下的活动</span></p>
+<p xml:id="subtitle77" begin="6043333334t" end="6055416667t" region="region0"><span style="style1">真实的世界</span></p>
+<p xml:id="subtitle78" begin="6056250000t" end="6080000000t" region="region0"><span style="style1">我好像不明白</span></p>
+<p xml:id="subtitle79" begin="6102083334t" end="6127500000t" region="region0"><span style="style1">你身上带着一种特质 安昂</span></p>
+<p xml:id="subtitle80" begin="6136666667t" end="6162083334t" region="region0"><span style="style1">这是显而易见的</span></p>
+<p xml:id="subtitle81" begin="6172916667t" end="6197083334t" region="region0"><span style="style1">你能看到每个人善的一面</span></p>
+<p xml:id="subtitle82" begin="6197916667t" end="6232500000t" region="region0"><span style="style1">因为你能看到人的善</span><br/><span style="style1">就能激发他们的善</span></p>
+<p xml:id="subtitle83" begin="6242500000t" end="6284583334t" region="region0"><span style="style1">我不敢自称是御土术大师</span></p>
+<p xml:id="subtitle84" begin="6285416667t" end="6316666667t" region="region0"><span style="style1">但听起来你要做的</span></p>
+<p xml:id="subtitle85" begin="6317500000t" end="6343750000t" region="region0"><span style="style1">是不相信你看待世界的方式</span></p>
+<p xml:id="subtitle86" begin="6375000000t" end="6388333334t" region="region0"><span style="style1">要你问我</span></p>
+<p xml:id="subtitle87" begin="6393333334t" end="6437083334t" region="region0"><span style="style1">我觉得你应该相信自己的心</span></p>
+<p xml:id="subtitle88" begin="6468333334t" end="6489166667t" region="region0"><span style="style1">至少我就是这么活的</span></p>
+<p xml:id="subtitle89" begin="6499583334t" end="6512083334t" region="region0"><span style="style1">也许这很天真？</span></p>
+<p xml:id="subtitle90" begin="6537500000t" end="6547083334t" region="region0"><span style="style1">没有</span></p>
+<p xml:id="subtitle91" begin="6563333334t" end="6578750000t" region="region0"><span style="style1">这也是我相信的</span></p>
+<p xml:id="subtitle92" begin="6863333334t" end="6881666667t" region="region0"><span style="style1">哎哟</span></p>
+<p xml:id="subtitle93" begin="6900833334t" end="6914583334t" region="region0"><span style="style1">难得吧？</span></p>
+<p xml:id="subtitle94" begin="6923333334t" end="6950000000t" region="region0"><span style="style1">-教授 怎么样？</span><br/><span style="style1">-我只能找到这些了</span></p>
+<p xml:id="subtitle95" begin="6950833334t" end="6960416667t" region="region0"><span style="style1">嘿</span></p>
+<p xml:id="subtitle96" begin="6961250000t" end="6997500000t" region="region0"><span style="style1">不幸的是 大学图书馆很烂</span></p>
+<p xml:id="subtitle97" begin="7017500000t" end="7045416667t" region="region0"><span style="style1">那些食物是随便吃的吗？</span></p>
+<p xml:id="subtitle98" begin="7046250000t" end="7061666667t" region="region0"><span style="style1">是啊 随便吃</span></p>
+<p xml:id="subtitle99" begin="7070000000t" end="7094166667t" region="region0"><span style="style1">图书馆有什么问题？</span></p>
+<p xml:id="subtitle100" begin="7095000000t" end="7107083334t" region="region0"><span style="style1">简直一团糟</span></p>
+<p xml:id="subtitle101" begin="7107916667t" end="7145416667t" region="region0"><span style="style1">多年来</span><br/><span style="style1">数百本书籍不是被盗 就是被审查</span></p>
+<p xml:id="subtitle102" begin="7146250000t" end="7175000000t" region="region0"><span style="style1">-为什么会有人偷书呢？</span><br/><span style="style1">-知识就是力量</span></p>
+<p xml:id="subtitle103" begin="7175833334t" end="7214583334t" region="region0"><span style="style1">而权力必须</span><br/><span style="style1">掌握在害怕失去权力的人手中</span></p>
+<p xml:id="subtitle104" begin="7219583334t" end="7260833334t" region="region0"><span style="style1">当然了 我相信知识本身的价值</span></p>
+<p xml:id="subtitle105" begin="7267083334t" end="7289583334t" region="region0"><span style="style1">是人类最纯粹的追求</span></p>
+<p xml:id="subtitle106" begin="7290416667t" end="7322083334t" region="region0"><span style="style1">所以我一直在寻找</span><br/><span style="style1">失落的灵界图书馆</span></p>
+<p xml:id="subtitle107" begin="7322916667t" end="7337916667t" region="region0"><span style="style1">等等 灵界有图书馆？</span></p>
+<p xml:id="subtitle108" begin="7345000000t" end="7371666667t" region="region0"><span style="style1">原来就在永固城外面</span></p>
+<p xml:id="subtitle109" begin="7378333334t" end="7399583334t" region="region0"><span style="style1">但一百年前消失了</span></p>
+<p xml:id="subtitle110" begin="7421250000t" end="7471666667t" region="region0"><span style="style1">若能给我一天来细读其中的内容</span><br/><span style="style1">要我付出什么都行</span></p>
+<p xml:id="subtitle111" begin="7498750000t" end="7512500000t" region="region0"><span style="style1">这是芒果吗？</span></p>
+<p xml:id="subtitle112" begin="7528333334t" end="7555416667t" region="region0"><span style="style1">那本应该有望远镜的设计图 对的</span></p>
+<p xml:id="subtitle113" begin="7556250000t" end="7605000000t" region="region0"><span style="style1">你们是航海民族</span><br/><span style="style1">一定很懂天文导航吧</span></p>
+<p xml:id="subtitle114" begin="7605833334t" end="7626666667t" region="region0"><span style="style1">对 但这不是用来航海的</span></p>
+<p xml:id="subtitle115" begin="7627500000t" end="7638333334t" region="region0"><span style="style1">这是为了</span></p>
+<p xml:id="subtitle116" begin="7652916667t" end="7665833334t" region="region0"><span style="style1">实现降世神通的目的</span></p>
+<p xml:id="subtitle117" begin="7675833334t" end="7695416667t" region="region0"><span style="style1">我们原来有望远镜 或说</span></p>
+<p xml:id="subtitle118" begin="7704583334t" end="7715416667t" region="region0"><span style="style1">我的朋友有</span></p>
+<p xml:id="subtitle119" begin="7727500000t" end="7740000000t" region="region0"><span style="style1">但他失踪了</span></p>
+<p xml:id="subtitle120" begin="7740833334t" end="7769583334t" region="region0"><span style="style1">所以我想试着自己造一个</span></p>
+<p xml:id="subtitle121" begin="7785416667t" end="7817916667t" region="region0"><span style="style1">你的朋友失踪多久了？</span></p>
+<p xml:id="subtitle122" begin="7818750000t" end="7838750000t" region="region0"><span style="style1">几个星期了 我们刚来他就失踪了</span></p>
+<p xml:id="subtitle123" begin="7859166667t" end="7869166667t" region="region0"><span style="style1">怎么了？</span></p>
+<p xml:id="subtitle124" begin="7910000000t" end="7935000000t" region="region0"><span style="style1">这座城市里 失踪的不只有书籍</span></p>
+<p xml:id="subtitle125" begin="7940000000t" end="7953333334t" region="region0"><span style="style1">这些年来</span></p>
+<p xml:id="subtitle126" begin="7954166667t" end="7977500000t" region="region0"><span style="style1">提出不当问题的老师</span></p>
+<p xml:id="subtitle127" begin="7978333334t" end="8009166667t" region="region0"><span style="style1">或是试图组织抗议的学生</span></p>
+<p xml:id="subtitle128" begin="8010000000t" end="8028750000t" region="region0"><span style="style1">就会突然消失</span></p>
+<p xml:id="subtitle129" begin="8029583334t" end="8041666667t" region="region0"><span style="style1">被带走</span></p>
+<p xml:id="subtitle130" begin="8051666667t" end="8062083334t" region="region0"><span style="style1">被谁带走？</span></p>
+<p xml:id="subtitle131" begin="8096666667t" end="8111666667t" region="region0"><span style="style1">我什么都不该说的</span></p>
+<p xml:id="subtitle132" begin="8148750000t" end="8181666667t" region="region0"><span style="style1">教授 等等</span><br/><span style="style1">我们的朋友对我们的任务很关键</span></p>
+<p xml:id="subtitle133" begin="8182500000t" end="8200833334t" region="region0"><span style="style1">他和我们一样 都爱钻研学问</span></p>
+<p xml:id="subtitle134" begin="8261666667t" end="8297083334t" region="region0"><span style="style1">如果你们的朋友被带走了</span><br/><span style="style1">那你们都可能有危险</span></p>
+<p xml:id="subtitle135" begin="8317500000t" end="8328333334t" region="region0"><span style="style1">要小心戴笠军</span></p>
+<p xml:id="subtitle136" begin="8329166667t" end="8345416667t" region="region0"><span style="style1">国王的守卫？</span></p>
+<p xml:id="subtitle137" begin="8354166667t" end="8380833334t" region="region0"><span style="style1">-但他们为什么要带走塞乙？</span><br/><span style="style1">-他知道什么吗？</span></p>
+<p xml:id="subtitle138" begin="8381666667t" end="8421666667t" region="region0"><span style="style1">可能会威胁到</span><br/><span style="style1">土强王对永固城的统治的信息</span></p>
+<p xml:id="subtitle139" begin="8517083334t" end="8526666667t" region="region0"><span style="style1">请慢用</span></p>
+<p xml:id="subtitle140" begin="8553333334t" end="8571250000t" region="region0"><span style="style1">打扰了 请问木须在吗？</span></p>
+<p xml:id="subtitle141" begin="8576250000t" end="8600416667t" region="region0"><span style="style1">不在 他去休息了</span></p>
+<p xml:id="subtitle142" begin="8610000000t" end="8625416667t" region="region0"><span style="style1">应该是去市场了</span></p>
+<p xml:id="subtitle143" begin="8653333334t" end="8667083334t" region="region0"><span style="style1">你是他侄子吧</span></p>
+<p xml:id="subtitle144" begin="8678333334t" end="8687083334t" region="region0"><span style="style1">不是吗？</span></p>
+<p xml:id="subtitle145" begin="8710000000t" end="8719166667t" region="region0"><span style="style1">对</span></p>
+<p xml:id="subtitle146" begin="8727083334t" end="8745416667t" region="region0"><span style="style1">他人很好</span></p>
+<p xml:id="subtitle147" begin="8746250000t" end="8775000000t" region="region0"><span style="style1">我们都叫他大叔 但他还挺害羞的</span></p>
+<p xml:id="subtitle148" begin="8785000000t" end="8795416667t" region="region0"><span style="style1">害羞？</span></p>
+<p xml:id="subtitle149" begin="8832500000t" end="8847083334t" region="region0"><span style="style1">知道他会什么时候回来吗？</span></p>
+<p xml:id="subtitle150" begin="8847916667t" end="8873750000t" region="region0"><span style="style1">不知道 你想进来等他吗？</span></p>
+<p xml:id="subtitle151" begin="8882083334t" end="8912916667t" region="region0"><span style="style1">还是你也很害羞？</span></p>
+<p xml:id="subtitle152" begin="8929583334t" end="8956250000t" region="region0"><span style="style1">不了 我回家等他吧 谢谢</span></p>
+<p xml:id="subtitle153" begin="9042500000t" end="9052500000t" region="region0"><span style="style1">喂</span></p>
+<p xml:id="subtitle154" begin="9053333334t" end="9087083334t" region="region0"><span style="style1">你是李吧？</span><br/><span style="style1">我还在想会什么时候撞见你呢</span></p>
+<p xml:id="subtitle155" begin="9096250000t" end="9123333334t" region="region0"><span style="style1">瞧你这惨样</span><br/><span style="style1">真是苦力一个 我看出来了</span></p>
+<p xml:id="subtitle156" begin="9130833334t" end="9140833334t" region="region0"><span style="style1">嘿</span></p>
+<p xml:id="subtitle157" begin="9149166667t" end="9178333334t" region="region0"><span style="style1">在渡轮上 我们还挺有默契的</span></p>
+<p xml:id="subtitle158" begin="9179166667t" end="9203333334t" region="region0"><span style="style1">我在这儿也有点事情做</span></p>
+<p xml:id="subtitle159" begin="9204166667t" end="9238333334t" region="region0"><span style="style1">如果你有兴趣</span><br/><span style="style1">也许我们可以互相帮忙？</span></p>
+<p xml:id="subtitle160" begin="9245416667t" end="9255000000t" region="region0"><span style="style1">不用了 谢谢</span></p>
+<p xml:id="subtitle161" begin="9260833334t" end="9277916667t" region="region0"><span style="style1">来嘛 会很好玩的</span></p>
+<p xml:id="subtitle162" begin="9278750000t" end="9303750000t" region="region0"><span style="style1">为那家被烧的餐馆报仇</span></p>
+<p xml:id="subtitle163" begin="9304583334t" end="9320833334t" region="region0"><span style="style1">大家觉得是谁干的？</span></p>
+<p xml:id="subtitle164" begin="9340000000t" end="9349583334t" region="region0"><span style="style1">起了火</span></p>
+<p xml:id="subtitle165" begin="9350416667t" end="9378750000t" region="region0"><span style="style1">显然是火烈国区的那些下等人干的</span></p>
+<p xml:id="subtitle166" begin="9379583334t" end="9389166667t" region="region0"><span style="style1">谁？</span></p>
+<p xml:id="subtitle167" begin="9413333334t" end="9422916667t" region="region0"><span style="style1">你不知道吗？</span></p>
+<p xml:id="subtitle168" begin="9445000000t" end="9470000000t" region="region0"><span style="style1">有一群火烈国人选择改邪归正</span></p>
+<p xml:id="subtitle169" begin="9470833334t" end="9495416667t" region="region0"><span style="style1">住在公园对面的旧马厩里</span></p>
+<p xml:id="subtitle170" begin="9496250000t" end="9518333334t" region="region0"><span style="style1">他们不该用御火术或惹麻烦</span></p>
+<p xml:id="subtitle171" begin="9519166667t" end="9540416667t" region="region0"><span style="style1">但他们天性就爱惹麻烦</span></p>
+<p xml:id="subtitle172" begin="9548333334t" end="9582916667t" region="region0"><span style="style1">一群关心此事的市民</span><br/><span style="style1">今晚会去那里讨论此事</span></p>
+<p xml:id="subtitle173" begin="9583750000t" end="9630833334t" region="region0"><span style="style1">要发生了轻微的暴动或抢劫…</span></p>
+<p xml:id="subtitle174" begin="9646250000t" end="9655833334t" region="region0"><span style="style1">你想加入吗？</span></p>
+<p xml:id="subtitle175" begin="9671250000t" end="9690833334t" region="region0"><span style="style1">我需要人帮我看着点</span></p>
+<p xml:id="subtitle176" begin="9723750000t" end="9736666667t" region="region0"><span style="style1">你的朋友们不去吗？</span></p>
+<p xml:id="subtitle177" begin="9776250000t" end="9787500000t" region="region0"><span style="style1">我跟他们掰了</span></p>
+<p xml:id="subtitle178" begin="9797083334t" end="9817083334t" region="region0"><span style="style1">他们看待世界的方式跟我们不同</span></p>
+<p xml:id="subtitle179" begin="9858333334t" end="9870416667t" region="region0"><span style="style1">日落去找我吧</span></p>
+<p xml:id="subtitle180" begin="9884166667t" end="9894166667t" region="region0"><span style="style1">会很有趣的</span></p>
+<p xml:id="subtitle181" begin="9949583334t" end="9969166667t" region="region0"><span style="style1">这些呢？我想要…</span></p>
+<p xml:id="subtitle182" begin="10212916667t" end="10263750000t" region="region0"><span style="style1">火烈国军队攻破城墙后</span><br/><span style="style1">蹂躏了这座城市</span></p>
+<p xml:id="subtitle183" begin="10269583334t" end="10311666667t" region="region0"><span style="style1">永远不要忘记那些恶魔</span><br/><span style="style1">是如何对待我们的父母</span></p>
+<p xml:id="subtitle184" begin="10312500000t" end="10332083334t" region="region0"><span style="style1">我们的家人</span></p>
+<p xml:id="subtitle185" begin="10338333334t" end="10354166667t" region="region0"><span style="style1">和我们所有人</span></p>
+<p xml:id="subtitle186" begin="10366666667t" end="10384583334t" region="region0"><span style="style1">记住他们的名字</span></p>
+<p xml:id="subtitle187" begin="10561250000t" end="10597083334t" region="region1"><span style="style1">（石上之血 铭记勿忘）</span></p>
+<p xml:id="subtitle188" begin="10808333334t" end="10823750000t" region="region0"><span style="style1">永远不要忘记围城战</span></p>
+<p xml:id="subtitle189" begin="10824583334t" end="10837083334t" region="region0"><span style="style1">停下！</span></p>
+<p xml:id="subtitle190" begin="10847083334t" end="10867500000t" region="region0"><span style="style1">永远不要忘记我们的死者！</span></p>
+<p xml:id="subtitle191" begin="10962083334t" end="10985000000t" region="region0"><span style="style1">这里没什么好看的 快走吧！</span></p>
+<p xml:id="subtitle192" begin="10991250000t" end="11000416667t" region="region0"><span style="style1">走吧！</span></p>
+<p xml:id="subtitle193" begin="11006250000t" end="11015833334t" region="region0"><span style="style1">马上走！</span></p>
+<p xml:id="subtitle194" begin="11178333334t" end="11191666667t" region="region0"><span style="style1">阿祖拉公主来了</span></p>
+<p xml:id="subtitle195" begin="11192500000t" end="11210416667t" region="region0"><span style="style1">什么？什么时候？</span></p>
+<p xml:id="subtitle196" begin="11264166667t" end="11287083334t" region="region0"><span style="style1">-公主殿下</span><br/><span style="style1">-你们的防线被突破了</span></p>
+<p xml:id="subtitle197" begin="11287916667t" end="11301666667t" region="region0"><span style="style1">我们拿下了几个间谍</span></p>
+<p xml:id="subtitle198" begin="11302500000t" end="11339583334t" region="region0"><span style="style1">他们本可能把你们的行动通报永固城</span><br/><span style="style1">提醒全城防备袭击</span></p>
+<p xml:id="subtitle199" begin="11340416667t" end="11373333334t" region="region0"><span style="style1">我们会立刻加强防御</span><br/><span style="style1">但我必须通知你</span></p>
+<p xml:id="subtitle200" begin="11387083334t" end="11402500000t" region="region0"><span style="style1">袭击已延期</span></p>
+<p xml:id="subtitle201" begin="11422916667t" end="11433333334t" region="region0"><span style="style1">延到什么时候？</span></p>
+<p xml:id="subtitle202" begin="11434166667t" end="11443333334t" region="region0"><span style="style1">无限期</span></p>
+<p xml:id="subtitle203" begin="11444166667t" end="11470833334t" region="region0"><span style="style1">今天早上我们收到了火烈王的命令</span></p>
+<p xml:id="subtitle204" begin="11482083334t" end="11495833334t" region="region0"><span style="style1">他说是什么原因？</span></p>
+<p xml:id="subtitle205" begin="11496666667t" end="11522083334t" region="region0"><span style="style1">他说时机不利</span></p>
+<p xml:id="subtitle206" begin="11610416667t" end="11618750000t" region="region0"><span style="style1">他</span></p>
+<p xml:id="subtitle207" begin="11626250000t" end="11638333334t" region="region0"><span style="style1">没有说原因</span></p>
+<p xml:id="subtitle208" begin="11651250000t" end="11679583334t" region="region0"><span style="style1">别再骗我了 我没时间听你胡扯</span></p>
+<p xml:id="subtitle209" begin="11680416667t" end="11719166667t" region="region0"><span style="style1">我哥哥就在那座城市</span><br/><span style="style1">我原来还指望这次攻击能掩护我们</span></p>
+<p xml:id="subtitle210" begin="11720000000t" end="11739583334t" region="region0"><span style="style1">让我们顺便把他抓了</span></p>
+<p xml:id="subtitle211" begin="11740416667t" end="11755833334t" region="region0"><span style="style1">你还是可以下令进攻啊</span></p>
+<p xml:id="subtitle212" begin="11766250000t" end="11781250000t" region="region0"><span style="style1">为了你 他肯定什么都愿意做</span></p>
+<p xml:id="subtitle213" begin="11788333334t" end="11815416667t" region="region0"><span style="style1">你父亲一定是想给你传达什么信息</span></p>
+<p xml:id="subtitle214" begin="11835833334t" end="11865416667t" region="region0"><span style="style1">你说得对</span><br/><span style="style1">他能批准 就说明认可了计划</span></p>
+<p xml:id="subtitle215" begin="11866250000t" end="11887083334t" region="region0"><span style="style1">他不会取消计划 除非…</span></p>
+<p xml:id="subtitle216" begin="11918750000t" end="11933750000t" region="region0"><span style="style1">他觉得有更好的计划</span></p>
+<p xml:id="subtitle217" begin="11934583334t" end="11953750000t" region="region0"><span style="style1">他告诉你说 你的任务</span></p>
+<p xml:id="subtitle218" begin="11962916667t" end="11982083334t" region="region0"><span style="style1">比袭击更重要</span></p>
+<p xml:id="subtitle219" begin="11997500000t" end="12020000000t" region="region0"><span style="style1">我一直在想这件事</span></p>
+<p xml:id="subtitle220" begin="12025000000t" end="12065833334t" region="region0"><span style="style1">我觉得很奇怪</span><br/><span style="style1">为什么选他来领导你的这场袭击呢？</span></p>
+<p xml:id="subtitle221" begin="12066666667t" end="12082083334t" region="region0"><span style="style1">这里最聪明的人明明是你</span></p>
+<p xml:id="subtitle222" begin="12082916667t" end="12095416667t" region="region0"><span style="style1">你说得对 泰丽</span></p>
+<p xml:id="subtitle223" begin="12105000000t" end="12127083334t" region="region0"><span style="style1">确实很奇怪</span></p>
+<p xml:id="subtitle224" begin="12140000000t" end="12150833334t" region="region0"><span style="style1">明明是我的计划</span></p>
+<p xml:id="subtitle225" begin="12161250000t" end="12176666667t" region="region0"><span style="style1">我的袭击</span></p>
+<p xml:id="subtitle226" begin="12185416667t" end="12197083334t" region="region0"><span style="style1">我的任务</span></p>
+<p xml:id="subtitle227" begin="12285416667t" end="12308750000t" region="region0"><span style="style1">-你很忠诚</span><br/><span style="style1">-是的 公主</span></p>
+<p xml:id="subtitle228" begin="12315000000t" end="12328333334t" region="region0"><span style="style1">忠心耿耿</span></p>
+<p xml:id="subtitle229" begin="12329166667t" end="12342500000t" region="region0"><span style="style1">是的 公主</span></p>
+<p xml:id="subtitle230" begin="12343333334t" end="12365000000t" region="region0"><span style="style1">不管我命令你做什么 你都会照做</span></p>
+<p xml:id="subtitle231" begin="12388750000t" end="12399583334t" region="region0"><span style="style1">什么都行</span></p>
+<p xml:id="subtitle232" begin="12405416667t" end="12416250000t" region="region0"><span style="style1">公主</span></p>
+<p xml:id="subtitle233" begin="12430833334t" end="12440000000t" region="region0"><span style="style1">很好</span></p>
+<p xml:id="subtitle234" begin="12529166667t" end="12538333334t" region="region0"><span style="style1">什么？</span></p>
+<p xml:id="subtitle235" begin="12547916667t" end="12564166667t" region="region0"><span style="style1">月桃酒</span></p>
+<p xml:id="subtitle236" begin="12565000000t" end="12597083334t" region="region0"><span style="style1">又有人求婚了 这是为了贿赂我</span></p>
+<p xml:id="subtitle237" begin="12627916667t" end="12638750000t" region="region0"><span style="style1">太奇怪了</span></p>
+<p xml:id="subtitle238" begin="12754583334t" end="12765833334t" region="region0"><span style="style1">你在干什么？</span></p>
+<p xml:id="subtitle239" begin="12778333334t" end="12789166667t" region="region0"><span style="style1">怎么了？</span></p>
+<p xml:id="subtitle240" begin="12869166667t" end="12881250000t" region="region0"><span style="style1">好了 那是什么声音？</span></p>
+<p xml:id="subtitle241" begin="12882083334t" end="12899583334t" region="region0"><span style="style1">噢 对不起</span></p>
+<p xml:id="subtitle242" begin="12900416667t" end="12932500000t" region="region0"><span style="style1">我喝茶打扰到你吃东西了吗？</span></p>
+<p xml:id="subtitle243" begin="12960000000t" end="12974166667t" region="region0"><span style="style1">是啊 有点</span></p>
+<p xml:id="subtitle244" begin="12975000000t" end="12987083334t" region="region0"><span style="style1">有点好笑</span></p>
+<p xml:id="subtitle245" begin="12987916667t" end="13023750000t" region="region0"><span style="style1">因为昨晚 其实是最近每个晚上</span></p>
+<p xml:id="subtitle246" begin="13024583334t" end="13047083334t" region="region0"><span style="style1">我原本都睡得很香</span></p>
+<p xml:id="subtitle247" begin="13047916667t" end="13072916667t" region="region0"><span style="style1">然后就“咚、咚、咚”</span></p>
+<p xml:id="subtitle248" begin="13073750000t" end="13100000000t" region="region0"><span style="style1">我就听到某人的大脚</span><br/><span style="style1">在房子里咚咚作响</span></p>
+<p xml:id="subtitle249" begin="13100833334t" end="13112916667t" region="region0"><span style="style1">然后走出门</span></p>
+<p xml:id="subtitle250" begin="13113750000t" end="13140000000t" region="region0"><span style="style1">好了 我没有伤害任何人</span></p>
+<p xml:id="subtitle251" begin="13140833334t" end="13169166667t" region="region0"><span style="style1">事实上 我是在帮忙…</span><br/><span style="style1">你能消停会儿吗？</span></p>
+<p xml:id="subtitle252" begin="13170000000t" end="13209583334t" region="region0"><span style="style1">听着 我不需要知道你在做什么</span><br/><span style="style1">或是为什么这么做</span></p>
+<p xml:id="subtitle253" begin="13210416667t" end="13222916667t" region="region0"><span style="style1">如果你不想知道原因</span></p>
+<p xml:id="subtitle254" begin="13223750000t" end="13250833334t" region="region0"><span style="style1">那为什么要告诉我</span><br/><span style="style1">你知道我偷偷溜出去呢？</span></p>
+<p xml:id="subtitle255" begin="13251666667t" end="13277916667t" region="region0"><span style="style1">因为安昂的御土术已经越练越好了</span></p>
+<p xml:id="subtitle256" begin="13278750000t" end="13325416667t" region="region0"><span style="style1">不久后</span><br/><span style="style1">他就能像我一样感知到这些东西</span></p>
+<p xml:id="subtitle257" begin="13330416667t" end="13343750000t" region="region0"><span style="style1">那时候他就知道了</span></p>
+<p xml:id="subtitle258" begin="13348750000t" end="13360416667t" region="region0"><span style="style1">对</span></p>
+<p xml:id="subtitle259" begin="13366666667t" end="13383750000t" region="region0"><span style="style1">你也知道他对你的态度</span></p>
+<p xml:id="subtitle260" begin="13405833334t" end="13415833334t" region="region0"><span style="style1">什么？</span></p>
+<p xml:id="subtitle261" begin="13436250000t" end="13467500000t" region="region0"><span style="style1">你在他身边的时候</span><br/><span style="style1">他就会表现得不一样</span></p>
+<p xml:id="subtitle262" begin="13468333334t" end="13491666667t" region="region0"><span style="style1">他觉得你是…</span></p>
+<p xml:id="subtitle263" begin="13514583334t" end="13525416667t" region="region0"><span style="style1">他的朋友？</span></p>
+<p xml:id="subtitle264" begin="13547083334t" end="13555416667t" region="region0"><span style="style1">对</span></p>
+<p xml:id="subtitle265" begin="13562916667t" end="13582500000t" region="region0"><span style="style1">我就是那个意思 那种友谊</span></p>
+<p xml:id="subtitle266" begin="13583333334t" end="13622916667t" region="region0"><span style="style1">太…深厚了</span><br/><span style="style1">我说那些话就是这个原因</span></p>
+<p xml:id="subtitle267" begin="13623750000t" end="13637916667t" region="region0"><span style="style1">拓芙 你是不是…</span></p>
+<p xml:id="subtitle268" begin="13653750000t" end="13683750000t" region="region0"><span style="style1">就是 那…应该是有人来找我了</span></p>
+<p xml:id="subtitle269" begin="13684583334t" end="13699583334t" region="region0"><span style="style1">所以我就…</span></p>
+<p xml:id="subtitle270" begin="13709166667t" end="13737916667t" region="region0"><span style="style1">对 嗯 好的 再见！</span></p>
+<p xml:id="subtitle271" begin="13830000000t" end="13838750000t" region="region0"><span style="style1">你好啊</span></p>
+<p xml:id="subtitle272" begin="13845833334t" end="13881250000t" region="region0"><span style="style1">你好啊 北方小姐</span><br/><span style="style1">能认识您真是三生有幸啊</span></p>
+<p xml:id="subtitle273" begin="13882083334t" end="13904583334t" region="region0"><span style="style1">我是刘旺 愿意为您效劳</span></p>
+<p xml:id="subtitle274" begin="13905416667t" end="13925000000t" region="region0"><span style="style1">是啊 是啊 也很高兴认识你</span></p>
+<p xml:id="subtitle275" begin="13925833334t" end="13943333334t" region="region0"><span style="style1">我有个提议</span></p>
+<p xml:id="subtitle276" begin="13944166667t" end="13972916667t" region="region0"><span style="style1">你听起来年纪有点大</span><br/><span style="style1">不适合向我求婚</span></p>
+<p xml:id="subtitle277" begin="13973750000t" end="13984583334t" region="region0"><span style="style1">不是</span></p>
+<p xml:id="subtitle278" begin="13985416667t" end="14019166667t" region="region0"><span style="style1">我的提议其实更为棘手</span></p>
+<p xml:id="subtitle279" begin="14020000000t" end="14042500000t" region="region0"><span style="style1">和您父母的生意有关</span></p>
+<p xml:id="subtitle280" begin="14043333334t" end="14052916667t" region="region0"><span style="style1">是哦</span></p>
+<p xml:id="subtitle281" begin="14053750000t" end="14089583334t" region="region0"><span style="style1">朋友 我也不参与那事</span><br/><span style="style1">但说来听听也无妨</span></p>
+<p xml:id="subtitle282" begin="14098333334t" end="14130000000t" region="region0"><span style="style1">我也说了 这事挺棘手的</span></p>
+<p xml:id="subtitle283" begin="14130833334t" end="14161250000t" region="region0"><span style="style1">我们应该移步到没人偷听的地方谈</span></p>
+<p xml:id="subtitle284" begin="14162083334t" end="14203750000t" region="region0"><span style="style1">没门 在这座城里</span><br/><span style="style1">我没遇到过比你更可疑的人了</span></p>
+<p xml:id="subtitle285" begin="14204583334t" end="14225416667t" region="region0"><span style="style1">我绝对不会跟着你去别的地方</span></p>
+<p xml:id="subtitle286" begin="14226250000t" end="14241666667t" region="region0"><span style="style1">如果您不听我说</span></p>
+<p xml:id="subtitle287" begin="14242500000t" end="14272083334t" region="region0"><span style="style1">我就把所知的信息直接上报</span></p>
+<p xml:id="subtitle288" begin="14299166667t" end="14311250000t" region="region0"><span style="style1">我向您保证 我知道的事</span></p>
+<p xml:id="subtitle289" begin="14312083334t" end="14357500000t" region="region0"><span style="style1">会对降世神通的声誉</span><br/><span style="style1">造成不可修复的损害</span></p>
+<p xml:id="subtitle290" begin="14430416667t" end="14452500000t" region="region0"><span style="style1">所以你相信翟教授的话？</span></p>
+<p xml:id="subtitle291" begin="14453333334t" end="14468750000t" region="region0"><span style="style1">你觉得塞乙被带走了？</span></p>
+<p xml:id="subtitle292" begin="14469583334t" end="14493333334t" region="region0"><span style="style1">这样就能解释</span><br/><span style="style1">他为什么完全不回我信息了</span></p>
+<p xml:id="subtitle293" begin="14555000000t" end="14570416667t" region="region0"><span style="style1">我得进去看看</span></p>
+<p xml:id="subtitle294" begin="14587500000t" end="14600416667t" region="region0"><span style="style1">我得把锁撬开</span></p>
+<p xml:id="subtitle295" begin="14628333334t" end="14647083334t" region="region0"><span style="style1">我留给他的字条不见了</span></p>
+<p xml:id="subtitle296" begin="14687916667t" end="14704583334t" region="region0"><span style="style1">他的东西也都不见了</span></p>
+<p xml:id="subtitle297" begin="14705416667t" end="14727916667t" region="region0"><span style="style1">塞乙？</span></p>
+<p xml:id="subtitle298" begin="14736250000t" end="14762083334t" region="region0"><span style="style1">噢 我以为塞乙总算是回来了</span></p>
+<p xml:id="subtitle299" begin="14762916667t" end="14778333334t" region="region0"><span style="style1">“总算”是什么意思？</span></p>
+<p xml:id="subtitle300" begin="14779166667t" end="14803750000t" region="region0"><span style="style1">到永固城的第一晚后</span><br/><span style="style1">我就没见过他了</span></p>
+<p xml:id="subtitle301" begin="14810000000t" end="14832916667t" region="region0"><span style="style1">我给卡塔拉捎信求救了</span></p>
+<p xml:id="subtitle302" begin="14833750000t" end="14854166667t" region="region0"><span style="style1">-你们没收到吗？</span><br/><span style="style1">-没有</span></p>
+<p xml:id="subtitle303" begin="14861666667t" end="14872500000t" region="region0"><span style="style1">我们没收到</span></p>
+<p xml:id="subtitle304" begin="14877500000t" end="14905833334t" region="region0"><span style="style1">这都是怎么回事？</span></p>
+<p xml:id="subtitle305" begin="14914166667t" end="14926250000t" region="region0"><span style="style1">我们来的时候就是这样</span></p>
+<p xml:id="subtitle306" begin="14927083334t" end="14949583334t" region="region0"><span style="style1">不管去哪儿 你们都得告诉我</span></p>
+<p xml:id="subtitle307" begin="14950416667t" end="14979166667t" region="region0"><span style="style1">这样你们在城里穿行的时候</span><br/><span style="style1">我才能提供协助</span></p>
+<p xml:id="subtitle308" begin="14980000000t" end="15007500000t" region="region0"><span style="style1">这样的活动可能会产生严重后果</span></p>
+<p xml:id="subtitle309" begin="15008333334t" end="15041666667t" region="region0"><span style="style1">朱蒂 我们的朋友塞乙住在这里</span><br/><span style="style1">他失踪了</span></p>
+<p xml:id="subtitle310" begin="15048750000t" end="15067916667t" region="region0"><span style="style1">他怎么会失踪呢？</span></p>
+<p xml:id="subtitle311" begin="15072916667t" end="15100833334t" region="region0"><span style="style1">他被聘去永固城的皇家工程部了</span></p>
+<p xml:id="subtitle312" begin="15101666667t" end="15125000000t" region="region0"><span style="style1">担任极为抢手的要职</span></p>
+<p xml:id="subtitle313" begin="15125833334t" end="15157083334t" region="region0"><span style="style1">他们的工作价值极高</span><br/><span style="style1">所以要住在皇宫里</span></p>
+<p xml:id="subtitle314" begin="15157916667t" end="15170833334t" region="region0"><span style="style1">但没人收到过他的消息</span></p>
+<p xml:id="subtitle315" begin="15171666667t" end="15212083334t" region="region0"><span style="style1">我会去宫里看看他</span><br/><span style="style1">并告诉他你们问起了他 阿米塔</span></p>
+<p xml:id="subtitle316" begin="15239583334t" end="15260833334t" region="region0"><span style="style1">看吧？一切都很好</span></p>
+<p xml:id="subtitle317" begin="15441250000t" end="15450833334t" region="region0"><span style="style1">接着</span></p>
+<p xml:id="subtitle318" begin="15489583334t" end="15497916667t" region="region0"><span style="style1">你是谁？</span></p>
+<p xml:id="subtitle319" begin="15517916667t" end="15530416667t" region="region0"><span style="style1">火烈国的人吗？</span></p>
+<p xml:id="subtitle320" begin="15539583334t" end="15559166667t" region="region0"><span style="style1">我们是真正的火烈国人</span></p>
+<p xml:id="subtitle321" begin="15580000000t" end="15594583334t" region="region0"><span style="style1">那你们在这里干什么？</span></p>
+<p xml:id="subtitle322" begin="15600416667t" end="15621666667t" region="region0"><span style="style1">-自由地生活</span><br/><span style="style1">-自由？</span></p>
+<p xml:id="subtitle323" begin="15632500000t" end="15655416667t" region="region0"><span style="style1">你们的整个社区都被围起来了</span><br/><span style="style1">又脏又乱</span></p>
+<p xml:id="subtitle324" begin="15656250000t" end="15687083334t" region="region0"><span style="style1">我们摆脱了敖载好战的暴政</span></p>
+<p xml:id="subtitle325" begin="15687916667t" end="15705833334t" region="region0"><span style="style1">是火烈王敖载</span></p>
+<p xml:id="subtitle326" begin="15706666667t" end="15729583334t" region="region0"><span style="style1">不是我的火烈王</span></p>
+<p xml:id="subtitle327" begin="15734583334t" end="15789166667t" region="region0"><span style="style1">我宁愿在土强国的污秽中活上百年</span></p>
+<p xml:id="subtitle328" begin="15794166667t" end="15829583334t" region="region0"><span style="style1">也不愿在那个暴君的统治下多活一天</span></p>
+<p xml:id="subtitle329" begin="15872083334t" end="15899166667t" region="region0"><span style="style1">我们怎么过日子跟你有什么关系？</span></p>
+<p xml:id="subtitle330" begin="15933750000t" end="15961666667t" region="region0"><span style="style1">我只是来这里警告你们</span></p>
+<p xml:id="subtitle331" begin="15968750000t" end="15981250000t" region="region0"><span style="style1">发生了一场火灾</span></p>
+<p xml:id="subtitle332" begin="15994583334t" end="16029583334t" region="region0"><span style="style1">那本是场意外</span><br/><span style="style1">但今晚有人会来这里找你们背锅</span></p>
+<p xml:id="subtitle333" begin="16030416667t" end="16043333334t" region="region0"><span style="style1">意外？</span></p>
+<p xml:id="subtitle334" begin="16082500000t" end="16111666667t" region="region0"><span style="style1">你真是对此一无所知啊</span></p>
+<p xml:id="subtitle335" begin="16116666667t" end="16160833334t" region="region0"><span style="style1">我看到了你是怎么接住那水果的</span><br/><span style="style1">呈烈焰环形</span></p>
+<p xml:id="subtitle336" begin="16173750000t" end="16222500000t" region="region0"><span style="style1">头发能剪</span><br/><span style="style1">但灵魂中的火焰是剪不掉的</span></p>
+<p xml:id="subtitle337" begin="16230833334t" end="16245000000t" region="region0"><span style="style1">准备好迎接他们吧</span></p>
+<p xml:id="subtitle338" begin="16245833334t" end="16257083334t" region="region0"><span style="style1">怎么准备？</span></p>
+<p xml:id="subtitle339" begin="16273333334t" end="16288750000t" region="region0"><span style="style1">我们不能用御火术</span></p>
+<p xml:id="subtitle340" begin="16293750000t" end="16312083334t" region="region0"><span style="style1">这是我们得到庇护的条件</span></p>
+<p xml:id="subtitle341" begin="16312916667t" end="16341250000t" region="region0"><span style="style1">是你们自己选择住在这里的</span></p>
+<p xml:id="subtitle342" begin="16363750000t" end="16398333334t" region="region0"><span style="style1">又让我帮别人打仗？这不是第一次了</span></p>
+<p xml:id="subtitle343" begin="16421666667t" end="16460416667t" region="region0"><span style="style1">也许你们可以躲起来</span><br/><span style="style1">或是带大家出去过夜</span></p>
+<p xml:id="subtitle344" begin="16461250000t" end="16484583334t" region="region0"><span style="style1">-我不知道</span><br/><span style="style1">-我们已经收到警告了</span></p>
+<p xml:id="subtitle345" begin="16491250000t" end="16506250000t" region="region0"><span style="style1">你已经尽职尽责了</span></p>
+<p xml:id="subtitle346" begin="16507083334t" end="16530000000t" region="region0"><span style="style1">现在帮你自己一个忙吧 小子</span></p>
+<p xml:id="subtitle347" begin="16530833334t" end="16547083334t" region="region0"><span style="style1">别再回来了</span></p>
+<p xml:id="subtitle348" begin="16592500000t" end="16624583334t" region="region0"><span style="style1">只有傻子才会自寻死路</span></p>
+<p xml:id="subtitle349" begin="16731250000t" end="16743333334t" region="region0"><span style="style1">我有消息要告诉你</span></p>
+<p xml:id="subtitle350" begin="16744166667t" end="16779166667t" region="region0"><span style="style1">我确认了你的朋友塞乙</span></p>
+<p xml:id="subtitle351" begin="16780000000t" end="16797916667t" region="region0"><span style="style1">被带到皇宫了</span></p>
+<p xml:id="subtitle352" begin="16802916667t" end="16820416667t" region="region0"><span style="style1">-真的吗？</span><br/><span style="style1">-这不是好事</span></p>
+<p xml:id="subtitle353" begin="16821250000t" end="16851666667t" region="region0"><span style="style1">他是被戴笠军带走的</span><br/><span style="style1">不是皇家工程师</span></p>
+<p xml:id="subtitle354" begin="16856666667t" end="16874166667t" region="region0"><span style="style1">他遭到了审问</span></p>
+<p xml:id="subtitle355" begin="16875000000t" end="16888750000t" region="region0"><span style="style1">审他什么？</span></p>
+<p xml:id="subtitle356" begin="16889583334t" end="16904166667t" region="region0"><span style="style1">-彗星吗？</span><br/><span style="style1">-不是</span></p>
+<p xml:id="subtitle357" begin="16915000000t" end="16951250000t" region="region0"><span style="style1">说他是什么火烈国探子的鬼话</span></p>
+<p xml:id="subtitle358" begin="16983333334t" end="16994583334t" region="region0"><span style="style1">好的</span></p>
+<p xml:id="subtitle359" begin="16995416667t" end="17025000000t" region="region0"><span style="style1">严格来说</span><br/><span style="style1">他在奥玛舒时确实是个探子</span></p>
+<p xml:id="subtitle360" begin="17025833334t" end="17046250000t" region="region0"><span style="style1">但他那么做是为了保护城市安全</span></p>
+<p xml:id="subtitle361" begin="17047083334t" end="17066250000t" region="region0"><span style="style1">他们说他试图杀死国王</span></p>
+<p xml:id="subtitle362" begin="17067083334t" end="17089166667t" region="region0"><span style="style1">不是故意的 而且布米也安然无恙</span></p>
+<p xml:id="subtitle363" begin="17090000000t" end="17113750000t" region="region0"><span style="style1">这可不妙 安昂</span></p>
+<p xml:id="subtitle364" begin="17114583334t" end="17152916667t" region="region0"><span style="style1">这可能会</span><br/><span style="style1">让我们见国王的努力功亏一篑</span></p>
+<p xml:id="subtitle365" begin="17201666667t" end="17212500000t" region="region0"><span style="style1">还有一件事</span></p>
+<p xml:id="subtitle366" begin="17218333334t" end="17240416667t" region="region0"><span style="style1">我感觉有人在跟踪我</span></p>
+<p xml:id="subtitle367" begin="17249583334t" end="17264166667t" region="region0"><span style="style1">-是戴笠军吗？</span><br/><span style="style1">-我不知道</span></p>
+<p xml:id="subtitle368" begin="17265000000t" end="17280416667t" region="region0"><span style="style1">我不知道该怎么办</span></p>
+<p xml:id="subtitle369" begin="17310416667t" end="17328750000t" region="region0"><span style="style1">什么都别做</span></p>
+<p xml:id="subtitle370" begin="17329583334t" end="17372083334t" region="region0"><span style="style1">如果有人在监视你</span><br/><span style="style1">肯定是为了确保你不会构成威胁</span></p>
+<p xml:id="subtitle371" begin="17372916667t" end="17396250000t" region="region0"><span style="style1">只要你不惹麻烦</span></p>
+<p xml:id="subtitle372" begin="17402916667t" end="17443333334t" region="region0"><span style="style1">戴笠军就会认为你有资格觐见国王</span></p>
+<p xml:id="subtitle373" begin="17461666667t" end="17486250000t" region="region0"><span style="style1">别惹麻烦 他就是这么建议你的？</span></p>
+<p xml:id="subtitle374" begin="17487083334t" end="17496250000t" region="region0"><span style="style1">我不喜欢这样</span></p>
+<p xml:id="subtitle375" begin="17497083334t" end="17526666667t" region="region0"><span style="style1">没有塞乙</span><br/><span style="style1">我就得亲自造望远镜了 你们看</span></p>
+<p xml:id="subtitle376" begin="17554583334t" end="17571250000t" region="region0"><span style="style1">我一窍不通</span></p>
+<p xml:id="subtitle377" begin="17576250000t" end="17606250000t" region="region0"><span style="style1">你为什么不告诉我们</span><br/><span style="style1">有人在跟踪你？</span></p>
+<p xml:id="subtitle378" begin="17607083334t" end="17623750000t" region="region0"><span style="style1">索卡跟你说过有事情不对劲</span></p>
+<p xml:id="subtitle379" begin="17624583334t" end="17650000000t" region="region0"><span style="style1">但你不信 直到长风说了才信</span></p>
+<p xml:id="subtitle380" begin="17656250000t" end="17687500000t" region="region0"><span style="style1">我信任长风 他一直在帮我们</span></p>
+<p xml:id="subtitle381" begin="17688333334t" end="17705416667t" region="region0"><span style="style1">江措不在之后</span></p>
+<p xml:id="subtitle382" begin="17706250000t" end="17746666667t" region="region0"><span style="style1">这是我第一次觉得</span><br/><span style="style1">有人理解我承受着多大压力</span></p>
+<p xml:id="subtitle383" begin="17747500000t" end="17776666667t" region="region0"><span style="style1">我们也理解啊 还跟你一起扛着呢</span></p>
+<p xml:id="subtitle384" begin="17777500000t" end="17788333334t" region="region0"><span style="style1">有吗？</span></p>
+<p xml:id="subtitle385" begin="17789166667t" end="17817916667t" region="region0"><span style="style1">因为自从我们来到这里</span><br/><span style="style1">你好像就一直在睡大觉</span></p>
+<p xml:id="subtitle386" begin="17818750000t" end="17832916667t" region="region0"><span style="style1">我好几天都不见你人</span></p>
+<p xml:id="subtitle387" begin="17833750000t" end="17861250000t" region="region0"><span style="style1">我们知道你喜欢</span><br/><span style="style1">在这里扮演降世神通的角色</span></p>
+<p xml:id="subtitle388" begin="17862083334t" end="17884583334t" region="region0"><span style="style1">到处见人 逗人们笑…</span></p>
+<p xml:id="subtitle389" begin="17885416667t" end="17906250000t" region="region0"><span style="style1">不 才没那么简单</span></p>
+<p xml:id="subtitle390" begin="17907083334t" end="17937916667t" region="region0"><span style="style1">我每天都在跟拓芙训练</span></p>
+<p xml:id="subtitle391" begin="17938750000t" end="17985000000t" region="region0"><span style="style1">你们希望我精通所有四种元素</span><br/><span style="style1">拯救世界 停止战争 不是吗？</span></p>
+<p xml:id="subtitle392" begin="17985833334t" end="18002916667t" region="region0"><span style="style1">所以有什么问题呢？</span></p>
+<p xml:id="subtitle393" begin="18003750000t" end="18050000000t" region="region0"><span style="style1">问题就是</span><br/><span style="style1">你好像更信任长风 而不是我们</span></p>
+<p xml:id="subtitle394" begin="18069166667t" end="18086250000t" region="region0"><span style="style1">你还要花时间想吗？</span></p>
+<p xml:id="subtitle395" begin="18101666667t" end="18114166667t" region="region0"><span style="style1">当然</span></p>
+<p xml:id="subtitle396" begin="18121666667t" end="18140833334t" region="region0"><span style="style1">我是更信任你们啊</span></p>
+<p xml:id="subtitle397" begin="18152916667t" end="18161250000t" region="region0"><span style="style1">好的</span></p>
+<p xml:id="subtitle398" begin="18202083334t" end="18211250000t" region="region0"><span style="style1">我们该怎么办？</span></p>
+<p xml:id="subtitle399" begin="18216250000t" end="18243333334t" region="region0"><span style="style1">说出来你们可能不信</span><br/><span style="style1">但我其实已经把计划想好了</span></p>
+<p xml:id="subtitle400" begin="18244166667t" end="18273333334t" region="region0"><span style="style1">跟踪你的人肯定是戴笠军 对吧？</span></p>
+<p xml:id="subtitle401" begin="18274166667t" end="18290833334t" region="region0"><span style="style1">所以下次再见到他们</span></p>
+<p xml:id="subtitle402" begin="18291666667t" end="18317083334t" region="region0"><span style="style1">就使上御气术里的花招去跟踪他们</span></p>
+<p xml:id="subtitle403" begin="18317916667t" end="18352916667t" region="region0"><span style="style1">然后跟着他们去戴笠军总部</span><br/><span style="style1">也许到那里能找到塞乙</span></p>
+<p xml:id="subtitle404" begin="18353750000t" end="18375000000t" region="region0"><span style="style1">你说得对 我们需要情报</span></p>
+<p xml:id="subtitle405" begin="18375833334t" end="18394583334t" region="region0"><span style="style1">-尤其是索卡</span><br/><span style="style1">-对 等等</span></p>
+<p xml:id="subtitle406" begin="18420000000t" end="18448750000t" region="region0"><span style="style1">您的父母确实很聪明</span></p>
+<p xml:id="subtitle407" begin="18449583334t" end="18482083334t" region="region0"><span style="style1">生来就是社会顶层 一直高高在上</span><br/><span style="style1">这事哪儿需要天才？</span></p>
+<p xml:id="subtitle408" begin="18492083334t" end="18538333334t" region="region0"><span style="style1">你不懂战争对生意的影响</span><br/><span style="style1">他们学会变通了</span></p>
+<p xml:id="subtitle409" begin="18539166667t" end="18587500000t" region="region0"><span style="style1">北方帝国由数百家小公司组成</span></p>
+<p xml:id="subtitle410" begin="18588333334t" end="18613333334t" region="region0"><span style="style1">这些公司与您父母的关系</span></p>
+<p xml:id="subtitle411" begin="18618333334t" end="18665000000t" region="region0"><span style="style1">被重重财务把戏遮蔽了</span></p>
+<p xml:id="subtitle412" begin="18672500000t" end="18699583334t" region="region0"><span style="style1">你看起来就是耍把戏的高手</span></p>
+<p xml:id="subtitle413" begin="18720833334t" end="18741666667t" region="region0"><span style="style1">您真是直率得可爱</span></p>
+<p xml:id="subtitle414" begin="18746666667t" end="18772083334t" region="region0"><span style="style1">那我也不拐弯抹角了</span></p>
+<p xml:id="subtitle415" begin="18782083334t" end="18820416667t" region="region0"><span style="style1">我有文件能证明 这些公司中有几家</span></p>
+<p xml:id="subtitle416" begin="18821250000t" end="18839166667t" region="region0"><span style="style1">拿到了利润丰厚的合同</span></p>
+<p xml:id="subtitle417" begin="18840000000t" end="18879583334t" region="region0"><span style="style1">把活塞、齿轮和金属板等</span></p>
+<p xml:id="subtitle418" begin="18880416667t" end="18910416667t" region="region0"><span style="style1">卖给江汇的一家军工厂</span></p>
+<p xml:id="subtitle419" begin="18923333334t" end="18945000000t" region="region0"><span style="style1">是火烈国的工厂</span></p>
+<p xml:id="subtitle420" begin="19008333334t" end="19050416667t" region="region0"><span style="style1">我父母常说：“生意无国界”</span></p>
+<p xml:id="subtitle421" begin="19051250000t" end="19097083334t" region="region0"><span style="style1">是啊 但我觉得土强王应该无法苟同</span></p>
+<p xml:id="subtitle422" begin="19106250000t" end="19131666667t" region="region0"><span style="style1">永固城可能是没有战争</span></p>
+<p xml:id="subtitle423" begin="19132500000t" end="19145416667t" region="region0"><span style="style1">但叛国罪的账</span></p>
+<p xml:id="subtitle424" begin="19154166667t" end="19170000000t" region="region0"><span style="style1">照样得算</span></p>
+<p xml:id="subtitle425" begin="19190000000t" end="19207500000t" region="region0"><span style="style1">前面有市场</span></p>
+<p xml:id="subtitle426" begin="19208333334t" end="19224166667t" region="region0"><span style="style1">你对这里很熟悉吗？</span></p>
+<p xml:id="subtitle427" begin="19238750000t" end="19260833334t" region="region0"><span style="style1">我最近经常来这儿</span></p>
+<p xml:id="subtitle428" begin="19267916667t" end="19282083334t" region="region0"><span style="style1">原来你是来这里了</span></p>
+<p xml:id="subtitle429" begin="19296666667t" end="19305833334t" region="region0"><span style="style1">对</span></p>
+<p xml:id="subtitle430" begin="19313750000t" end="19342916667t" region="region0"><span style="style1">你在练御土术 也不需要我</span></p>
+<p xml:id="subtitle431" begin="19343750000t" end="19355000000t" region="region0"><span style="style1">我现在不是陪着你吗？</span></p>
+<p xml:id="subtitle432" begin="19364166667t" end="19381666667t" region="region0"><span style="style1">对吧</span></p>
+<p xml:id="subtitle433" begin="19391250000t" end="19403333334t" region="region0"><span style="style1">安昂 你到底怎么了？</span></p>
+<p xml:id="subtitle434" begin="19418750000t" end="19431250000t" region="region0"><span style="style1">卡塔拉</span></p>
+<p xml:id="subtitle435" begin="19446666667t" end="19458750000t" region="region0"><span style="style1">什么都别说</span></p>
+<p xml:id="subtitle436" begin="19467500000t" end="19477500000t" region="region0"><span style="style1">好的</span></p>
+<p xml:id="subtitle437" begin="19549583334t" end="19582916667t" region="region0"><span style="style1">探子就在我身后 戴着帽子</span></p>
+<p xml:id="subtitle438" begin="19604583334t" end="19613333334t" region="region0"><span style="style1">是啊</span></p>
+<p xml:id="subtitle439" begin="19628333334t" end="19642083334t" region="region0"><span style="style1">我去引开朱蒂</span></p>
+<p xml:id="subtitle440" begin="19642916667t" end="19665416667t" region="region0"><span style="style1">好主意 表现得正常点儿</span></p>
+<p xml:id="subtitle441" begin="19672500000t" end="19680833334t" region="region0"><span style="style1">正常点儿</span></p>
+<p xml:id="subtitle442" begin="19691666667t" end="19702916667t" region="region0"><span style="style1">噢 朱蒂</span></p>
+<p xml:id="subtitle443" begin="19703750000t" end="19746666667t" region="region0"><span style="style1">我们想购物 需要你帮忙</span></p>
+<p xml:id="subtitle444" begin="19763333334t" end="19774166667t" region="region0"><span style="style1">其实嘛</span></p>
+<p xml:id="subtitle445" begin="19775000000t" end="19813750000t" region="region0"><span style="style1">外环的商道我门儿清 请跟我来</span></p>
+<p xml:id="subtitle446" begin="19822500000t" end="19838333334t" region="region0"><span style="style1">那就太好了</span></p>
+<p xml:id="subtitle447" begin="19843333334t" end="19866666667t" region="region0"><span style="style1">我们真正需要的是…</span></p>
+<p xml:id="subtitle448" begin="19867500000t" end="19897916667t" region="region0"><span style="style1">卖卷心菜了！新鲜的卷心菜！</span></p>
+<p xml:id="subtitle449" begin="19905416667t" end="19917500000t" region="region0"><span style="style1">卷心菜</span></p>
+<p xml:id="subtitle450" begin="19955416667t" end="19982083334t" region="region0"><span style="style1">当然了 你们不需要付钱</span></p>
+<p xml:id="subtitle451" begin="19988333334t" end="20012916667t" region="region0"><span style="style1">内环有更精致的美食</span></p>
+<p xml:id="subtitle452" begin="20021250000t" end="20050416667t" region="region0"><span style="style1">-我只需要几棵新鲜的</span><br/><span style="style1">-全都很新鲜</span></p>
+<p xml:id="subtitle453" begin="20051250000t" end="20064583334t" region="region0"><span style="style1">还要圆的</span></p>
+<p xml:id="subtitle454" begin="20065416667t" end="20086250000t" region="region0"><span style="style1">是永固城最圆的了</span></p>
+<p xml:id="subtitle455" begin="20105000000t" end="20116666667t" region="region0"><span style="style1">好吧</span></p>
+<p xml:id="subtitle456" begin="20126250000t" end="20153333334t" region="region0"><span style="style1">太好了 你们肯定不会后悔的</span></p>
+<p xml:id="subtitle457" begin="20160000000t" end="20173333334t" region="region0"><span style="style1">圆的吗？</span></p>
+<p xml:id="subtitle458" begin="20174166667t" end="20212916667t" region="region0"><span style="style1">卷心菜其实很高雅 每一棵都很特别</span></p>
+<p xml:id="subtitle459" begin="20213750000t" end="20229583334t" region="region0"><span style="style1">都有自己的个性</span></p>
+<p xml:id="subtitle460" begin="20291250000t" end="20302500000t" region="region0"><span style="style1">听到了吗？</span></p>
+<p xml:id="subtitle461" begin="20303333334t" end="20313750000t" region="region0"><span style="style1">有神性</span></p>
+<p xml:id="subtitle462" begin="20318750000t" end="20336666667t" region="region0"><span style="style1">这棵就够了</span></p>
+<p xml:id="subtitle463" begin="20342500000t" end="20355416667t" region="region0"><span style="style1">卡塔拉 安昂</span></p>
+<p xml:id="subtitle464" begin="20389583334t" end="20397916667t" region="region0"><span style="style1">卡塔拉？</span></p>
+<p xml:id="subtitle465" begin="20413333334t" end="20421666667t" region="region0"><span style="style1">等等…</span></p>
+<p xml:id="subtitle466" begin="20422500000t" end="20434166667t" region="region0"><span style="style1">降世神通！</span></p>
+<p xml:id="subtitle467" begin="20445000000t" end="20462083334t" region="region0"><span style="style1">-卡塔拉！</span><br/><span style="style1">-但…</span></p>
+<p xml:id="subtitle468" begin="20471666667t" end="20495000000t" region="region0"><span style="style1">我的卷心菜！</span></p>
+<p xml:id="subtitle469" begin="20542083334t" end="20556666667t" region="region0"><span style="style1">今晚就要行动</span></p>
+<p xml:id="subtitle470" begin="20557500000t" end="20571666667t" region="region0"><span style="style1">旧马厩</span></p>
+<p xml:id="subtitle471" begin="20572500000t" end="20609166667t" region="region0"><span style="style1">我们要让他们付出代价</span><br/><span style="style1">不仅仅是那些凶手</span></p>
+<p xml:id="subtitle472" begin="20610000000t" end="20642500000t" region="region0"><span style="style1">庇护逃犯的人也要为逃犯流血</span></p>
+<p xml:id="subtitle473" begin="20643333334t" end="20661666667t" region="region0"><span style="style1">我们要复仇</span></p>
+<p xml:id="subtitle474" begin="20666666667t" end="20679166667t" region="region0"><span style="style1">为了你们的家人</span></p>
+<p xml:id="subtitle475" begin="20684166667t" end="20698333334t" region="region0"><span style="style1">你们的朋友</span></p>
+<p xml:id="subtitle476" begin="20703333334t" end="20714583334t" region="region0"><span style="style1">你们所有人</span></p>
+<p xml:id="subtitle477" begin="20996666667t" end="21009583334t" region="region0"><span style="style1">降世神通 等等！</span></p>
+<p xml:id="subtitle478" begin="21321666667t" end="21333333334t" region="region0"><span style="style1">她在干什么？</span></p>
+<p xml:id="subtitle479" begin="21361666667t" end="21375000000t" region="region0"><span style="style1">不是说你 我在说我的朋友</span></p>
+<p xml:id="subtitle480" begin="21384583334t" end="21407500000t" region="region0"><span style="style1">对不起 失陪了</span></p>
+<p xml:id="subtitle481" begin="21521250000t" end="21542500000t" region="region0"><span style="style1">今晚我们欢迎</span></p>
+<p xml:id="subtitle482" begin="21543333334t" end="21594166667t" region="region0"><span style="style1">一朵叫婷的小花</span><br/><span style="style1">走上我们的陈年木舞台</span></p>
+<p xml:id="subtitle483" begin="21672916667t" end="21695833334t" region="region0"><span style="style1">漫漫之长夜</span></p>
+<p xml:id="subtitle484" begin="21696666667t" end="21729166667t" region="region0"><span style="style1">冬月皎皎爱意盈</span></p>
+<p xml:id="subtitle485" begin="21734166667t" end="21760416667t" region="region0"><span style="style1">银泪冰雹落</span></p>
+<p xml:id="subtitle486" begin="21816666667t" end="21829166667t" region="region0"><span style="style1">瀑布淙淙流</span></p>
+<p xml:id="subtitle487" begin="21830000000t" end="21865416667t" region="region0"><span style="style1">哎呀 被你发现了 我来上诗词课了</span></p>
+<p xml:id="subtitle488" begin="21866250000t" end="21898333334t" region="region0"><span style="style1">-拓芙 你刚刚在上面干什么？</span><br/><span style="style1">-不关你事</span></p>
+<p xml:id="subtitle489" begin="21899166667t" end="21926666667t" region="region0"><span style="style1">当然关我的事</span><br/><span style="style1">这座城里发生了诡异的事</span></p>
+<p xml:id="subtitle490" begin="21927500000t" end="21947500000t" region="region0"><span style="style1">我看你也可能也掺和其中</span></p>
+<p xml:id="subtitle491" begin="21948333334t" end="21966250000t" region="region0"><span style="style1">-我没有！</span><br/><span style="style1">-我不相信你！</span></p>
+<p xml:id="subtitle492" begin="21967083334t" end="21992500000t" region="region0"><span style="style1">五、七 再是五</span></p>
+<p xml:id="subtitle493" begin="21993333334t" end="22015833334t" region="region0"><span style="style1">俳句由音节构成</span></p>
+<p xml:id="subtitle494" begin="22016666667t" end="22032500000t" region="region0"><span style="style1">厉害的蠢材</span></p>
+<p xml:id="subtitle495" begin="22053750000t" end="22074166667t" region="region0"><span style="style1">我不是诗人</span></p>
+<p xml:id="subtitle496" begin="22075000000t" end="22099166667t" region="region0"><span style="style1">只是个在担心朋友的卑微战士</span></p>
+<p xml:id="subtitle497" begin="22193333334t" end="22211666667t" region="region0"><span style="style1">喂 托芙？</span></p>
+<p xml:id="subtitle498" begin="22245000000t" end="22261250000t" region="region0"><span style="style1">他涉水而行</span></p>
+<p xml:id="subtitle499" begin="22262083334t" end="22280833334t" region="region0"><span style="style1">过暖而不容浮冰</span></p>
+<p xml:id="subtitle500" begin="22285833334t" end="22307916667t" region="region0"><span style="style1">不转身则融</span></p>
+<p xml:id="subtitle501" begin="22350833334t" end="22395416667t" region="region0"><span style="style1">我无法转身</span></p>
+<p xml:id="subtitle502" begin="22402500000t" end="22449583334t" region="region0"><span style="style1">若为了我的团队</span></p>
+<p xml:id="subtitle503" begin="22462083334t" end="22483333334t" region="region0"><span style="style1">多热都能受</span></p>
+<p xml:id="subtitle504" begin="22525416667t" end="22552916667t" region="region0"><span style="style1">-谢谢</span><br/><span style="style1">-御术是团队</span></p>
+<p xml:id="subtitle505" begin="22560833334t" end="22588333334t" region="region0"><span style="style1">水、土、空气以及火</span></p>
+<p xml:id="subtitle506" begin="22594166667t" end="22608333334t" region="region0"><span style="style1">你毫无贡献</span></p>
+<p xml:id="subtitle507" begin="22658750000t" end="22685000000t" region="region0"><span style="style1">我生来如此</span></p>
+<p xml:id="subtitle508" begin="22690000000t" end="22700000000t" region="region0"><span style="style1">是</span></p>
+<p xml:id="subtitle509" begin="22712916667t" end="22732916667t" region="region0"><span style="style1">要背负的重担</span></p>
+<p xml:id="subtitle510" begin="22745000000t" end="22761666667t" region="region0"><span style="style1">你应该理解</span></p>
+<p xml:id="subtitle511" begin="22794583334t" end="22812916667t" region="region0"><span style="style1">冬唤春为友</span></p>
+<p xml:id="subtitle512" begin="22813750000t" end="22836250000t" region="region0"><span style="style1">却暗欲以霜染花</span></p>
+<p xml:id="subtitle513" begin="22843333334t" end="22863333334t" region="region0"><span style="style1">失明非重担</span></p>
+<p xml:id="subtitle514" begin="22864166667t" end="22874166667t" region="region0"><span style="style1">不是！</span></p>
+<p xml:id="subtitle515" begin="22882083334t" end="22899583334t" region="region0"><span style="style1">失明是力量</span></p>
+<p xml:id="subtitle516" begin="22900416667t" end="22913333334t" region="region0"><span style="style1">生来</span></p>
+<p xml:id="subtitle517" begin="22929166667t" end="22965000000t" region="region0"><span style="style1">富裕是重担</span></p>
+<p xml:id="subtitle518" begin="22975000000t" end="22986666667t" region="region0"><span style="style1">我可以理解</span></p>
+<p xml:id="subtitle519" begin="23062083334t" end="23077916667t" region="region0"><span style="style1">好奇的鸟儿</span></p>
+<p xml:id="subtitle520" begin="23083333334t" end="23110416667t" region="region0"><span style="style1">洞穴秘密不归你</span></p>
+<p xml:id="subtitle521" begin="23115416667t" end="23131666667t" region="region0"><span style="style1">留在晴空中</span></p>
+<p xml:id="subtitle522" begin="23146666667t" end="23172500000t" region="region0"><span style="style1">在任何季节 本人都坚如磐石</span></p>
+<p xml:id="subtitle523" begin="23179583334t" end="23193750000t" region="region0"><span style="style1">我守口如瓶</span></p>
+<p xml:id="subtitle524" begin="23220833334t" end="23242500000t" region="region0"><span style="style1">山可能会问</span></p>
+<p xml:id="subtitle525" begin="23243333334t" end="23265416667t" region="region0"><span style="style1">夜空为什么清醒</span></p>
+<p xml:id="subtitle526" begin="23278750000t" end="23291666667t" region="region0"><span style="style1">它真在乎吗？</span></p>
+<p xml:id="subtitle527" begin="23292500000t" end="23305416667t" region="region0"><span style="style1">当然啊！</span></p>
+<p xml:id="subtitle528" begin="23306250000t" end="23326666667t" region="region0"><span style="style1">我关心朋友 我很关心你</span></p>
+<p xml:id="subtitle529" begin="23332500000t" end="23346666667t" region="region0"><span style="style1">你是我的朋友</span></p>
+<p xml:id="subtitle530" begin="23356250000t" end="23382916667t" region="region0"><span style="style1">天啊 我说了几个音节了？是不是…</span></p>
+<p xml:id="subtitle531" begin="23402500000t" end="23422916667t" region="region0"><span style="style1">噢 好吧</span></p>
+<p xml:id="subtitle532" begin="23434583334t" end="23444166667t" region="region0"><span style="style1">好吧</span></p>
+<p xml:id="subtitle533" begin="23451250000t" end="23470000000t" region="region0"><span style="style1">第一次能这样已经很不错了</span></p>
+<p xml:id="subtitle534" begin="23481666667t" end="23512916667t" region="region0"><span style="style1">说真的 我也不知道</span><br/><span style="style1">自己怎么能坚持那么久</span></p>
+<p xml:id="subtitle535" begin="23524583334t" end="23556250000t" region="region0"><span style="style1">你说的话很暖心</span></p>
+<p xml:id="subtitle536" begin="23581666667t" end="23593333334t" region="region0"><span style="style1">如果我们真的是朋友</span></p>
+<p xml:id="subtitle537" begin="23594166667t" end="23615416667t" region="region0"><span style="style1">你就不需要告诉我是怎么回事</span></p>
+<p xml:id="subtitle538" begin="23628750000t" end="23638750000t" region="region0"><span style="style1">我信你</span></p>
+<p xml:id="subtitle539" begin="23662916667t" end="23673333334t" region="region0"><span style="style1">好吧</span></p>
+<p xml:id="subtitle540" begin="23679166667t" end="23705416667t" region="region0"><span style="style1">那家伙在勒索我</span></p>
+<p xml:id="subtitle541" begin="23706250000t" end="23729166667t" region="region0"><span style="style1">他手上有我父母向火烈国</span><br/><span style="style1">出售武器的证据</span></p>
+<p xml:id="subtitle542" begin="23730000000t" end="23740416667t" region="region0"><span style="style1">我把证据买了下来</span></p>
+<p xml:id="subtitle543" begin="23762500000t" end="23789583334t" region="region0"><span style="style1">哇 那比我想象的要糟糕得多</span></p>
+<p xml:id="subtitle544" begin="23790416667t" end="23825833334t" region="region0"><span style="style1">-等等 你以为是怎么样？</span><br/><span style="style1">-我不知道 赌博欠了债什么的…</span></p>
+<p xml:id="subtitle545" begin="23832083334t" end="23853750000t" region="region0"><span style="style1">你不会告诉其他人吧？</span></p>
+<p xml:id="subtitle546" begin="23875416667t" end="23906250000t" region="region0"><span style="style1">不会 我说了会守口如瓶的</span></p>
+<p xml:id="subtitle547" begin="23912500000t" end="23941666667t" region="region0"><span style="style1">而且我们还有更大的麻烦</span></p>
+<p xml:id="subtitle548" begin="23947500000t" end="23957916667t" region="region0"><span style="style1">等等 什么？</span></p>
+<p xml:id="subtitle549" begin="24102500000t" end="24125000000t" region="region0"><span style="style1">把钱交出来</span></p>
+<p xml:id="subtitle550" begin="24132083334t" end="24155416667t" region="region0"><span style="style1">把你的钱给我</span></p>
+<p xml:id="subtitle551" begin="24169583334t" end="24179583334t" region="region0"><span style="style1">马上</span></p>
+<p xml:id="subtitle552" begin="24222083334t" end="24232500000t" region="region0"><span style="style1">不给</span></p>
+<p xml:id="subtitle553" begin="24233333334t" end="24262500000t" region="region0"><span style="style1">把钱给我 不然我就把你杀了！</span></p>
+<p xml:id="subtitle554" begin="24267500000t" end="24283750000t" region="region0"><span style="style1">我真的会动手！</span></p>
+<p xml:id="subtitle555" begin="24367083334t" end="24383750000t" region="region0"><span style="style1">有那么多名字啊</span></p>
+<p xml:id="subtitle556" begin="24389583334t" end="24397916667t" region="region0"><span style="style1">什么？</span></p>
+<p xml:id="subtitle557" begin="24412083334t" end="24424583334t" region="region0"><span style="style1">你在说什么？</span></p>
+<p xml:id="subtitle558" begin="24425416667t" end="24450416667t" region="region0"><span style="style1">-应该要有我的名字</span><br/><span style="style1">-住嘴！</span></p>
+<p xml:id="subtitle559" begin="24451250000t" end="24470000000t" region="region0"><span style="style1">那天死的应该是我</span></p>
+<p xml:id="subtitle560" begin="24476250000t" end="24496666667t" region="region0"><span style="style1">那天死的应该是我！</span></p>
+<p xml:id="subtitle561" begin="24511250000t" end="24529583334t" region="region0"><span style="style1">少废话 把钱给我</span></p>
+<p xml:id="subtitle562" begin="24573333334t" end="24585833334t" region="region0"><span style="style1">我不想</span></p>
+<p xml:id="subtitle563" begin="24597500000t" end="24612083334t" region="region0"><span style="style1">我不想…</span></p>
+<p xml:id="subtitle564" begin="24650000000t" end="24659166667t" region="region0"><span style="style1">我只是</span></p>
+<p xml:id="subtitle565" begin="24668333334t" end="24687500000t" region="region0"><span style="style1">太饿了</span></p>
+<p xml:id="subtitle566" begin="24706250000t" end="24722083334t" region="region0"><span style="style1">我不想杀人</span></p>
+<p xml:id="subtitle567" begin="24746250000t" end="24757083334t" region="region0"><span style="style1">对不起</span></p>
+<p xml:id="subtitle568" begin="24810833334t" end="24821666667t" region="region0"><span style="style1">没关系</span></p>
+<p xml:id="subtitle569" begin="24862083334t" end="24873750000t" region="region0"><span style="style1">没关系</span></p>
+<p xml:id="subtitle570" begin="24882916667t" end="24892500000t" region="region0"><span style="style1">过来</span></p>
+<p xml:id="subtitle571" begin="24900000000t" end="24908333334t" region="region0"><span style="style1">坐下吧</span></p>
+<p xml:id="subtitle572" begin="25175833334t" end="25186250000t" region="region0"><span style="style1">谢谢你</span></p>
+<p xml:id="subtitle573" begin="25361666667t" end="25375416667t" region="region0"><span style="style1">别让任何人离开</span></p>
+<p xml:id="subtitle574" begin="25383333334t" end="25430833334t" region="region0"><span style="style1">我知道你们来是为了复仇</span><br/><span style="style1">但你们找错地方了</span></p>
+<p xml:id="subtitle575" begin="25431666667t" end="25448750000t" region="region0"><span style="style1">盯紧他们！</span></p>
+<p xml:id="subtitle576" begin="25453750000t" end="25484166667t" region="region0"><span style="style1">他在撒谎 他们把凶手藏起来了</span></p>
+<p xml:id="subtitle577" begin="25485000000t" end="25503333334t" region="region0"><span style="style1">我什么都没藏！</span></p>
+<p xml:id="subtitle578" begin="25516250000t" end="25532916667t" region="region0"><span style="style1">我原来是军官</span></p>
+<p xml:id="subtitle579" begin="25537916667t" end="25559166667t" region="region0"><span style="style1">被命令去做可怕的事情</span></p>
+<p xml:id="subtitle580" begin="25573333334t" end="25623750000t" region="region0"><span style="style1">在我的指挥下 死了很多男人和男孩</span></p>
+<p xml:id="subtitle581" begin="25633750000t" end="25662083334t" region="region0"><span style="style1">于是我逃离了火烈国军队</span></p>
+<p xml:id="subtitle582" begin="25662916667t" end="25710833334t" region="region0"><span style="style1">这个叛国行为救了你们国人的命</span></p>
+<p xml:id="subtitle583" begin="25722916667t" end="25739166667t" region="region0"><span style="style1">骗人</span></p>
+<p xml:id="subtitle584" begin="25740000000t" end="25756666667t" region="region0"><span style="style1">我为了你们</span></p>
+<p xml:id="subtitle585" begin="25767500000t" end="25776250000t" region="region0"><span style="style1">赌上了性命</span></p>
+<p xml:id="subtitle586" begin="25826666667t" end="25849583334t" region="region0"><span style="style1">就是他干的！</span></p>
+<p xml:id="subtitle587" begin="27017500000t" end="27030416667t" region="region0"><span style="style1">火烈国的败类！</span></p>
+<p xml:id="subtitle588" begin="27252916667t" end="27262500000t" region="region0"><span style="style1">卡塔拉？</span></p>
+<p xml:id="subtitle589" begin="27294583334t" end="27322083334t" region="region0"><span style="style1">你为什么要帮这些人？</span><br/><span style="style1">他们是火烈国的！</span></p>
+<p xml:id="subtitle590" begin="27577500000t" end="27612083334t" region="region0"><span style="style1">我工作的茶馆在外环</span></p>
+<p xml:id="subtitle591" begin="27617083334t" end="27629166667t" region="region0"><span style="style1">你应该过来</span></p>
+<p xml:id="subtitle592" begin="27634166667t" end="27660000000t" region="region0"><span style="style1">也许我可以帮你说几句好话</span></p>
+<p xml:id="subtitle593" begin="27665000000t" end="27701666667t" region="region0"><span style="style1">至少你可以</span><br/><span style="style1">喝一杯热腾腾的茉莉花茶</span></p>
+<p xml:id="subtitle594" begin="27798333334t" end="27810000000t" region="region0"><span style="style1">不要</span></p>
+<p xml:id="subtitle595" begin="28551250000t" end="28578750000t" region="region0"><span style="style1">这座城里有我可以帮的人</span></p>
+<p xml:id="subtitle596" begin="28849583334t" end="28870000000t" region="region0"><span style="style1">要是当初能帮你该多好</span></p>
+<p xml:id="subtitle597" begin="28887916667t" end="28898333334t" region="region0"><span style="style1">我的儿子啊</span></p>
+<p xml:id="subtitle598" begin="29335000000t" end="29345000000t" region="region0"><span style="style1">你是谁？</span></p>
+<p xml:id="subtitle599" begin="29360000000t" end="29370833334t" region="region0"><span style="style1">塞乙呢？</span></p>
+<p xml:id="subtitle600" begin="29387500000t" end="29400833334t" region="region0"><span style="style1">我认识你</span></p>
+<p xml:id="subtitle601" begin="29406666667t" end="29432916667t" region="region0"><span style="style1">-你是外城墙的人</span><br/><span style="style1">-对 没错</span></p>
+<p xml:id="subtitle602" begin="29433750000t" end="29450833334t" region="region0"><span style="style1">而且我们没有带走你的朋友</span></p>
+<p xml:id="subtitle603" begin="29465416667t" end="29478750000t" region="region0"><span style="style1">孙将军</span></p>
+<p xml:id="subtitle604" begin="29479583334t" end="29530000000t" region="region0"><span style="style1">戴笠军的探子无处不在</span><br/><span style="style1">我们只好偷偷找你谈</span></p>
+<p xml:id="subtitle605" begin="29540000000t" end="29564583334t" region="region0"><span style="style1">我跟士兵进城冒了很大风险</span></p>
+<p xml:id="subtitle606" begin="29565416667t" end="29583750000t" region="region0"><span style="style1">军队控制着外墙</span></p>
+<p xml:id="subtitle607" begin="29584583334t" end="29621666667t" region="region0"><span style="style1">戴笠军控制着城里</span><br/><span style="style1">他们不想我们多嘴</span></p>
+<p xml:id="subtitle608" begin="29622500000t" end="29632916667t" region="region0"><span style="style1">为什么？</span></p>
+<p xml:id="subtitle609" begin="29633750000t" end="29664166667t" region="region0"><span style="style1">因为外头集结了</span><br/><span style="style1">一支庞大的火烈国军队</span></p>
+<p xml:id="subtitle610" begin="29665000000t" end="29679583334t" region="region0"><span style="style1">攻击迫在眉睫</span></p>
+<p xml:id="subtitle611" begin="29680416667t" end="29710833334t" region="region0"><span style="style1">但你明明说过永固城没有战争</span></p>
+<p xml:id="subtitle612" begin="29711666667t" end="29740833334t" region="region0"><span style="style1">在皇宫里 我还能说什么呢？</span></p>
+<p xml:id="subtitle613" begin="29741666667t" end="29768750000t" region="region0"><span style="style1">晚宴上到处都是戴笠军的眼线</span></p>
+<p xml:id="subtitle614" begin="29777083334t" end="29789166667t" region="region0"><span style="style1">所以…</span></p>
+<p xml:id="subtitle615" begin="29795416667t" end="29822083334t" region="region0"><span style="style1">听着 我们没多少时间了</span><br/><span style="style1">很快你的戴笠军负责人</span></p>
+<p xml:id="subtitle616" begin="29822916667t" end="29845833334t" region="region0"><span style="style1">就会大规模搜查你</span></p>
+<p xml:id="subtitle617" begin="29846666667t" end="29858750000t" region="region0"><span style="style1">我的负责人？</span></p>
+<p xml:id="subtitle618" begin="29868750000t" end="29879583334t" region="region0"><span style="style1">朱蒂</span></p>
+<p xml:id="subtitle619" begin="29880416667t" end="29912083334t" region="region0"><span style="style1">你说有紧急消息要告诉土强王</span></p>
+<p xml:id="subtitle620" begin="29912916667t" end="29955000000t" region="region0"><span style="style1">如果你帮我劝他采取行动</span><br/><span style="style1">我就可以帮你把消息传给他</span></p>
+<p xml:id="subtitle621" begin="29968333334t" end="29988333334t" region="region0"><span style="style1">你需要告诉他什么？</span></p>
+<p xml:id="subtitle622" begin="29999583334t" end="30040416667t" region="region0"><span style="style1">你把我打晕后绑走</span><br/><span style="style1">我还怎么能相信你？</span></p>
+<p xml:id="subtitle623" begin="30056250000t" end="30084166667t" region="region0"><span style="style1">我向虚子武士的领袖苏琪求助时</span></p>
+<p xml:id="subtitle624" begin="30085000000t" end="30113333334t" region="region0"><span style="style1">她告诉了我一些事</span></p>
+<p xml:id="subtitle625" begin="30114166667t" end="30142500000t" region="region0"><span style="style1">是你很久以前对她说的话</span></p>
+<p xml:id="subtitle626" begin="30152916667t" end="30187500000t" region="region0"><span style="style1">你说在你的家乡 人们会互相帮助</span></p>
+<p xml:id="subtitle627" begin="30204166667t" end="30231666667t" region="region0"><span style="style1">我们想要重现这样的世界</span></p>
+<p xml:id="subtitle628" begin="30308333334t" end="30328750000t" region="region0"><span style="style1">大彗星正在返程</span></p>
+<p xml:id="subtitle629" begin="30329583334t" end="30356250000t" region="region0"><span style="style1">那颗彗星能赋予火宗无限的力量</span></p>
+<p xml:id="subtitle630" begin="30357083334t" end="30394166667t" region="region0"><span style="style1">在一百年前</span><br/><span style="style1">他们就是靠它消灭了气宗</span></p>
+<p xml:id="subtitle631" begin="30408750000t" end="30423333334t" region="region0"><span style="style1">你知道它什么时候会到吗？</span></p>
+<p xml:id="subtitle632" begin="30424166667t" end="30455833334t" region="region0"><span style="style1">所以我才跟着你的副官</span><br/><span style="style1">我以为他是戴笠军的一员</span></p>
+<p xml:id="subtitle633" begin="30456666667t" end="30486250000t" region="region0"><span style="style1">只有塞乙手上有证据</span><br/><span style="style1">但他被他们关起来了</span></p>
+<p xml:id="subtitle634" begin="30487083334t" end="30514583334t" region="region0"><span style="style1">长风一直在帮我们找他</span></p>
+<p xml:id="subtitle635" begin="30515416667t" end="30528750000t" region="region0"><span style="style1">长风？</span></p>
+<p xml:id="subtitle636" begin="30534166667t" end="30552916667t" region="region0"><span style="style1">他是我们在城里最坚实的盟友</span></p>
+<p xml:id="subtitle637" begin="30553750000t" end="30575000000t" region="region0"><span style="style1">他帮我们设法绕过戴笠军</span></p>
+<p xml:id="subtitle638" begin="30575833334t" end="30584166667t" region="region0"><span style="style1">安昂</span></p>
+<p xml:id="subtitle639" begin="30592916667t" end="30611666667t" region="region0"><span style="style1">长风就是戴笠军</span></p>
+<p xml:id="subtitle640" begin="30652916667t" end="30690833334t" region="region0"><span style="style1">不是的 戴笠军是国王的守卫</span></p>
+<p xml:id="subtitle641" begin="30691666667t" end="30735000000t" region="region0"><span style="style1">但他们听长风的指令行动</span><br/><span style="style1">只有他能指挥戴笠军</span></p>
+<p xml:id="subtitle642" begin="30735833334t" end="30755000000t" region="region0"><span style="style1">你不能信他</span></p>
+<p xml:id="subtitle643" begin="30760000000t" end="30796250000t" region="region0"><span style="style1">不 你错了 长风是我的朋友</span></p>
+<p xml:id="subtitle644" begin="30816250000t" end="30841666667t" region="region0"><span style="style1">长风有让你见过国王吗？</span></p>
+<p xml:id="subtitle645" begin="30865416667t" end="30877500000t" region="region0"><span style="style1">这是个错误</span></p>
+<p xml:id="subtitle646" begin="30882500000t" end="30895833334t" region="region0"><span style="style1">降世神通 等等！</span></p>
+<p xml:id="subtitle647" begin="31007500000t" end="31022916667t" region="region0"><span style="style1">我需要见土强王</span></p>
+<p xml:id="subtitle648" begin="31037500000t" end="31061250000t" region="region0"><span style="style1">我要求立刻见土强王！</span></p>
+<p xml:id="subtitle649" begin="31066250000t" end="31075000000t" region="region0"><span style="style1">安昂</span></p>
+<p xml:id="subtitle650" begin="31083750000t" end="31095000000t" region="region0"><span style="style1">真是惊喜啊</span></p>
+<p xml:id="subtitle651" begin="31100000000t" end="31117500000t" region="region0"><span style="style1">我想见土强王</span></p>
+<p xml:id="subtitle652" begin="31118333334t" end="31146250000t" region="region0"><span style="style1">我早就跟你说过了</span><br/><span style="style1">这事说起来容易 做起来难</span></p>
+<p xml:id="subtitle653" begin="31147083334t" end="31171666667t" region="region0"><span style="style1">墙外就有一支火烈国军队</span></p>
+<p xml:id="subtitle654" begin="31172500000t" end="31182916667t" region="region0"><span style="style1">你知道吗？</span></p>
+<p xml:id="subtitle655" begin="31188750000t" end="31212916667t" region="region0"><span style="style1">这儿很安全 不受任何军队威胁</span></p>
+<p xml:id="subtitle656" begin="31213750000t" end="31229166667t" region="region0"><span style="style1">你早该清楚了</span></p>
+<p xml:id="subtitle657" begin="31257500000t" end="31285416667t" region="region0"><span style="style1">永固城没有战争</span></p>
+<p xml:id="subtitle658" begin="31298750000t" end="31307916667t" region="region0"><span style="style1">很晚了</span></p>
+<p xml:id="subtitle659" begin="31308750000t" end="31333333334t" region="region0"><span style="style1">我让朱蒂送你回家吧</span></p>
+<p xml:id="subtitle660" begin="31339166667t" end="31352916667t" region="region0"><span style="style1">我们明早见吧</span></p>
+<p xml:id="subtitle661" begin="31377083334t" end="31385833334t" region="region0"><span style="style1">你是谁？</span></p>
+<p xml:id="subtitle662" begin="31398750000t" end="31411666667t" region="region0"><span style="style1">我是朱蒂</span></p>
+<p xml:id="subtitle663" begin="31451250000t" end="31461250000t" region="region0"><span style="style1">不用了 谢谢</span></p>
+<p xml:id="subtitle664" begin="31466666667t" end="31478750000t" region="region0"><span style="style1">我自己出去就行</span></p>
+<p xml:id="subtitle665" begin="31499166667t" end="31510416667t" region="region0"><span style="style1">晚安 安昂</span></p>
+<p xml:id="subtitle666" begin="31511250000t" end="31536666667t" region="region0"><span style="style1">记住了 你和我</span></p>
+<p xml:id="subtitle667" begin="31543333334t" end="31558333334t" region="region0"><span style="style1">是同一阵线的</span></p>
+<p xml:id="subtitle668" begin="31683750000t" end="31694166667t" region="region0"><span style="style1">你去哪儿了？</span></p>
+<p xml:id="subtitle669" begin="31702916667t" end="31727500000t" region="region0"><span style="style1">安昂 我有事要告诉你</span></p>
+<p xml:id="subtitle670" begin="31728333334t" end="31750833334t" region="region0"><span style="style1">我离开五秒后 朱蒂就跑过来了</span></p>
+<p xml:id="subtitle671" begin="31751666667t" end="31765833334t" region="region0"><span style="style1">整件事差点就黄了</span></p>
+<p xml:id="subtitle672" begin="31766666667t" end="31783333334t" region="region0"><span style="style1">-对不起</span><br/><span style="style1">-没事</span></p>
+<p xml:id="subtitle673" begin="31784166667t" end="31813750000t" region="region0"><span style="style1">我根本就不需要你 我亲自解决了</span></p>
+<p xml:id="subtitle674" begin="31827083334t" end="31839166667t" region="region0"><span style="style1">我已经道歉了 我…</span></p>
+<p xml:id="subtitle675" begin="31871666667t" end="31882500000t" region="region0"><span style="style1">怎么了？</span></p>
+<p xml:id="subtitle676" begin="31895833334t" end="31912916667t" region="region0"><span style="style1">你知道跟踪你的是谁了吗？</span></p>
+<p xml:id="subtitle677" begin="31913750000t" end="31925416667t" region="region0"><span style="style1">是的</span></p>
+<p xml:id="subtitle678" begin="31933333334t" end="31943750000t" region="region0"><span style="style1">我知道了</span></p>
+<p xml:id="subtitle679" begin="31944583334t" end="31980833334t" region="region0"><span style="style1">各位 我们麻烦大了</span></p>
+<p xml:id="subtitle680" begin="32416666667t" end="32444166667t" region="region0"><span style="style1">你们不需要继续担心火烈国军队了</span></p>
+<p xml:id="subtitle681" begin="32470833334t" end="32485833334t" region="region0"><span style="style1">这位就是他们的将军</span></p>
+<p xml:id="subtitle682" begin="32491250000t" end="32515833334t" region="region0"><span style="style1">他反抗了 但不是对手</span></p>
+<p xml:id="subtitle683" begin="32587916667t" end="32627916667t" region="region0"><span style="style1">我们欢迎著名的虚子武士回到永固城</span></p>
+<p xml:id="subtitle684" begin="32866666667t" end="32885833334t" region="region0"><span style="style1">（改编自布萊恩·科尼祖克</span><br/><span style="style1">与迈克尔·但丁·迪马蒂诺的动画）</span></p>
+<p xml:id="subtitle685" begin="34046666667t" end="34075833334t" region="region0"><span style="style1">字幕翻译：张嘉晴</span></p>
+</div>
+</body>
+</tt>
